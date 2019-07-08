@@ -13,7 +13,7 @@ name                     : &name "Shubhra Kanti Karmaker (Santu)"
 description              : &description "personal description"
 url                      : https://karmake2.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "karmake2/karmake2.github.io"
+repository               : "https://github.com/karmake2/personalSite"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
