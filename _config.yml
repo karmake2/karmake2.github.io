@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Shubhra Kanti Karmaker (Santu)"
 description              : &description "personal description"
 url                      : https://karmake2.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/personalSite" # the subpath of your site, e.g. "/blog"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "karmake2/personalSite"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Shubhra Kanti Karmaker (Santu)"
-  avatar           : "blob/master/images/profile.png"
+  avatar           : "profile.png"
   bio              : "Postdoctoral researcher at Massachusetts Institute of Technology (MIT)"
   employer         : 
   location         : "Cambridge, MA, US"
