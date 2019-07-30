@@ -90,13 +90,14 @@ for row, item in publications.iterrows():
         md += "\npresentationurl: ''"
         
     
-    md += "\n---"
+    md += "\n---\n"
 
 
-    md += "\n\n<a href='" + item.paper_url + "'>Download paper here</a>\n" 
+    md += "\n<a href='" + item.paper_url + "'>Download paper here</a>\n"
         
     if len(str(item.abstract)) > 5:
         md += "\n" + html_escape(item.abstract) + "\n"
+
 
     try:
         md +="\n<img src=\'"+item.image_url+"' alt='Image not Loading'>\n"
