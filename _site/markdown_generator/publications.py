@@ -94,15 +94,15 @@ for row, item in publications.iterrows():
 
 
     md += "\n<a href='" + item.paper_url + "'>Download paper here</a>\n"
-        
-    if len(str(item.abstract)) > 5:
-        md += "\n" + html_escape(item.abstract) + "\n"
 
 
     try:
-        md +="\n<img src=\'"+item.image_url+"' alt='Image not Loading'>\n"
+        md +="\n<div style='display: flex; justify-content: center;'><img src=\'"+item.image_url+"' alt='Image not Loading' style='height:300px;' align='middle'></div><br>\n"
     except:
         md +=""
+
+    if len(str(item.abstract)) > 5:
+        md += "\n" + html_escape(item.abstract) + "\n"
     
     md_filename = os.path.basename(md_filename)
        
