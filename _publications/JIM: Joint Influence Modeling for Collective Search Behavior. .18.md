@@ -1,0 +1,15 @@
+---
+title: "JIM: Joint Influence Modeling for Collective Search Behavior. "
+collection: publications
+Authors: 'Shubhra Kanti Karmaker Santu, Liangda Li, Yi Chang, ChengXiang Zhai'
+date: 10/1/2018
+venue: 'ACM CIKM'
+paperurl: 'https://karmake2.github.io/files/Publications/2018/Multivariate_Influence.pdf'
+presentationurl: 'https://karmake2.github.io/files/Publications/2018/JIM.pptx'
+---
+
+<a href='https://karmake2.github.io/files/Publications/2018/Multivariate_Influence.pdf'>Download paper here</a>
+
+Previous work has shown that popular trending events are important external factors which pose significant influence on user search behavior and also provided a way to computationally model this influence. However, their problem formulation was based on the strong assumption that each event poses its influence independently. This assumption is unrealistic as there are many correlated events in the real world which influence each other and thus, would pose a joint influence on the user search behavior rather than posing influence independently. In this paper, we study this novel problem of Modeling the Joint Influences posed by multiple correlated events on user search behavior. We propose a Joint Influence Model based on the Multivariate Hawkes Process which captures the inter-dependency among multiple events in terms of their influence upon user search behavior. We evaluate the proposed Joint Influence Model using two months query-log data from https://search.yahoo.com/. Experimental results show that the model can indeed capture the temporal dynamics of the joint influence over time and also achieves superior performance over different baseline methods when applied to solve various interesting prediction problems as well as real-word application scenarios, e.g., query auto-completion.
+
+<img src='https://karmake2.github.io/files/Publications/2018/JIM2.png' alt='Image not Loading'>
