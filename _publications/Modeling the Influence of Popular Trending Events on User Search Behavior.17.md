@@ -6,8 +6,9 @@ date: 4/1/2017
 venue: 'WWW'
 paperurl: 'https://karmake2.github.io/files/Publications/2017/InfluenceModeling.pdf'
 presentationurl: 'https://karmake2.github.io/files/Publications/2017/WWWPresentation.pptx'
+excerpt: ''
 ---
-
+---
 <a href='https://karmake2.github.io/files/Publications/2017/InfluenceModeling.pdf'>Download paper here</a>
 
 <div style='display: flex; justify-content: center;'><img src='https://karmake2.github.io/files/Publications/2017/JIM1.png' alt='Image not Loading' style='height:300px;' align='middle'></div><br>

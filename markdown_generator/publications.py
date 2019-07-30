@@ -89,8 +89,8 @@ for row, item in publications.iterrows():
     except:
         md += "\npresentationurl: ''"
         
-    
-    md += "\n---\n"
+    md += "\nexcerpt: ''"
+    md += "\n---\n---"
 
 
     md += "\n<a href='" + item.paper_url + "'>Download paper here</a>\n"

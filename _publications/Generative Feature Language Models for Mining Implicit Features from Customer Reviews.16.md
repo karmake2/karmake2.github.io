@@ -6,8 +6,9 @@ date: 10/1/2016
 venue: 'ACM CIKM'
 paperurl: 'https://karmake2.github.io/files/Publications/2016/ImplicitFeatureMining.pdf'
 presentationurl: 'https://karmake2.github.io/files/Publications/2016/CIKMPresentationImplicitFeatures.pptx'
+excerpt: ''
 ---
-
+---
 <a href='https://karmake2.github.io/files/Publications/2016/ImplicitFeatureMining.pdf'>Download paper here</a>
 
 <div style='display: flex; justify-content: center;'><img src='https://karmake2.github.io/files/Publications/2016/ImplicitFeature.png' alt='Image not Loading' style='height:300px;' align='middle'></div><br>

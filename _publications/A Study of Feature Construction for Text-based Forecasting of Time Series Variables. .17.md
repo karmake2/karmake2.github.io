@@ -6,8 +6,9 @@ date: 10/1/2017
 venue: 'ACM CIKM'
 paperurl: 'https://karmake2.github.io/files/Publications/2017/sp0985-wangA.pdf'
 presentationurl: 'https://karmake2.github.io/files/Publications/2017/CIKM2017-poster.pdf'
+excerpt: ''
 ---
-
+---
 <a href='https://karmake2.github.io/files/Publications/2017/sp0985-wangA.pdf'>Download paper here</a>
 
 <div style='display: flex; justify-content: center;'><img src='https://karmake2.github.io/files/Publications/2017/TimeSeries.png' alt='Image not Loading' style='height:300px;' align='middle'></div><br>

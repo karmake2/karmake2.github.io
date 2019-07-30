@@ -6,8 +6,9 @@ date: 10/1/2018
 venue: 'ACM CIKM'
 paperurl: 'https://karmake2.github.io/files/Publications/2018/Multivariate_Influence.pdf'
 presentationurl: 'https://karmake2.github.io/files/Publications/2018/JIM.pptx'
+excerpt: ''
 ---
-
+---
 <a href='https://karmake2.github.io/files/Publications/2018/Multivariate_Influence.pdf'>Download paper here</a>
 
 <div style='display: flex; justify-content: center;'><img src='https://karmake2.github.io/files/Publications/2018/JIM2.png' alt='Image not Loading' style='height:300px;' align='middle'></div><br>

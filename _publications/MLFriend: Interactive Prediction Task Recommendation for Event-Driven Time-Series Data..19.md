@@ -6,8 +6,9 @@ date: 7/1/2019
 venue: 'Arxiv Preprint'
 paperurl: 'https://karmake2.github.io/files/Publications/2019/MLFriend.pdf'
 presentationurl: ''
+excerpt: ''
 ---
-
+---
 <a href='https://karmake2.github.io/files/Publications/2019/MLFriend.pdf'>Download paper here</a>
 
 <div style='display: flex; justify-content: center;'><img src='https://karmake2.github.io/files/Publications/2019/MLFriend.png' alt='Image not Loading' style='height:300px;' align='middle'></div><br>

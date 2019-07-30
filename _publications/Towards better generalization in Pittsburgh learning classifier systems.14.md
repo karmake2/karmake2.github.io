@@ -6,8 +6,9 @@ date: 10/1/2014
 venue: 'IEEE Congress on Evolutionary Computation'
 paperurl: 'https://karmake2.github.io/files/Publications/2014/CEC_EDARIC.pdf'
 presentationurl: 'https://karmake2.github.io/files/Publications/2014/EDARIC_Presenation.pptx'
+excerpt: ''
 ---
-
+---
 <a href='https://karmake2.github.io/files/Publications/2014/CEC_EDARIC.pdf'>Download paper here</a>
 
 <div style='display: flex; justify-content: center;'><img src='https://karmake2.github.io/files/Publications/2014/CEC_EDARIC.png' alt='Image not Loading' style='height:300px;' align='middle'></div><br>

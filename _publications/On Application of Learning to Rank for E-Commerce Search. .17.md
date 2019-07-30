@@ -6,8 +6,9 @@ date: 8/1/2017
 venue: 'ACM SIGIR'
 paperurl: 'https://karmake2.github.io/files/Publications/2017/LETOR_ECOM.pdf'
 presentationurl: 'https://karmake2.github.io/files/Publications/2017/SIGIRPresentation.pptx'
+excerpt: ''
 ---
-
+---
 <a href='https://karmake2.github.io/files/Publications/2017/LETOR_ECOM.pdf'>Download paper here</a>
 
 <div style='display: flex; justify-content: center;'><img src='https://karmake2.github.io/files/Publications/2017/Ecom.png' alt='Image not Loading' style='height:300px;' align='middle'></div><br>

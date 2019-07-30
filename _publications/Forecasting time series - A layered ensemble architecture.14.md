@@ -6,8 +6,9 @@ date: 10/1/2014
 venue: 'IJCNN'
 paperurl: 'https://karmake2.github.io/files/Publications/2014/IJCNN_TSF.pdf'
 presentationurl: ''
+excerpt: ''
 ---
-
+---
 <a href='https://karmake2.github.io/files/Publications/2014/IJCNN_TSF.pdf'>Download paper here</a>
 
 <div style='display: flex; justify-content: center;'><img src='https://karmake2.github.io/files/Publications/2014/IJCNN_TSF.png' alt='Image not Loading' style='height:300px;' align='middle'></div><br>

@@ -6,8 +6,9 @@ date: 10/1/2018
 venue: 'WPES@ACM CCS'
 paperurl: 'https://karmake2.github.io/files/Publications/2018/NRF.pdf'
 presentationurl: 'https://karmake2.github.io/files/Publications/2018/NRF.pptx'
+excerpt: ''
 ---
-
+---
 <a href='https://karmake2.github.io/files/Publications/2018/NRF.pdf'>Download paper here</a>
 
 <div style='display: flex; justify-content: center;'><img src='https://karmake2.github.io/files/Publications/2018/NRF.png' alt='Image not Loading' style='height:300px;' align='middle'></div><br>
