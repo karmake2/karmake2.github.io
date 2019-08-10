@@ -4,9 +4,6 @@
 <loc>/portfolio/portfolio-1/</loc>
 </url>
 <url>
-<loc>/portfolio/portfolio-2/</loc>
-</url>
-<url>
 <loc>/posts/2012/08/blog-post-1/</loc>
 <lastmod>2012-08-14T00:00:00-07:00</lastmod>
 </url>
@@ -143,6 +140,10 @@
 </url>
 <url>
 <loc>/markdown_generator/</loc>
+</url>
+<url>
+<loc>/files/CV.pdf</loc>
+<lastmod>2019-07-16T17:50:24-07:00</lastmod>
 </url>
 <url>
 <loc>/files/Publications/2014/CEC_EDARIC.pdf</loc>
