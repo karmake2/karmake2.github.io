@@ -3,7 +3,7 @@ title: "SOFSAT: Towards a Setlike Operator based Framework for Semantic Analysis
 collection: publications
 Authors: 'Shubhra Kanti Karmaker Santu, C. Geigle, D. C. Ferguson, W. Cope, M. Kalantzis, D. Searsmith, Chengxiang Zhai'
 date: 11/1/2018
-venue: 'ACM SIGKDD Explorations'
+venue: 'ACM SIGKDD Explorations [Position Paper] '
 paperurl: 'https://karmake2.github.io/files/Publications/2018/SOFSAT.pdf'
 presentationurl: ''
 excerpt: ''

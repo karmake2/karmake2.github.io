@@ -3,7 +3,7 @@ title: "MLFriend: Interactive Prediction Task Recommendation for Event-Driven Ti
 collection: publications
 Authors: 'Lei Xu, Shubhra Kanti Karmaker Santu, Kalyan Veeramachaneni'
 date: 7/1/2019
-venue: 'Arxiv Preprint'
+venue: 'Arxiv [Preprint] '
 paperurl: 'https://karmake2.github.io/files/Publications/2019/MLFriend.pdf'
 presentationurl: ''
 excerpt: ''

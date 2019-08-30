@@ -3,7 +3,7 @@ title: "A Study of Feature Construction for Text-based Forecasting of Time Serie
 collection: publications
 Authors: 'Yiren Wang, Dominic Seyler, Shubhra Kanti Karmaker Santu, ChengXiang Zhai'
 date: 10/1/2017
-venue: 'ACM CIKM'
+venue: 'ACM CIKM [Short Paper] '
 paperurl: 'https://karmake2.github.io/files/Publications/2017/sp0985-wangA.pdf'
 presentationurl: 'https://karmake2.github.io/files/Publications/2017/CIKM2017-poster.pdf'
 excerpt: ''
