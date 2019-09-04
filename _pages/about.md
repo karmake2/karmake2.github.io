@@ -25,6 +25,8 @@ My name is Shubhra Kanti Karmaker ("Santu"). I am a Postdoctoral Research Associ
 
 News and Announcements
 ======
+1. <span style="color:blue">[August 2019] </span>  I am serving as a PC member of WSDM 2020.
+1. <span style="color:blue">[August 2019] </span>  I am serving as a PC member of IUI 2020.
 1. <span style="color:blue">[August 2019] </span>  Paper Accepted at CoNLL 2019.
 1. <span style="color:blue">[July 2019] </span>  [MLFriend](https://arxiv.org/abs/1906.12348) pre-print is out.
 1. <span style="color:blue">[March 2019] </span> I am joining  Auburn University as a tenure-track assistant professor in the department of Computer Science from Spring 2020!! I am looking for Highly motivated PhD students. If interested, shoot me an email.
