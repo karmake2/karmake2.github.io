@@ -27,6 +27,7 @@ redirect_from:
 				<li> Reviewer, IEEE Transactions on Knowledge and Data Engineering (TKDE). </li>
 				<li> Reviewer, IEEE Transactions on Neural Networks and Learning Systems (TNNLS). </li>
 				<li> Reviewer, Neuro-Computing Journal. </li>
+				<li> Reviewer, Data Science and Engineering Journal. </li>
 			</ol>
 		</td>
 
