@@ -3,7 +3,7 @@ title: "Neural Language Models with Evolving Topical Influence"
 collection: publications
 Authors: 'Shubhra Kanti Karmaker Santu, Kalyan Veeramachaneni, ChengXiang Zhai'
 date: 9/1/2019
-venue: 'ACL SIGNLL CoNLL [To appear] '
+venue: 'ACL SIGNLL CoNLL'
 paperurl: 'https://karmake2.github.io/files/Publications/2019/TILM.pdf'
 presentationurl: 'Coming soon'
 excerpt: ''

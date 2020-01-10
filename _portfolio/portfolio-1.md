@@ -5,11 +5,19 @@ collection: portfolio
 
 <table class="table__tablenospace">
 	<tr>
+		<td class="table__tablenospace"><img src='/images/auburn.png' style='height:100px;width:100px'></td>
+		<td class="table__tablenospace" align="left">
+			<span style="color:black; font-size:17px"> 
+				<font color="brown" size="5"><b>Auburn University</b></font><br/>
+				Assistant Professor [January, 2020 - Current]<br/>
+				Department: <a href="https://www.eng.auburn.edu/comp/">Computer Science and Software Engineering</a></span></td>
+ 	</tr>
+	<tr>
 		<td class="table__tablenospace"><img src='/images/MIT.png' style='height:100px;width:100px'></td>
 		<td class="table__tablenospace" align="left">
 			<span style="color:black; font-size:17px"> 
 				<font color="brown" size="5"><b>Massachusetts Institute of Technology (MIT)</b></font><br/>
-				Postdoctoral Scholar [February, 2019 - Current]<br/>
+				Postdoctoral Scholar [February, 2019 - December, 2019]<br/>
 				Host: <a href="https://kalyan.lids.mit.edu/">Dr. Kalyan Veeramachaneni</a><br/>
 				Lab: <a href="https://lids.mit.edu/">Laboratory for Information and Decision Systems (LIDS)</a></span></td>
  	</tr>

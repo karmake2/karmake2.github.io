@@ -3,7 +3,7 @@ title: "Analysis of Adaptive Training for Learning to Rank in Information Retrie
 collection: publications
 Authors: 'Saar Kuzi, Sahiti Labhishetty, Shubhra Kanti Karmaker Santu, Prasad Pradip Joshi and ChengXiang Zhai'
 date: 8/1/2019
-venue: 'ACM CIKM [To appear] '
+venue: 'ACM CIKM'
 paperurl: 'https://karmake2.github.io/files/Publications/2019/Robust_LTR.pdf'
 presentationurl: 'Coming soon'
 excerpt: ''
