@@ -18,7 +18,7 @@ My name is Shubhra Kanti Karmaker ("Santu"). I am a Tenure-Track Assistant Profe
  </tr>
  <tr>
     <td style="border: none;" align="left" width="500"> <img src="images/ResearchInterest.png" alt="" /></td>
-    <td style="border: none;" align="center"><span style="color:red; font-size:17px"> I recently joined Auburn University as a tenure-track assistant professor in the department of Computer Science from Spring 2020!! I am looking for Highly motivated PhD students. If interested, send me an email</span></td>
+    <td style="border: none;" align="center"><span style="color:red; font-size:17px"> I recently joined Auburn University as a tenure-track assistant professor in the department of Computer Science from Spring 2020!! I am looking for Highly motivated PhD students. If interested, send me an email. Put "Prospective Gratuate Student at Auburn" in subject.</span></td>
  </tr>
 </table>
 

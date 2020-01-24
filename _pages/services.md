@@ -13,6 +13,7 @@ redirect_from:
 		<td class="table__tablenospace">
 			<h2>Conference Reviewing</h2>
 			<ol>
+				<li> PC member, SIGIR 2020. </li>
 				<li> PC member, ACL 2019. </li>
 				<li> PC member, WSDM [2020,2019]. </li>
 				<li> PC member, IUI [2020,2019]. </li>
