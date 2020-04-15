@@ -1,5 +1,5 @@
 ---
-title: "Fall 2020: Information Retrieval"
+title: "Spring 2020: Information Retrieval"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2020-spring-teaching-3
