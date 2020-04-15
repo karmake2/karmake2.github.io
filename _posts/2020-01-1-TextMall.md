@@ -17,7 +17,7 @@ The Text-Mall platform consists of two primary components: 1) Framework: a gener
 
 Here is an example use-case of TextMall agent:
 
-<div style='display: flex; justify-content: center;'><img src='https://karmake2.github.io/images/TextMall.png' alt='Image not Loading' style='height:300px;' align='middle'></div><br>
+<div style='display: flex; justify-content: center;'><img src='https://karmake2.github.io/images/TextMall.png' alt='Image not Loading' style='height:450px;' align='middle'></div><br>
 
 
 This is the high level architecture of TextMall agent:
