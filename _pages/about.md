@@ -18,15 +18,18 @@ My name is Shubhra Kanti Karmaker ("Santu"). I am a Tenure-Track Assistant Profe
  </tr>
  <tr>
     <td style="border: none;" align="left" width="500"> <img src="images/ResearchInterest.png" alt="" /></td>
-    <td style="border: none;" align="center"><span style="color:red; font-size:17px"> I am no longer hiring for academic year 2020-2021. Interested candidates may contact for Fall 2021 admission in Spring 2021 !!!</span></td>
+    <td style="border: none;" align="center"><span style="color:red; font-size:17px"> I am looking for motivated PhD students with solid analytical skills with a strong interest in machine learning. Interested candidates may contact through email with subject "Prospective PhD Student"</span></td>
  </tr>
 </table>
 
 
 News and Announcements
 ======
+1. <span style="color:blue">[October 2020] </span>  Best Poster Nomination at CIKM 2020 !!!
+1. <span style="color:blue">[September 2020] </span>  I am serving as a PC member of SIGIR 2021.
+1. <span style="color:blue">[August 2020] </span>  I am serving as a PC member of WSDM 2021.
+1. <span style="color:blue">[July 2020] </span>  I am serving as a PC member of IUI 2021.
 1. <span style="color:blue">[January 2020] </span>  Joined Auburn University.
-1. <span style="color:blue">[August 2019] </span>  I am serving as a PC member of WSDM 2020.
-1. <span style="color:blue">[August 2019] </span>  I am serving as a PC member of IUI 2020.
-1. <span style="color:blue">[August 2019] </span>  Paper Accepted at CoNLL 2019.
-1. <span style="color:blue">[July 2019] </span>  [MLFriend](https://arxiv.org/abs/1906.12348) pre-print is out.
+
+
+
