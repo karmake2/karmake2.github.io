@@ -1,7 +1,10 @@
 ---
+layout: archive
 title: "Professional Experience"
-collection: portfolio
+author_profile: true
 ---
+
+Below is a summary of my professional experiences.
 
 <table class="table__tablenospace">
 	<tr>
@@ -28,8 +31,7 @@ collection: portfolio
 				<font color="brown" size="5"><b>University of Illinois Urbana Champaign (UIUC)</b></font><br/>
 				Graduate Research Assistant [August,2014 - December, 2018]<br/>
 				Advisor: <a href="hhttp://czhai.cs.illinois.edu/">Prof. Chengxiang Zhai</a><br/>
-				Lab: <a href="http://sifaka.cs.uiuc.edu/ir/">TIMAN</a></span></td>
-    		
+				Lab: <a href="http://sifaka.cs.uiuc.edu/ir/">TIMAN</a></span></td>		
  	</tr>
 	<tr>
 		<td class="table__tablenospace"><img src='/images/Microsoft.png' style='height:100px;;width:100px'></td>
@@ -40,7 +42,6 @@ collection: portfolio
 				Mentor: <a href="https://www.microsoft.com/en-us/research/people/rihamma/">Riham Mansour</a><br/>
 				Lab: <a href="https://www.microsoft.com/en-us/research/group/future-social-experiences-fuse-labs/">FUSE Labs</a></span></td>
  	</tr>
-	
 	<tr>
 		<td class="table__tablenospace"><img src='/images/MSR.png' style='height:100px;;width:100px'></td>
 		<td class="table__tablenospace" width="600px">
@@ -50,8 +51,6 @@ collection: portfolio
 				Mentor: <a href="https://www.haoma.io/">Hao Ma</a><br/>
 				Lab: <a href="https://www.microsoft.com/en-us/research/">Microsoft Research, Redmond</a></span></td>
  	</tr>
-	
-	
 	<tr>
 		<td class="table__tablenospace"><img src='/images/Yahoo.png' style='height:100px;;width:100px'></td>
 		<td class="table__tablenospace" width="600px">
@@ -61,7 +60,6 @@ collection: portfolio
 				Mentor: <a href="http://www.yichang-cs.com/">Yi Chang</a><br/>
 				Lab: <a href="https://research.yahoo.com/">Yahoo Research, Sunnyvale</a></span></td>
  	</tr>
-	
 	<tr>
 		<td class="table__tablenospace"><img src='/images/Walmart.png' style='height:100px;;width:100px'></td>
 		<td class="table__tablenospace" width="600px">
@@ -71,7 +69,6 @@ collection: portfolio
 				Mentor: <a href="https://psondhiblog.wordpress.com/">Prikshit Sondhi</a><br/>
 				Lab: <a href="https://www.walmartlabs.com/">@WalmartLabs, Sunnyvale</a></span></td>
  	</tr>
- 	
  	<tr>
 		<td class="table__tablenospace"><img src='/images/BUET.png' style='height:100px;;width:100px'></td>
 		<td class="table__tablenospace" width="600px">
