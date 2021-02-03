@@ -25,6 +25,9 @@ My name is Shubhra Kanti Karmaker ("Santu"). I am a Tenure-Track Assistant Profe
 
 News and Announcements
 ======
+1. <span style="color:blue">[January 2021] </span>  Demo accepted at IUI 2021 !
+1. <span style="color:blue">[January 2021] </span>  I am serving as a PC member of ACL 2021 !
+1. <span style="color:blue">[January 2021] </span>  I am serving as a PC member of KDD 2021 !
 1. <span style="color:blue">[October 2020] </span>  Best Poster Nomination at CIKM 2020 !!!
 1. <span style="color:blue">[September 2020] </span>  I am serving as a PC member of SIGIR 2021.
 1. <span style="color:blue">[August 2020] </span>  I am serving as a PC member of WSDM 2021.
