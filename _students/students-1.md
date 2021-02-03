@@ -15,6 +15,25 @@ author_profile: true
 				PhD Student [January, 2020 - Current]<br/>
 				Profile: <a href="https://www.eng.auburn.edu/comp/">Computer Science and Software Engineering</a></span></td>
  	</tr>
+	
+	<tr>
+		<td class="table__tablenospace"><img src='/images/students/Ahmed.png' style='height:100px;width:100px'></td>
+		<td class="table__tablenospace" align="left">
+			<span style="color:black; font-size:17px"> 
+				<font color="brown" size="5"><b>Ahmed Mostafa</b></font><br/>
+				PhD Student [January, 2020 - Current]<br/>
+				Profile: <a href="https://www.eng.auburn.edu/comp/">Computer Science and Software Engineering</a></span></td>
+ 	</tr>
+	
+	<tr>
+		<td class="table__tablenospace"><img src='/images/students/Ahmed.png' style='height:100px;width:100px'></td>
+		<td class="table__tablenospace" align="left">
+			<span style="color:black; font-size:17px"> 
+				<font color="brown" size="5"><b>Ahmed Mostafa</b></font><br/>
+				PhD Student [January, 2020 - Current]<br/>
+				Profile: <a href="https://www.eng.auburn.edu/comp/">Computer Science and Software Engineering</a></span></td>
+ 	</tr>
+	
 	<tr>
 		<td class="table__tablenospace"><img src='/images/students/Alex.png' style='height:100px;width:100px'></td>
 		<td class="table__tablenospace" align="left">
