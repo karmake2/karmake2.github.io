@@ -19,8 +19,8 @@ My name is Shubhra Kanti Karmaker ("Santu"). I am a Tenure-Track Assistant Profe
  <tr>
     <td style="border: none;" align="left" width="500"> <img src="images/ResearchInterest.png" alt="" /></td>
     <td style="border: none;" align="center"><span style="color:red; font-size:17px"> 
-    1. I am serving as a PC member of ACL 2021, KDD 2021, SIGIR 2021 and WSDM 2021.
-    1. I am no longer hiring students for this upcoming academic year.
+    1. I am serving as a PC member of ACL 2021, KDD 2021, SIGIR 2021 and WSDM 2021.!!!!<br/><br/>
+    2. I am no longer hiring students for this upcoming academic year.
     </span>
     </td>
  </tr>
