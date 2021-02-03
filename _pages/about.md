@@ -18,7 +18,7 @@ My name is Shubhra Kanti Karmaker ("Santu"). I am a Tenure-Track Assistant Profe
  </tr>
  <tr>
     <td style="border: none;" align="left" width="500"> <img src="images/ResearchInterest.png" alt="" /></td>
-    <td style="border: none;" align="center"><span style="color:red; font-size:17px"> I am looking for motivated PhD students with solid analytical skills with a strong interest in machine learning. Interested candidates may contact through email with subject "Prospective PhD Student"</span></td>
+    <td style="border: none;" align="center"><span style="color:red; font-size:17px"> I am no longer hiring students for this upcoming academic year.</span></td>
  </tr>
 </table>
 
