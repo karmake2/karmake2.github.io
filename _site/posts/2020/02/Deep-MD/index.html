@@ -19,7 +19,7 @@
 
 
 
-<title>Project VIDS: Virtual Interactive Data Scientist - Academic Homepage</title>
+<title>Project Robust IR Evaluation - Academic Homepage</title>
 
 
 
@@ -29,15 +29,15 @@
 
 <meta property="og:locale" content="en-US">
 <meta property="og:site_name" content="Academic Homepage">
-<meta property="og:title" content="Project VIDS: Virtual Interactive Data Scientist">
+<meta property="og:title" content="Project Robust IR Evaluation">
 
 
-  <link rel="canonical" href="https://github.com/pages/karmake2/karmake2.github.io/posts/2020/02/VIDS/">
-  <meta property="og:url" content="https://github.com/pages/karmake2/karmake2.github.io/posts/2020/02/VIDS/">
+  <link rel="canonical" href="https://github.com/pages/karmake2/karmake2.github.io/posts/2020/02/Deep-MD/">
+  <meta property="og:url" content="https://github.com/pages/karmake2/karmake2.github.io/posts/2020/02/Deep-MD/">
 
 
 
-  <meta property="og:description" content="What if an AI agent can serve you as your personal data scientist? Isn’t that cool?">
+  <meta property="og:description" content="We propose the new framework of IR evaluation with both upper and lower bound (UL) normalization of traditional metrics and systematically study the effect of UL-normalization on three popular evaluation metrics. We also propose three different variations of the proposed upper and lower bound (UL) normalized evaluation framework and experiment each of them with three evaluation metrics individually, creating nine new evaluation metrics in total. We show how we can compute more realistic query-specific lower-bounds for evaluation metrics by computing their expected values for each query in case of a randomized ranking of the corresponding documents. We also theoretically prove their correctness.">
 
 
 
@@ -52,7 +52,7 @@
 
 
   <meta property="og:type" content="article">
-  <meta property="article:published_time" content="2020-10-02T00:00:00-07:00">
+  <meta property="article:published_time" content="2020-02-01T00:00:00-08:00">
 
 
 
@@ -269,29 +269,29 @@
 
 
   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
-    <meta itemprop="headline" content="Project VIDS: Virtual Interactive Data Scientist">
-    <meta itemprop="description" content="What if an AI agent can serve you as your personal data scientist? Isn’t that cool?">
-    <meta itemprop="datePublished" content="October 02, 2020">
+    <meta itemprop="headline" content="Project Robust IR Evaluation">
+    <meta itemprop="description" content="We propose the new framework of IR evaluation with both upper and lower bound (UL) normalization of traditional metrics and systematically study the effect of UL-normalization on three popular evaluation metrics. We also propose three different variations of the proposed upper and lower bound (UL) normalized evaluation framework and experiment each of them with three evaluation metrics individually, creating nine new evaluation metrics in total. We show how we can compute more realistic query-specific lower-bounds for evaluation metrics by computing their expected values for each query in case of a randomized ranking of the corresponding documents. We also theoretically prove their correctness.">
+    <meta itemprop="datePublished" content="February 01, 2020">
     
 
     <div class="page__inner-wrap">
       
         <header>
-          <h1 class="page__title" itemprop="headline">Project VIDS: Virtual Interactive Data Scientist
+          <h1 class="page__title" itemprop="headline">Project Robust IR Evaluation
 </h1>
           
             <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
 
 
   
-	  2 minute read
+	  3 minute read
 	
 </p>
           
         
         
         
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2020-10-02T00:00:00-07:00">October 02, 2020</time></p>
+          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2020-02-01T00:00:00-08:00">February 01, 2020</time></p>
         
         
              
@@ -301,25 +301,16 @@
       
 
       <section class="page__content" itemprop="text">
-        <p>What if an AI agent can serve you as your personal data scientist? Isn’t that cool?</p>
+        <p>We propose the new framework of IR evaluation with both upper and lower bound (UL) normalization of traditional metrics and systematically study the effect of UL-normalization on three popular evaluation metrics. We also propose three different variations of the proposed upper and lower bound (UL) normalized evaluation framework and experiment each of them with three evaluation metrics individually, creating nine new evaluation metrics in total. We show how we can compute more realistic query-specific lower-bounds for evaluation metrics by computing their expected values for each query in case of a randomized ranking of the corresponding documents. We also theoretically prove their correctness.</p>
 
-<h1 id="overview-of-project-vids-a-conversational-ai-agent-to-help-with-data-science-tasks">Overview of Project VIDS (a conversational AI agent to help with Data Science Tasks)</h1>
-<p>Automated machine learning (AutoML) is the process of automating the application of machine learning to real-world problems. The primary goals of AutoML tools are to provide methods and processes to make Machine Learning available for non-Machine Learning experts (domain experts), to improve efficiency of Machine Learning, and to accelerate research on Machine Learning. But although automation and efficiency are some of AutoML’s main selling points, the process still requires a surprising level of human involvement. A number of vital steps of the machine learning pipeline, including understanding the attributes of domain-specific data, defining prediction problems, creating a suitable training data set etc., still tend to be done manually by a data scientist or a machine learning engineer on an ad-hoc basis.</p>
+<h1 id="overview-of-project-robust-ir-evaluation">Overview of Project Robust IR Evaluation</h1>
+<p>Previous studies have shown that popular Information Retrieval (IR) evaluation metrics, e.g., $nDCG$, $ERR$, $MAP$, are not robust with respect to the variation of the cutoff rank $k$. In this paper, our main goal is to investigate how we can make IR evaluation metrics more robust; more specifically, less sensitive to the variation of cutoff $k$. We start our investigation with the observation that both $nDCG$ and $MAP$ metrics only involve query-specific upper-bound normalization (e.g., normalization with Ideal DCG for $nDCG$ computation); however, none of them include a query-specific lower-bound normalization. For $ERR$, it has neither upper nor lower-bound normalization. We then hypothesize that the high sensitivity of conventional IR evaluation metrics w.r.t. cutoff $k$ is partly due to the fact that none of them include a query-specific lower-bound normalization. To test this hypothesis, we proposed a new general framework for IR evaluation with both upper and lower bound normalization, instantiated the new framework for three popular IR evaluation metrics: $nDCG$, $ERR$, $MAP$ and compared against the corresponding traditional metrics without the proposed normalization. Experimental results show that the proposed upper and lower bound normalized version is indeed more robust (less sensitive) w.r.t. the variation of $k$ for all three metrics studied, decreasing the standard deviation of the original metrics substantially (on average around {68%}) and thus, proving our hypothesis. Hence, we urge the community to use both upper and lower bound normalization while evaluating any IR system from now onward.</p>
 
-<p>How can we build an end-to-end automated pipeline of machine learning and enable domain experts to directly engage with the fascinating world of big data, and thus make the machine learning pipeline more efficient and appealing? We propose to address this question by laying out his vision for a Virtual Interactive Data Scientist (VIDS). VIDS can be thought of as an intelligent agent which, given a large corpus of data, starts talking to the domain experts like a human data scientist in order to quickly figure out the user’s need and explore alternative prediction opportunities. It will automatically formulate different prediction tasks, as well as explore alternative learning models to recommend the best one to the users.</p>
-
-<p>Here is an example use-case of VIDS agent:</p>
-
-<div style="display: flex; justify-content: center;"><img src="https://karmake2.github.io/images/VIDS.png" alt="Image not Loading" style="height:500px;" align="middle" /></div>
+<div style="display: flex; justify-content: center;"><img src="https://karmake2.github.io/images/nDCG-robust.png" alt="Image not Loading" style="height:450px;" align="middle" /></div>
 <p><br /></p>
 
-<p>This is the high level architecture of VIDS agent:</p>
-<div style="display: flex; justify-content: center;"><img src="https://karmake2.github.io/images/VIDSCycleVertical.png" alt="Image not Loading" style="height:500px;" align="middle" /></div>
-<p><br /></p>
-
-<h1 id="impact-of-project-vids">Impact of Project VIDS</h1>
-<p>VIDS will communicate with users like a human data scientist and quickly understand their needs. It will translate these needs into well-defined prediction tasks. VIDS will enable the domain experts to directly engage with the fascinating world of big data without worrying about the underlying detailed knowledge of machine learning. VIDS will also automate many of the routine tasks performed by a <em>human</em> Data Scientist. Although this is a highly ambitious goal, if reached, it will expedite the implementation of machine learning systems allowing ML to appeal to a far broader audience across various domains. In Summary, VIDS will enable end-users (machine learning non-experts) to interactively play with infinite combinations of different prediction tasks and AutoML models by tweaking a minimal number of hyper-parameters and task preferences.</p>
-
+<h1 id="impact-of-project-deep-md">Impact of Project Deep-MD</h1>
+<p>Empirical evaluation is a key challenge for any information retrieval (IR) system. The success of an IR system largely depends on the user’s satisfaction, thus an accurate evaluation metric is very important for measuring the perceived utility of a retrieval system by the real users. However, previous studies have shown that popular IR evaluation metrics, like $nDCG$, $ERR$, $MAP$, are not robust in terms of accurately capturing the utility perceived by an individual user. For example, in most existing works, $nDCG$ is computed for a user-defined cutoff $k$, i.e., $nDCG@k$, across all queries by taking an average over them. Unfortunately, this practice is problematic for two reasons: 1) Every query is different and the same cut-off $k$ does not accurately capture a user’s browsing behavior as well as their perceived utility for all different queries, and 2) Given a particular query, the relative performances of different ranking methods (in terms of $nDCG@k$) vary heavily as we vary $k$ and at the same time, result in high standard deviation (SD) in $nDCG@k$ scores for varying $k$. This clearly suggests the current practice of computing $nDCG@k$ is not robust. In this project, we are working towards addressing these limitations.</p>
 
         
       </section>
@@ -365,11 +356,11 @@
     <h4 class="page__share-title">Share on</h4>
   
 
-  <a href="https://twitter.com/intent/tweet?text=/posts/2020/02/VIDS/" class="btn btn--twitter" title="Share on Twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
+  <a href="https://twitter.com/intent/tweet?text=/posts/2020/02/Deep-MD/" class="btn btn--twitter" title="Share on Twitter"><i class="fab fa-twitter" aria-hidden="true"></i><span> Twitter</span></a>
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u=/posts/2020/02/VIDS/" class="btn btn--facebook" title="Share on Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u=/posts/2020/02/Deep-MD/" class="btn btn--facebook" title="Share on Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url=/posts/2020/02/VIDS/" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url=/posts/2020/02/Deep-MD/" class="btn btn--linkedin" title="Share on LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 </section>
 
       
@@ -377,11 +368,11 @@
 
   <nav class="pagination">
     
-      <a href="/posts/2020/01/Annotate/" class="pagination--pager" title="Project Annotate: Concept Annotation from Users Perspective
+      <a href="/posts/2020/01/Deep-MD/" class="pagination--pager" title="Project Deep-MD: Molecular Dynamics Modeling with Deep Time series Forecasting
 ">Previous</a>
     
     
-      <a href="/posts/2020/01/TextMall/" class="pagination--pager" title="Project TextMall: Text-Mining Made Simple for All
+      <a href="/posts/2020/03/A2I-MOOC/" class="pagination--pager" title="Project A2I-MOOC: Artificially Intelligent and Interactive MOOCs
 ">Next</a>
     
   </nav>
@@ -439,6 +430,54 @@
     
     
     	<p class="archive__item-excerpt" itemprop="description"><p>The objective of this research is to develop a general-purpose text analytics platform, i.e., Text-Mall, which would enable real-world users to easily explore the power of Text-Mining in a simple and interactive fashion without worrying about the underlying details of Natural Language Processing.</p>
+
+</p>
+    
+
+  </article>
+</div>
+
+        
+          
+
+
+
+
+
+<div class="grid__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="/posts/2020/02/VIDS/" rel="permalink">Project VIDS: Virtual Interactive Data Scientist
+</a>
+      
+    </h2>
+    
+    
+      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
+
+
+  
+	  2 minute read
+	
+</p>
+    
+
+    
+         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2020-10-02T00:00:00-07:00">October 02, 2020</time></p>
+    
+
+    
+    
+    
+    
+    
+		</p>
+    
+    
+    	<p class="archive__item-excerpt" itemprop="description"><p>What if an AI agent can serve you as your personal data scientist? Isn’t that cool?</p>
 
 </p>
     
@@ -535,54 +574,6 @@
     
     
     	<p class="archive__item-excerpt" itemprop="description"><p>MOOCs have abysmal retention rates (5-15%) and high student failure rates (7-13%). In this project, we propose two ways to increase student engagement in MOOCs and other online courses through an artificially intelligent system that leverages machine learning and natural language processing. This system will (1) process, prioritize and organize students’ questions in real-time and provide the most relevant questions to instructors for answering during their live lectures, and (2) automate the creation of breakout rooms (which have recently become popular in Zoom classes) based on high-interest topics emerging from student questions and populated by like-minded students during live lectures.</p>
-
-</p>
-    
-
-  </article>
-</div>
-
-        
-          
-
-
-
-
-
-<div class="grid__item">
-  <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
-    
-
-    <h2 class="archive__item-title" itemprop="headline">
-      
-        <a href="/posts/2020/02/Deep-MD/" rel="permalink">Project Robust IR Evaluation
-</a>
-      
-    </h2>
-    
-    
-      <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> 
-
-
-  
-	  3 minute read
-	
-</p>
-    
-
-    
-         <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> Published:</strong> <time datetime="2020-02-01T00:00:00-08:00">February 01, 2020</time></p>
-    
-
-    
-    
-    
-    
-    
-		</p>
-    
-    
-    	<p class="archive__item-excerpt" itemprop="description"><p>We propose the new framework of IR evaluation with both upper and lower bound (UL) normalization of traditional metrics and systematically study the effect of UL-normalization on three popular evaluation metrics. We also propose three different variations of the proposed upper and lower bound (UL) normalized evaluation framework and experiment each of them with three evaluation metrics individually, creating nine new evaluation metrics in total. We show how we can compute more realistic query-specific lower-bounds for evaluation metrics by computing their expected values for each query in case of a randomized ranking of the corresponding documents. We also theoretically prove their correctness.</p>
 
 </p>
     
