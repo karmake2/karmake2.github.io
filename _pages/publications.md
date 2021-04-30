@@ -14,7 +14,7 @@ author_profile: true
 
 <ol reversed>
 
-<li> <b>[IUI 2021]  &emsp;</b> Biddut Sarker Bijoy, Syeda Jannatus Saba, Souvika Sarkar, Md Saiful Islam, Sheikh Rabiul Islam, Md. Ruhul Amin and <b>Shubhra Kanti Karmaker</b>. "<i>COVID19𝛼: Interactive Spatio-Temporal Visualization of COVID-19 Symptoms through Tweet Analysis</i>". In ACM IUI 2021.  <a href="https://karmake2.github.io/files/Publications/2020/NDCG.pdf">Paper</a>  <a href="https://karmake2.github.io/files/Publications/2020/NDCG.pdf">Presentation</a>	</li>
+<li> <b>[IUI 2021]  &emsp;</b> Biddut Sarker Bijoy, Syeda Jannatus Saba, Souvika Sarkar, Md Saiful Islam, Sheikh Rabiul Islam, Md. Ruhul Amin and <b>Shubhra Kanti Karmaker</b>. "<i>COVID19𝛼: Interactive Spatio-Temporal Visualization of COVID-19 Symptoms through Tweet Analysis</i>". In ACM IUI 2021.  <a href="https://karmake2.github.io/files/Publications/2020/COVID19.pdf">Paper</a>  <a href="https://bijoy-sust.github.io/Covid19/">Demo</a>	<a href="https://drive.google.com/file/d/1Buj9xNEZsKLLSSjaqnuWrynIJ4qWmeMC/view?usp=sharing">Video Tutorial</a></li>
 
 <li> <b>[CIKM 2020] </b><span style="color:red"> [**Best Poster Nomination**]</span>  &emsp;<b>Shubhra Kanti Karmaker Santu</b>, Parikshit Sondhi and ChengXiang Zhai. "<i>Empirical Analysis of Impact of Query-Specific Customization of nDCG: A Case-Study with Learning-to-Rank Methods</i>". In ACM CIKM, 2020. 	<a href="https://karmake2.github.io/files/Publications/2020/NDCG.pdf">Paper</a>  <a href="https://karmake2.github.io/files/Publications/2020/NDCG.pdf">Presentation</a></li>
 

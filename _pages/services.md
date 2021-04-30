@@ -14,11 +14,13 @@ redirect_from:
 			<h2>Conference Reviewing</h2>
 			<ol>
 				<li> PC member, SIGIR [2021, 2020]. </li>
-				<li> PC member, ACL 2019. </li>
+				<li> PC member, ACL [2021, 2019]. </li>
+				<li> PC member, KDD [2021]. </li>
+				<li> PC member, EMNLP [2021]. </li>
 				<li> PC member, WSDM [2021, 2020, 2019]. </li>
+				<li> PC member, CIKM [2021]. </li>
 				<li> PC member, IUI [202, 2020, 2019]. </li>
 				<li> PC member, WSDM Demo Track [2019,2018]. </li>
-				<li> External Reviewer, SIGIR 2018. </li>
 			</ol>
 		</td>
 		
