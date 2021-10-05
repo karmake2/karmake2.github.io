@@ -9,6 +9,12 @@ tags:
 
 The objective of this research is to develop a general-purpose text analytics platform, i.e., Text-Mall, which would enable real-world users to easily explore the power of Text-Mining in a simple and interactive fashion without worrying about the underlying details of Natural Language Processing.
 
+<center>
+  <img src="/images/students/TextMall.png" alt="Team TextMall" width="500"/>
+</center>
+<br>
+
+
 Overview of Project TextMall
 ======
 Despite great progress in the field of natural language processing (NLP), computers are still far from being able to accurately understand unrestricted natural language. Indeed, how to develop a completely automated text analytics system that can support many different <em>Text-Mining</em> applications is a very hard problem;  as such, <em>Text-Mining</em> technology is not still directly usable by real world users like doctors, teachers,  executives etc. Thus, it is essential to involve humans (real users) in the loop in an <em>interactive</em> fashion and facilitate explorative Text-Mining to enable end-users to apply this technology effectively in the real world.

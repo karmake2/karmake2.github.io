@@ -8,8 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-My name is Shubhra Kanti Karmaker ("Santu"). I am a Tenure-Track Assistant Professor in the department of [Computer Science and Software Enginering](https://www.eng.auburn.edu/comp/) at Auburn University, Alabama. My primary research interest lies at the intersection of Big Data, Artifical Intelligence and Natural Language Processing. Before joining Auburn University, I was a Postdoctoral Research Associate in the [Laboratory for Information and Decision Systems](https://lids.mit.edu/) at Massachusetts Institute of Technology (MIT), hosted by [Dr. Kalyan Veeramachaneni](https://kalyan.lids.mit.edu/). Prior to joining MIT, I completed my Ph.D. in computer science from University of Illinois Urbana Champaign (UIUC) under the supervision of [Prof. ChengXiang Zhai](http://czhai.cs.illinois.edu/). During my PhD, I also worked as a research intern at Microsoft Research (Summer 2017 and 2018), Yahoo Research (Summer 2016) and @WalmartLabs (Summer 2015).
 
+
+
+
+My name is Shubhra Kanti Karmaker ("Santu"). I am a Tenure-Track Assistant Professor in the department of [Computer Science and Software Enginering](https://www.eng.auburn.edu/comp/) at Auburn University, Alabama. My primary research interest lies at the intersection of Big Data, Artificial Intelligence and Natural Language Processing. Before joining Auburn University, I was a Postdoctoral Research Associate in the [Laboratory for Information and Decision Systems](https://lids.mit.edu/) at Massachusetts Institute of Technology (MIT), hosted by [Dr. Kalyan Veeramachaneni](https://kalyan.lids.mit.edu/). Prior to joining MIT, I completed my Ph.D. in computer science from University of Illinois Urbana Champaign (UIUC) under the supervision of [Prof. ChengXiang Zhai](http://czhai.cs.illinois.edu/). During my PhD, I also worked as a research intern at Microsoft Research (Summer 2017 and 2018), Yahoo Research (Summer 2016) and @WalmartLabs (Summer 2015).
+
+![Group Photo](/images/students/Group.png)
 
 <table style="border-collapse: collapse; border: none;" align="center">
  <tr style="border: none;">
@@ -19,8 +24,8 @@ My name is Shubhra Kanti Karmaker ("Santu"). I am a Tenure-Track Assistant Profe
  <tr>
     <td style="border: none;" align="left" width="500"> <img src="images/ResearchInterest.png" alt="" /></td>
     <td style="border: none;" align="center"><span style="color:red; font-size:17px"> 
-    1. I am serving as a PC member of ACL 2021, KDD 2021, SIGIR 2021 and WSDM 2021.!!!!<br/><br/>
-    2. I am no longer hiring students for this upcoming academic year.
+    1. I am not hiring MS students, if you are interested in Ph.D., directly apply to the program and then send me an email.<br/><br/>
+    2. I am serving as a PC member of ACL 2021, KDD 2021, SIGIR 2021 and WSDM 2021.!!!!
     </span>
     </td>
  </tr>
@@ -29,6 +34,7 @@ My name is Shubhra Kanti Karmaker ("Santu"). I am a Tenure-Track Assistant Profe
 
 News and Announcements
 ======
+1. <span style="color:blue">[August 2021] </span>  Survey paper accepted at ACM Computing Surveys !
 1. <span style="color:blue">[January 2021] </span>  Demo accepted at IUI 2021 !
 1. <span style="color:blue">[January 2021] </span>  I am serving as a PC member of ACL 2021 !
 1. <span style="color:blue">[January 2021] </span>  I am serving as a PC member of KDD 2021 !

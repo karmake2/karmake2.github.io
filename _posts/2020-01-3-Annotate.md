@@ -1,5 +1,5 @@
 ---
-title: 'Project Annotate: Concept Annotation from Users Perspective'
+title: 'Project Annotate: Ad-Hoc Unsupervised Concept Annotation'
 date: 2020-10-01
 permalink: /posts/2020/01/Annotate/
 tags:
@@ -8,6 +8,14 @@ tags:
 ---
 
 Information retrieval and Knowledge mining become much easier if data is categorized and annotated precisely. With the rapid growth of Big-data, it is infeasible to perform manual annotation, as it is slow and expensive. Although the area of text annotation is not in the nascent phase, it has not been well-studied from a user-centric point of view, which is the goal of this project.
+
+
+<center>
+  <img src="/images/students/Annotate.png" alt="Team TextMall" width="500"/>
+</center>
+<br>
+
+
 
 Overview of Project Annotate
 ======
