@@ -13,6 +13,7 @@ redirect_from:
 		<td class="table__tablenospace">
 			<h2>Conference Reviewing</h2>
 			<ol>
+				<li> Action Editor, ACL Rolling Reviews (ARR) [2021, 2022]. </li>
 				<li> PC member, SIGIR [2021, 2020]. </li>
 				<li> PC member, ACL [2021, 2019]. </li>
 				<li> PC member, KDD [2021]. </li>

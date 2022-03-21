@@ -13,6 +13,9 @@ author_profile: true
 
 
 <ol reversed>
+<li> <b>[ACL 2022] &emsp;</b> Mousumi Akter, Naman Bansal, <b>Shubhra Kanti Karmaker</b>. "<i>Revisiting Automatic Evaluation of Extractive Summarization Task: Can We Do Better than ROUGE? </i>". In Findings of ACL , 2022. <a href="https://karmake2.github.io/files/Publications/2021/Sem-nCG.pdf">Paper</a> 
+
+<li> <b>[ACM CSUR 2021] &emsp;</b><b>Shubhra Kanti Karmaker Santu</b>, Md. Mahadi Hassan, Micah J. Smith, Lei Xu, Chengxiang Zhai, Kalyan Veeramachaneni. "<i>AutoML to Date and Beyond: Challenges and Opportunities</i>." In ACM Computing Surveys, 54(8): 175:1-175:36 (2022).  <a href="https://karmake2.github.io/files/Publications/2021/AutoML.pdf">Paper</a> 
 
 <li> <b>[IUI 2021]  &emsp;</b> Biddut Sarker Bijoy, Syeda Jannatus Saba, Souvika Sarkar, Md Saiful Islam, Sheikh Rabiul Islam, Md. Ruhul Amin and <b>Shubhra Kanti Karmaker</b>. "<i>COVID19𝛼: Interactive Spatio-Temporal Visualization of COVID-19 Symptoms through Tweet Analysis</i>". In ACM IUI 2021.  <a href="https://karmake2.github.io/files/Publications/2021/COVID19.pdf">Paper</a>  <a href="https://bijoy-sust.github.io/Covid19/">Demo</a>	<a href="https://drive.google.com/file/d/1Buj9xNEZsKLLSSjaqnuWrynIJ4qWmeMC/view?usp=sharing">Video Tutorial</a></li>
 
@@ -45,7 +48,7 @@ author_profile: true
 <li><b>[CEC 2014] &emsp;</b><b>Shubhra Kanti Karmaker Santu</b>, Md. Mustafizur Rahman, Md. Monirul Islam, Kazuyuki Murase. "<i>Towards better generalization in Pittsburgh learning classifier systems</i>". In IEEE CEC (Congress on Evolutionary Computation) 2014. <a href="https://karmake2.github.io/files/Publications/2014/CEC_EDARIC.pdf">Paper</a>	&nbsp;&nbsp;<a href="https://karmake2.github.io/files/Publications/2014/EDARIC_Presenation.pptx">Presentation</a>	</li>
 
 
-</ol>
+
 
 
 

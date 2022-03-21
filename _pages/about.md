@@ -34,6 +34,8 @@ My name is Shubhra Kanti Karmaker ("Santu"). I am a Tenure-Track Assistant Profe
 
 News and Announcements
 ======
+1. <span style="color:blue">[March 2022] </span>  Paper accepted at ACL 2022 !
+1. <span style="color:blue">[October 2021] </span>  I am serving as an action editor for ACL rolling reviews (ARR) !
 1. <span style="color:blue">[August 2021] </span>  Survey paper accepted at ACM Computing Surveys !
 1. <span style="color:blue">[January 2021] </span>  Demo accepted at IUI 2021 !
 1. <span style="color:blue">[January 2021] </span>  I am serving as a PC member of ACL 2021 !
