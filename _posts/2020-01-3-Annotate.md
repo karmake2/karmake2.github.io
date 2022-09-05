@@ -1,5 +1,5 @@
 ---
-title: 'Project Annotate: Ad-Hoc Unsupervised Concept Annotation'
+title: 'Project Annotate: Zero-Shot Topic Inference'
 date: 2020-10-01
 permalink: /posts/2020/01/Annotate/
 tags:
