@@ -1,5 +1,5 @@
 ---
-title: "Fall 2022: Machine Learning"
+title: "Instructor: Machine Learning"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2022-fall-teaching-5

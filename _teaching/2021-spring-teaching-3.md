@@ -1,5 +1,5 @@
 ---
-title: "Fall 2022: Information Retrieval"
+title: "Instructor: Information Retrieval"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2021-spring-teaching-3

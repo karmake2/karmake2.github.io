@@ -24,7 +24,7 @@ My name is Shubhra Kanti Karmaker ("Santu"). I am a Tenure-Track Assistant Profe
  <tr>
     <td style="border: none;" align="left" width="500"> <img src="images/ResearchInterest.png" alt="" /></td>
     <td style="border: none;" align="center"><span style="color:red; font-size:17px"> 
-    	1. Champion in ``Food for Thought'' first interim NLP challenge hosted by Coleridge Initiative in collaboration with USDA. <a href="https://coleridgeinitiative.org/food-for-thought/news/">News</a><br/><br/>
+    	1. Champion in "Food for Thought" first interim NLP challenge hosted by Coleridge Initiative in collaboration with USDA. <a href="https://coleridgeinitiative.org/food-for-thought/news/">News</a><br/><br/>
 	2. I am not hiring MS students, if you are interested in Ph.D., directly apply to the program and then send me an email.<br/><br/>
     </span>
     </td>
@@ -35,7 +35,7 @@ My name is Shubhra Kanti Karmaker ("Santu"). I am a Tenure-Track Assistant Profe
 News and Announcements
 ======
 1. <span style="color:blue">[September 2022] </span>  Paper accepted at COLING 2022.
-1. <span style="color:blue">[August 2022] </span>  We have become the Champion in ``Food for Thought'' first interim NLP challenge hosted by Coleridge Initiative in collaboration with US Department of Agriculture. <a href="https://coleridgeinitiative.org/food-for-thought/news/">News</a>
+1. <span style="color:blue">[August 2022] </span>  We have become the Champion in "Food for Thought" first interim NLP challenge hosted by Coleridge Initiative in collaboration with US Department of Agriculture. <a href="https://coleridgeinitiative.org/food-for-thought/news/">News</a>
 1. <span style="color:blue">[March 2022] </span>  Paper accepted at ACL 2022.
 1. <span style="color:blue">[October 2021] </span>  I am serving as an action editor for ACL rolling reviews (ARR)!
 1. <span style="color:blue">[February 2022] </span>  Survey paper accepted at ACM Computing Surveys!

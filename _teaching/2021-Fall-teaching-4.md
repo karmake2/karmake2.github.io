@@ -1,5 +1,5 @@
 ---
-title: "Fall 2021: Natural Language Processing"
+title: "Instructor: Natural Language Processing"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/2021-fall-teaching-4
