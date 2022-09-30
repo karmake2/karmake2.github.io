@@ -34,6 +34,8 @@ My name is Shubhra Kanti Karmaker ("Santu"). I am a Tenure-Track Assistant Profe
 
 News and Announcements
 ======
+1. <span style="color:blue">[September 2022] </span>  Awarded Short-Term Innovative Research (STIR) Grant as PI. Sponsor: Army Research Office (ARO).
+1. <span style="color:blue">[September 2022] </span>  Two Papers accepted at AACL/IJCNLP 2022.
 1. <span style="color:blue">[September 2022] </span>  Paper accepted at COLING 2022.
 1. <span style="color:blue">[August 2022] </span>  We have become the Champion in "Food for Thought" first interim NLP challenge hosted by Coleridge Initiative in collaboration with US Department of Agriculture. <a href="https://coleridgeinitiative.org/food-for-thought/news/">News</a>
 1. <span style="color:blue">[March 2022] </span>  Paper accepted at ACL 2022.
@@ -41,7 +43,11 @@ News and Announcements
 1. <span style="color:blue">[February 2022] </span>  Survey paper accepted at ACM Computing Surveys!
 1. <span style="color:blue">[January 2021] </span>  Demo accepted at IUI 2021 !
 1. <span style="color:blue">[October 2020] </span>  Best Poster Nomination at CIKM 2020 !!!
+1. <span style="color:blue">[September 2020] </span>  Awarded Seed Grant as PI. Sponsor: Arizona State University.
 1. <span style="color:blue">[January 2020] </span>  Joined Auburn University.
+
+
+![Sponsor](/images/Sponsor.png)
 
 
 
