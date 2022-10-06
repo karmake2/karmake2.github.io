@@ -14,7 +14,7 @@ author_profile: true
 
 ## <span style="color:blue">Journal Papers</span>
 <ol reversed=true>
-<li> <b>[ACM CSUR 2021] &emsp;</b><b>Shubhra Kanti Karmaker Santu</b>, Md. Mahadi Hassan, Micah J. Smith, Lei Xu, Chengxiang Zhai, Kalyan Veeramachaneni. "<i>AutoML to Date and Beyond: Challenges and Opportunities</i>." In ACM Computing Surveys, 54(8): 175:1-175:36 (2022).  <a href="https://karmake2.github.io/files/Publications/2021/AutoML.pdf">Paper</a> </li>
+<li> <b>[ACM CSUR 2022] &emsp;</b><b>Shubhra Kanti Karmaker Santu</b>, Md. Mahadi Hassan, Micah J. Smith, Lei Xu, Chengxiang Zhai, Kalyan Veeramachaneni. "<i>AutoML to Date and Beyond: Challenges and Opportunities</i>." In ACM Computing Surveys, 54(8): 175:1-175:36 (2022).  <a href="https://karmake2.github.io/files/Publications/2021/AutoML.pdf">Paper</a> </li>
 <li>[SIGKDD Explorations 2018] &emsp; <b>Shubhra Kanti Karmaker Santu</b>, C. Geigle, D. C. Ferguson, W. Cope, M. Kalantzis, D. Searsmith, Chengxiang Zhai. "<i>SOFSAT: Towards a Setlike Operator based Framework for Semantic Analysis of Text</i>". In ACM SIGKDD Explorations [Position Paper]"> <a href="https://karmake2.github.io/files/Publications/2018/SOFSAT.pdf">Paper</a></li>
 </ol>
 
@@ -25,11 +25,15 @@ author_profile: true
 
 <li> <b>[ACL 2022] &emsp;</b> Mousumi Akter, Naman Bansal, <b>Shubhra Kanti Karmaker</b>. "<i>Revisiting Automatic Evaluation of Extractive Summarization Task: Can We Do Better than ROUGE? </i>". In Findings of ACL, 2022. <a href="/files/Publications/2022/Sem-nCG.pdf">Paper</a> </li>
 
+<li> <b>[EMNLP 2022] &emsp;</b> Naman Bansal, Mousumi Akter,  <b>Shubhra Kanti Karmaker</b>. "<i>Learning to Generate Overlap Summaries through Noisy Synthetic Data.</i>". In EMNLP, 2022. <a href="/files/Publications/2022/SOFSAT_Data.pdf">Paper Coming Soon</a> </li>
+
+<li> <b>[EMNLP 2022] &emsp;</b> Naman Bansal, Mousumi Akter,  <b>Shubhra Kanti Karmaker</b>. "<i>SEM-F1: an Automated Metric for Evaluating Multi-Narrative Overlap Summaries.</i>". In EMNLP, 2022. <a href="/files/Publications/2022/SOFSAT_metric.pdf">Paper Coming Soon</a> </li>
+
 <li> <b>[COLING 2022] &emsp;</b> Naman Bansal, Mousumi Akter,  <b>Shubhra Kanti Karmaker</b>. "<i>Semantic Overlap Summarization among Multiple Alternative Narratives: an Exploratory Study</i>". In COLING, 2022. <a href="/files/Publications/2022/SOFSAT_Intro.pdf">Paper</a> </li>
 
-<li> <b>[AACL 2022] &emsp;</b>Ralph (Alex) Knipper, Md. Mahadi Hassan, Mehdi Sadi, <b>Shubhra Kanti Karmaker</b>. "<i>Analogy-Guided Evolutionary Pretraining of Binary Word Embeddings</i>". In AACL/IJCNLP, 2022. <a href="/files/Publications/2022/no.pdf">Paper</a> </li>
+<li> <b>[AACL 2022] &emsp;</b>Ralph (Alex) Knipper, Md. Mahadi Hassan, Mehdi Sadi, <b>Shubhra Kanti Karmaker</b>. "<i>Analogy-Guided Evolutionary Pretraining of Binary Word Embeddings</i>". In AACL/IJCNLP, 2022. <a href="/files/Publications/2022/no.pdf">Paper Coming Soon</a> </li>
 
-<li> <b>[AACL 2022] &emsp;</b> Souvika Sarkar, Dongji Feng, <b>Shubhra Kanti Karmaker</b>. "<i>Exploring Universal Sentence Encoders for Zero-shot Text Classification.</i>". In AACL/IJCNLP, 2022. <a href="/files/Publications/2022/no.pdf">Paper</a> </li>
+<li> <b>[AACL 2022] &emsp;</b> Souvika Sarkar, Dongji Feng, <b>Shubhra Kanti Karmaker</b>. "<i>Exploring Universal Sentence Encoders for Zero-shot Text Classification.</i>". In AACL/IJCNLP, 2022. <a href="/files/Publications/2022/no.pdf">Paper Coming Soon</a> </li>
 
 <li> <b>[IUI 2021]  &emsp;</b> Biddut Sarker Bijoy, Syeda Jannatus Saba, Souvika Sarkar, Md Saiful Islam, Sheikh Rabiul Islam, Md. Ruhul Amin and <b>Shubhra Kanti Karmaker</b>. "<i>COVID19𝛼: Interactive Spatio-Temporal Visualization of COVID-19 Symptoms through Tweet Analysis</i>". In ACM IUI 2021.  <a href="https://karmake2.github.io/files/Publications/2021/COVID19.pdf">Paper</a>  <a href="https://bijoy-sust.github.io/Covid19/">Demo</a>	<a href="https://drive.google.com/file/d/1Buj9xNEZsKLLSSjaqnuWrynIJ4qWmeMC/view?usp=sharing">Video Tutorial</a></li>
 

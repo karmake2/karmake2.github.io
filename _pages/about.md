@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-My name is Shubhra Kanti Karmaker ("Santu"). I am a Tenure-Track Assistant Professor in the department of [Computer Science and Software Enginering](https://www.eng.auburn.edu/comp/) at Auburn University, Alabama. My primary research interest lies at the intersection of Big Data, Artificial Intelligence and Natural Language Processing. Before joining Auburn University, I was a Postdoctoral Research Associate in the [Laboratory for Information and Decision Systems](https://lids.mit.edu/) at Massachusetts Institute of Technology (MIT), hosted by [Dr. Kalyan Veeramachaneni](https://kalyan.lids.mit.edu/). Prior to joining MIT, I completed my Ph.D. in computer science from University of Illinois Urbana Champaign (UIUC) under the supervision of [Prof. ChengXiang Zhai](http://czhai.cs.illinois.edu/). During my PhD, I also worked as a research intern at Microsoft Research (Summer 2017 and 2018), Yahoo Research (Summer 2016) and @WalmartLabs (Summer 2015).
+My name is Shubhra Kanti Karmaker ("Santu"). I am a Tenure-Track Assistant Professor in the department of [Computer Science and Software Engineering](https://www.eng.auburn.edu/comp/) at Auburn University, Alabama. My primary research interest lies at the intersection of Big Data, Artificial Intelligence, and Natural Language Processing. Before joining Auburn University, I was a Postdoctoral Research Associate in the [Laboratory for Information and Decision Systems](https://lids.mit.edu/) at Massachusetts Institute of Technology (MIT), hosted by [Dr. Kalyan Veeramachaneni](https://kalyan.lids.mit.edu/). Prior to joining MIT, I completed my Ph.D. in computer science from the University of Illinois Urbana Champaign (UIUC) under the supervision of [Prof. ChengXiang Zhai](http://czhai.cs.illinois.edu/). During my Ph.D., I also worked as a research intern at Microsoft Research (Summer 2017 and 2018), Yahoo Research (Summer 2016), and @WalmartLabs (Summer 2015).
 
 ![Group Photo](/images/students/Group.png)
 
@@ -33,7 +33,8 @@ My name is Shubhra Kanti Karmaker ("Santu"). I am a Tenure-Track Assistant Profe
 
 
 News and Announcements
-======
+======================
+1. <span style="color:blue">[September 2022] </span>  Two Papers accepted at EMNLP 2022.
 1. <span style="color:blue">[September 2022] </span>  Awarded Short-Term Innovative Research (STIR) Grant as PI. Sponsor: Army Research Office (ARO).
 1. <span style="color:blue">[September 2022] </span>  Two Papers accepted at AACL/IJCNLP 2022.
 1. <span style="color:blue">[September 2022] </span>  Paper accepted at COLING 2022.
