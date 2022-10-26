@@ -24,7 +24,7 @@ My name is Shubhra Kanti Karmaker ("Santu"). I am a Tenure-Track Assistant Profe
  <tr>
     <td style="border: none;" align="left" width="500"> <img src="images/ResearchInterest.png" alt="" /></td>
     <td style="border: none;" align="center"><span style="color:red; font-size:17px"> 
-    	1. Champion in "Food for Thought" first interim NLP challenge hosted by Coleridge Initiative in collaboration with USDA. <a href="https://coleridgeinitiative.org/food-for-thought/news/">News</a><br/><br/>
+    	1. Champion in "Food for Thought" first and second interim NLP challenge hosted by Coleridge Initiative in collaboration with USDA. <a href="https://coleridgeinitiative.org/food-for-thought/news/">News</a><br/><br/>
 	2. I am not hiring MS students, if you are interested in Ph.D., directly apply to the program and then send me an email.<br/><br/>
     </span>
     </td>
@@ -34,6 +34,9 @@ My name is Shubhra Kanti Karmaker ("Santu"). I am a Tenure-Track Assistant Profe
 
 News and Announcements
 ======================
+1. <span style="color:blue">[August 2022] </span>  Champion in "Food for Thought" second interim NLP challenge hosted by Coleridge Initiative in collaboration with US Department of Agriculture. <a href="https://coleridgeinitiative.org/food-for-thought/news/">News</a>
+1. <span style="color:blue">[October 2022] </span>  Paper accepted at ACM Transactions on Intelligent Systems and Technology.
+1. <span style="color:blue">[October 2022] </span>  Paper accepted at IEEE BigData 2022.
 1. <span style="color:blue">[September 2022] </span>  Two Papers accepted at EMNLP 2022.
 1. <span style="color:blue">[September 2022] </span>  Awarded Short-Term Innovative Research (STIR) Grant as PI. Sponsor: Army Research Office (ARO).
 1. <span style="color:blue">[September 2022] </span>  Two Papers accepted at AACL/IJCNLP 2022.
@@ -42,7 +45,6 @@ News and Announcements
 1. <span style="color:blue">[March 2022] </span>  Paper accepted at ACL 2022.
 1. <span style="color:blue">[October 2021] </span>  I am serving as an action editor for ACL rolling reviews (ARR)!
 1. <span style="color:blue">[February 2022] </span>  Survey paper accepted at ACM Computing Surveys!
-1. <span style="color:blue">[January 2021] </span>  Demo accepted at IUI 2021 !
 1. <span style="color:blue">[October 2020] </span>  Best Poster Nomination at CIKM 2020 !!!
 1. <span style="color:blue">[September 2020] </span>  Awarded Seed Grant as PI. Sponsor: Arizona State University.
 1. <span style="color:blue">[January 2020] </span>  Joined Auburn University.
