@@ -14,7 +14,7 @@ author_profile: true
 
 ## <span style="color:blue">Journal Papers</span>
 <ol reversed=true>
-<li> <b>[ACM TIST 2022] &emsp;</b> Souvika Sarkar, Biddut Sarker Bijoy, Syeda Jannatus Saba, Dongji Feng, Yash Mahajan, Sheikh Rabiul Islam, Md. Ruhul Amin and <b>Shubhra Kanti Karmaker Santu</b>. "<i>AutoML to Date and Beyond: Challenges and Opportunities</i>." In ACM Transactions on Intelligent Systems and Technology.  <a href="https://karmake2.github.io/files/Publications/2022/no.pdf">Paper Coming Soon</a> </li>
+<li> <b>[ACM TIST 2022] &emsp;</b> Souvika Sarkar, Biddut Sarker Bijoy, Syeda Jannatus Saba, Dongji Feng, Yash Mahajan, Sheikh Rabiul Islam, Md. Ruhul Amin and <b>Shubhra Kanti Karmaker Santu</b>. "<i>Ad-Hoc Monitoring of COVID-19 Global Research Trends for Well-Informed Policy Making</i>". In ACM Transactions on Intelligent Systems and Technology.  <a href="https://karmake2.github.io/files/Publications/2022/no.pdf">Paper Coming Soon</a> </li>
 <li> <b>[ACM CSUR 2022] &emsp;</b><b>Shubhra Kanti Karmaker Santu</b>, Md. Mahadi Hassan, Micah J. Smith, Lei Xu, Chengxiang Zhai, Kalyan Veeramachaneni. "<i>AutoML to Date and Beyond: Challenges and Opportunities</i>." In ACM Computing Surveys, 54(8): 175:1-175:36 (2022).  <a href="https://karmake2.github.io/files/Publications/2021/AutoML.pdf">Paper</a> </li>
 <li>[SIGKDD Explorations 2018] &emsp; <b>Shubhra Kanti Karmaker Santu</b>, C. Geigle, D. C. Ferguson, W. Cope, M. Kalantzis, D. Searsmith, Chengxiang Zhai. "<i>SOFSAT: Towards a Setlike Operator based Framework for Semantic Analysis of Text</i>". In ACM SIGKDD Explorations [Position Paper]"> <a href="https://karmake2.github.io/files/Publications/2018/SOFSAT.pdf">Paper</a></li>
 </ol>
