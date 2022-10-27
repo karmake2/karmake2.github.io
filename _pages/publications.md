@@ -26,11 +26,11 @@ author_profile: true
 
 <li> <b>[ACL 2022] &emsp;</b> Mousumi Akter, Naman Bansal, <b>Shubhra Kanti Karmaker</b>. "<i>Revisiting Automatic Evaluation of Extractive Summarization Task: Can We Do Better than ROUGE? </i>" In Findings of ACL, 2022. <a href="/files/Publications/2022/Sem-nCG.pdf">Paper</a> </li>
 
-<li> <b>[EMNLP 2022] &emsp;</b> Naman Bansal, Mousumi Akter,  <b>Shubhra Kanti Karmaker</b>. "<i>Learning to Generate Overlap Summaries through Noisy Synthetic Data</i>". In EMNLP, 2022. <a href="/files/Publications/2022/SOFSAT_Synthetic_Data.pdf">Paper</a> </li>
+<li> <b>[EMNLP 2022] &emsp;</b> Naman Bansal, Mousumi Akter,  <b>Shubhra Kanti Karmaker</b>. "<i>Learning to Generate Overlap Summaries through Noisy Synthetic Data</i>". In EMNLP, 2022. <a href="/files/Publications/2022/SOFSAT_Synthetic_Data.pdf">Paper</a> <a href="/files/Publications/2022/SOFSAT_Data.zip">Dataset</a></li>
 
-<li> <b>[EMNLP 2022] &emsp;</b> Naman Bansal, Mousumi Akter,  <b>Shubhra Kanti Karmaker</b>. "<i>SEM-F1: an Automatic Way for Semantic Evaluation of Multi-Narrative Overlap Summaries at Scale</i>". In EMNLP, 2022. <a href="/files/Publications/2022/SEM_F1.pdf">Paper</a> </li>
+<li> <b>[EMNLP 2022] &emsp;</b> Naman Bansal, Mousumi Akter,  <b>Shubhra Kanti Karmaker</b>. "<i>SEM-F1: an Automatic Way for Semantic Evaluation of Multi-Narrative Overlap Summaries at Scale</i>". In EMNLP, 2022. <a href="/files/Publications/2022/SEM_F1.pdf">Paper</a><a href="/files/Publications/2022/SOFSAT_Data.zip">Dataset</a></li>
 
-<li> <b>[COLING 2022] &emsp;</b> Naman Bansal, Mousumi Akter,  <b>Shubhra Kanti Karmaker</b>. "<i>Semantic Overlap Summarization among Multiple Alternative Narratives: an Exploratory Study</i>". In COLING, 2022. <a href="/files/Publications/2022/SOFSAT_Intro.pdf">Paper</a> </li>
+<li> <b>[COLING 2022] &emsp;</b> Naman Bansal, Mousumi Akter,  <b>Shubhra Kanti Karmaker</b>. "<i>Semantic Overlap Summarization among Multiple Alternative Narratives: an Exploratory Study</i>". In COLING, 2022. <a href="/files/Publications/2022/SOFSAT_Intro.pdf">Paper</a><a href="/files/Publications/2022/SOFSAT_Data.zip">Dataset</a></li>
 
 <li> <b>[AACL 2022] &emsp;</b>Ralph (Alex) Knipper, Md. Mahadi Hassan, Mehdi Sadi, <b>Shubhra Kanti Karmaker</b>. "<i>Analogy-Guided Evolutionary Pretraining of Binary Word Embeddings</i>". In AACL/IJCNLP, 2022. <a href="/files/Publications/2022/Genetic_Embedding.pdf">Paper</a> </li>
 
