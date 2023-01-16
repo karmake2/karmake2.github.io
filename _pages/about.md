@@ -24,7 +24,7 @@ My name is Shubhra Kanti Karmaker ("Santu"). I am a Tenure-Track Assistant Profe
  <tr>
     <td style="border: none;" align="left" width="500"> <img src="images/ResearchInterest.png" alt="" /></td>
     <td style="border: none;" align="center"><span style="color:red; font-size:17px"> 
-    	1. Champion in "Food for Thought" first and second interim NLP challenge hosted by Coleridge Initiative in collaboration with USDA. <a href="https://coleridgeinitiative.org/food-for-thought/news/">News</a><br/><br/>
+    	1. Champion in "Food for Thought" National NLP challenge hosted by Coleridge Initiative in collaboration with USDA. <a href="https://eng.auburn.edu/news/2022/11/auburn-big-data-team-wins-coleridge-second-round">Engineering College News</a> <a href="https://agriculture.auburn.edu/feature/faculty-team-places-first-in-usda-challenge/">Agriculture College News</a> <br/><br/>
 	2. I am not hiring MS students, if you are interested in Ph.D., directly apply to the program and then send me an email.<br/><br/>
     </span>
     </td>
@@ -34,7 +34,7 @@ My name is Shubhra Kanti Karmaker ("Santu"). I am a Tenure-Track Assistant Profe
 
 News and Announcements
 ======================
-1. <span style="color:blue">[August 2022] </span>  Champion in "Food for Thought" second interim NLP challenge hosted by Coleridge Initiative in collaboration with US Department of Agriculture. <a href="https://coleridgeinitiative.org/food-for-thought/news/">News</a>
+1. <span style="color:blue">[December 2022] </span>  Champion in "Food for Thought" National NLP challenge hosted by Coleridge Initiative in collaboration with US Department of Agriculture. <a href="https://eng.auburn.edu/news/2022/11/auburn-big-data-team-wins-coleridge-second-round">Engineering College News</a>  / <a href="https://agriculture.auburn.edu/feature/faculty-team-places-first-in-usda-challenge/">Agriculture College News</a> 
 1. <span style="color:blue">[October 2022] </span>  Paper accepted at ACM Transactions on Intelligent Systems and Technology.
 1. <span style="color:blue">[October 2022] </span>  Paper accepted at IEEE BigData 2022.
 1. <span style="color:blue">[September 2022] </span>  Two Papers accepted at EMNLP 2022.
