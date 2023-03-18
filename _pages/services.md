@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+I am currently serving as the Communication Chair of the ACL Rolling Reviews (ARR) Initiative. <a href="https://aclrollingreview.org/people" target="_blank">ARR</a>
 
 <table class="table__tablenospace">
 		
@@ -14,7 +15,8 @@ redirect_from:
 			<h2>Conference Organization and Reviewing</h2>
 			<ol>
 				<li> Tutorial Chair, CIKM 2022.</li>
-				<li> Action Editor, ACL Rolling Reviews (ARR) [2021, 2022]. </li>
+				<li> Communication Chair, ARR [2021-Current].</li>
+				<li> Action Editor, ARR [2021-Current]. </li>
 				<li> PC member, SIGIR [2021, 2020, 2022]. </li>
 				<li> PC member, ACL [2021, 2019]. </li>
 				<li> PC member, AACL [2022]. </li>
