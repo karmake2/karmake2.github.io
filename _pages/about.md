@@ -33,11 +33,12 @@ My name is Shubhra Kanti Karmaker ("Santu"). I am a Tenure-Track Assistant Profe
 
 News and Announcements
 ======================
+1. <span style="color:blue">[May 2023] </span>  Journal paper accepted at Information Processing and Management (Impact Factor 7.5)!!
 1. <span style="color:blue">[March 2023] </span>  My students <a href="https://bnaman50.github.io/" target="_blank">Naman Bansal</a> and <a href="https://sites.google.com/view/mousumi-akter" target="_blank">Mousumi Akter</a> have been selected for Auburn University's Outstanding Doctoral student award. Great Achievement!! Congratulations to them.
 1. <span style="color:blue">[March 2023] </span>  My students <a href="https://souvika.github.io/" target="_blank">Souvika Sakar</a> and <a href="https://sites.google.com/view/mousumi-akter" target="_blank">Mousumi Akter</a> have been named 100+ Women Strong Outstanding Graduate Student Award recipients. Congratulations to them!!!
 1. <span style="color:blue">[February 2023] </span> I am now serving as the Communication Chair of ACL Rolling Reviews (ARR) Initiative. <a href="https://aclrollingreview.org/people" target="_blank">ARR</a>
 1. <span style="color:blue">[December 2022] </span>  Champion in the "Food for Thought" National NLP challenge hosted by Coleridge Initiative in collaboration with the US Department of Agriculture. <a href="https://eng.auburn.edu/news/2022/11/auburn-big-data-team-wins-coleridge-second-round" target="_blank">Engineering College News</a>  / <a href="https://agriculture.auburn.edu/feature/faculty-team-places-first-in-usda-challenge/" target="_blank">Agriculture College News</a> 
-1. <span style="color:blue">[October 2022] </span>  Paper accepted at ACM Transactions on Intelligent Systems and Technology.
+1. <span style="color:blue">[October 2022] </span>  Paper accepted at ACM Transactions on Intelligent Systems and Technology (Impact Factor 10.5)!!!
 1. <span style="color:blue">[October 2022] </span>  Paper accepted at IEEE BigData 2022.
 1. <span style="color:blue">[September 2022] </span>  Two Papers accepted at EMNLP 2022.
 1. <span style="color:blue">[September 2022] </span>  Awarded Short-Term Innovative Research (STIR) Grant as PI. Sponsor: Army Research Office (ARO).
@@ -45,7 +46,7 @@ News and Announcements
 1. <span style="color:blue">[September 2022] </span>  Paper accepted at COLING 2022.
 1. <span style="color:blue">[March 2022] </span>  Paper accepted at ACL 2022.
 1. <span style="color:blue">[October 2021] </span>  I am serving as an action editor for ACL rolling reviews (ARR)!
-1. <span style="color:blue">[February 2022] </span>  Survey paper accepted at ACM Computing Surveys!
+1. <span style="color:blue">[February 2022] </span>  Survey paper accepted at ACM Computing Surveys (Impact Factor 14.3)!!!!
 1. <span style="color:blue">[October 2020] </span>  Best Poster Nomination at CIKM 2020 !!!
 1. <span style="color:blue">[September 2020] </span>  Awarded Seed Grant as PI. Sponsor: Arizona State University.
 1. <span style="color:blue">[January 2020] </span>  Joined Auburn University.<br/><br/>
