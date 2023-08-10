@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-My name is Shubhra Kanti Karmaker ("Santu"). I am a Tenure-Track Assistant Professor in the department of [Computer Science and Software Engineering](https://www.eng.auburn.edu/comp/) at Auburn University, Alabama. My primary research interest lies at the intersection of Big Data, Artificial Intelligence, and Natural Language Processing. Before joining Auburn University, I was a Postdoctoral Research Associate in the [Laboratory for Information and Decision Systems](https://lids.mit.edu/) at Massachusetts Institute of Technology (MIT), hosted by [Dr. Kalyan Veeramachaneni](https://kalyan.lids.mit.edu/). Prior to joining MIT, I completed my Ph.D. in computer science from the University of Illinois Urbana Champaign (UIUC) under the supervision of [Prof. ChengXiang Zhai](http://czhai.cs.illinois.edu/). During my Ph.D., I also worked as a research intern at Microsoft Research (Summer 2017 and 2018), Yahoo Research (Summer 2016), and @WalmartLabs (Summer 2015).
+My name is Shubhra Kanti Karmaker ("Santu"). I am a Tenure-Track Assistant Professor in the Department of [Computer Science and Software Engineering](https://www.eng.auburn.edu/comp/) at Auburn University, Alabama. My primary research interest lies at the intersection of Natural Language Processing and Information Retrieval. Before joining Auburn University, I was a Postdoctoral Research Associate in the [Laboratory for Information and Decision Systems](https://lids.mit.edu/) at Massachusetts Institute of Technology (MIT), hosted by [Dr. Kalyan Veeramachaneni](https://kalyan.lids.mit.edu/). Before joining MIT, I completed my Ph.D. in computer science from the University of Illinois Urbana Champaign (UIUC) under the supervision of [Prof. ChengXiang Zhai](http://czhai.cs.illinois.edu/). During my Ph.D., I also worked as a research intern at Microsoft Research (Summer 2017 and 2018), Yahoo Research (Summer 2016), and @WalmartLabs (Summer 2015).
 
 ![Group Photo](/images/students/Group.png)
 
@@ -22,17 +22,25 @@ My name is Shubhra Kanti Karmaker ("Santu"). I am a Tenure-Track Assistant Profe
     <td style="border: none;" align="center"><b style="font-size:25px">Spotlight!</b></td>
  </tr>
  <tr>
-    <td style="border: none;" align="left" width="500"> <img src="images/ResearchInterest.png" alt="" /></td>
-    <td style="border: none;" align="center"><span style="color:red; font-size:17px"> 
-    	1. My students <a href="https://bnaman50.github.io/" target="_blank">Naman Bansal</a> and <a href="https://sites.google.com/view/mousumi-akter" target="_blank">Mousumi Akter</a> have been selected for Auburn University's Outstanding Doctoral student award!!!<br/>
-    	2. Champion in "Food for Thought" National NLP challenge hosted by Coleridge Initiative in collaboration with USDA. <a href="https://eng.auburn.edu/news/2022/11/auburn-big-data-team-wins-coleridge-second-round" target="_blank">Engineering College News</a> <a href="https://agriculture.auburn.edu/feature/faculty-team-places-first-in-usda-challenge/" target="_blank">Agriculture College News</a> <br/><br/></span>
+    <td style="border: none;" align="left" width="450"> <img src="images/ResearchInterest.png" alt="" /></td>
+    <td style="border: none;" align="center"><span style="color:maroon; font-size:17px"> 
+    	1. Received <b>\$700,854</b> basic research grant as the lead PI from <b>NSF</b> <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2302974&HistoricalAwards=false" target="_blank">(Award)</a> .<br/><br/>
+    	2. Received <b>\$542,485</b> basic research grant as the sole PI from <b>AFOSR</b>.<br/><br/></span>
     </td>
  </tr>
 </table>
 
 
+Our Sponsors (Thank You!!)
+======================
+![Sponsor](/images/Sponsor.png)
+
+
 News and Announcements
 ======================
+1. <span style="color:blue">[July 2023] </span>  Received <b>\$700,854</b> basic research grant as the lead PI from <b>NSF</b>. <a href="https://www.eng.auburn.edu/news/2023/08/assistant-professor-in-csse-earns-two-grants.html?fbclid=IwAR0c8lFZCwBQi4e3144agupHGZhyGguNK6K_p_yqVAYFXa_AytOg0pn0NXM" target="_blank">News</a>/<a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2302974&HistoricalAwards=false" target="_blank">(Award)</a> 
+1. <span style="color:blue">[July 2023] </span>  Received <b>\$542,485</b> basic research grant as the sole PI from <b>AFOSR</b>. <a href="https://www.eng.auburn.edu/news/2023/08/assistant-professor-in-csse-earns-two-grants.html?fbclid=IwAR0c8lFZCwBQi4e3144agupHGZhyGguNK6K_p_yqVAYFXa_AytOg0pn0NXM" target="_blank">News</a>
+1. <span style="color:blue">[July 2023] </span> My first Ph.D. Student <a href="https://dzf0023.github.io/" target="_blank">Dongji Feng</a> graduated this Summer. He is joining as a tenure-track assistant professor at Gustavus Adolphus College in Minnesota.
 1. <span style="color:blue">[May 2023] </span>  Journal paper accepted at Information Processing and Management (Impact Factor 7.5)!!
 1. <span style="color:blue">[March 2023] </span>  My students <a href="https://bnaman50.github.io/" target="_blank">Naman Bansal</a> and <a href="https://sites.google.com/view/mousumi-akter" target="_blank">Mousumi Akter</a> have been selected for Auburn University's Outstanding Doctoral student award. Great Achievement!! Congratulations to them.
 1. <span style="color:blue">[March 2023] </span>  My students <a href="https://souvika.github.io/" target="_blank">Souvika Sakar</a> and <a href="https://sites.google.com/view/mousumi-akter" target="_blank">Mousumi Akter</a> have been named 100+ Women Strong Outstanding Graduate Student Award recipients. Congratulations to them!!!
@@ -55,6 +63,7 @@ News and Announcements
 
 Media Coverage
 ======================
+1. Auburn Engineering College featured me on August 2023. <a href="https://www.eng.auburn.edu/news/2023/08/assistant-professor-in-csse-earns-two-grants.html?fbclid=IwAR0c8lFZCwBQi4e3144agupHGZhyGguNK6K_p_yqVAYFXa_AytOg0pn0NXM" target="_blank">News</a> <a href="https://twitter.com/AuburnEngineers/status/1687554579372851201?s=20" target="_blank">Video</a>
 1. My expert opinion on the Rise of the Chatbot and the Legal Dilemma. <a href="https://www.al.com/news/2023/03/rise-of-the-chatbot-alabama-lawmakers-confront-questions-about-artificial-intelligence.html" target="_blank">Al.com News</a>
 1. AI expert opinion on the Large Language Models and Chatbots. <a href="https://www.eng.auburn.edu/news/2023/03/artificial-intelligence-expert-in-csse-weighs-in-on-the-rise-of-chatbots.html" target="_blank">News</a>
 1. Auburn Engineering College reporting our championship in the "Food for Thought" National NLP challenge. <a href="https://eng.auburn.edu/news/2022/11/auburn-big-data-team-wins-coleridge-second-round" target="_blank">News</a>
@@ -62,7 +71,7 @@ Media Coverage
 
 <br/><br/>
 
-![Sponsor](/images/Sponsor.png)
+
 
 
 
