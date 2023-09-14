@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-You can download the PDF version [here](../files/CV.pdf)
+You can download my full CV [here](../files/CV.pdf)
 
 <table class="table__tablenospace">
 	<tr>
