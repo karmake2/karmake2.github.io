@@ -66,7 +66,7 @@ author_profile: true
 
 
 
-## <span style="color:blue">Workshop Papers</span>
+## <span style="color:blue">Peer-Reviewed Workshop Papers</span>
 <ol reversed>
 <li>[UserNLP@WWW 2022] &emsp; Souvika Sarkar and <b>Shubhra Kanti Karmaker Santu</b>. "<i>Concept Annotation from Users Perspective: A New Challenge</i>". In UserNLP@WWW  2022. <a href="https://karmake2.github.io/files/Publications/2022/Annotate.pdf">Paper</a>	</li>
 <li>[WPES@CCS 2018] &emsp; <b>Shubhra Kanti Karmaker Santu</b>, Vincent Bindschaedler, ChengXiang Zhai, Carl A. Gunter. "<i>NRF: A Naive Re-identification Framework</i>". In WPES@ACM CCS 2018. <a href="https://karmake2.github.io/files/Publications/2018/NRF.pdf">Paper</a>	<a href="https://karmake2.github.io/files/Publications/2018/NRF.pptx">Presentation</a>	</li>
@@ -78,9 +78,18 @@ author_profile: true
 
 ## <span style="color:blue">Arxiv Pre-prints</span>
 <ol reversed>
-<li> [Arxiv 2019] &emsp; Lei Xu, <b>Shubhra Kanti Karmaker Santu</b>, Kalyan Veeramachaneni. "<i>MLFriend: Interactive Prediction Task Recommendation for Event-Driven Time-Series Data.</i>" In Arxiv [Preprint] 2019. <a href="https://karmake2.github.io/files/Publications/2019/MLFriend.pdf">Paper</a></li>
+<li> [Arxiv 2023] &emsp; Mousumi Akter, <b>Shubhra Kanti Karmaker Santu</b>. "<i>FaNS: a Facet-based Narrative Similarity Metric.</i>" In CoRR abs/2309.04823 (2023). <a href="https://arxiv.org/abs/2309.04823">Paper</a></li>
+<li> [Arxiv 2023] &emsp; Md. Mahadi Hassan, Alex Knipper, <b>Shubhra Kanti Karmaker Santu</b>. "<i>Introducing 'Forecast Utterance' for Conversational Data Science.</i>" In CoRR abs/2309.03877 (2023). <a href="https://arxiv.org/abs/2309.03877">Paper</a></li>
+<li> [Arxiv 2023] &emsp; Yash Mahajan, Naman Bansal}<b>Shubhra Kanti Karmaker Santu</b> ."<i>The Daunting Dilemma with Sentence Encoders: Success on Standard Benchmarks, Failure in Capturing Basic Semantic Properties.</i>" In CoRR abs/2309.03747 (2023). <a href="https://arxiv.org/abs/2309.03747">Paper</a></li>
+<li> [Arxiv 2023] &emsp; Mousumi Akter, <b>Shubhra Kanti Karmaker Santu</b> ."<i>Redundancy Aware Multi-Reference Based Gainwise Evaluation of Extractive Summarization.</i>" In CoRR abs/2308.02270 (2023). <a href="https://arxiv.org/abs/2308.02270">Paper</a></li>
+<li> [Arxiv 2023] &emsp; Md. Mahadi Hassan, Alex Knipper, <b>Shubhra Kanti Karmaker Santu</b>. "<i>ChatGPT as your Personal Data Scientist.</i>" In CoRR abs/2305.13657 (2023). <a href="https://arxiv.org/abs/2305.13657">Paper</a></li>
+<li> [Arxiv 2023] &emsp; <b>Shubhra Kanti Karmaker Santu</b>, Dongji Feng. "<i>TELeR: A General Taxonomy of LLM Prompts for Benchmarking Complex Tasks.</i>" In CoRR abs/2305.11430 (2023). <a href="https://arxiv.org/abs/2305.11430">Paper</a></li>
+<li> [Arxiv 2023] &emsp; Souvika Sarkar, Mohammad Fakhruddin Babar, Md. Mahadi Hassan, Monowar Hasan, <b>Shubhra Kanti Karmaker Santu</b> "<i>Processing Natural Language on Embedded Devices: How Well Do Modern Models Perform?.</i>" In CoRR abs/2304.11520 (2023). <a href="https://arxiv.org/abs/2304.11520">Paper</a></li>
+<li> [Arxiv 2023] &emsp; Souvika Sarkar, Dongji Feng, <b>Shubhra Kanti Karmaker Santu</b> "<i>Zero-Shot Multi-Label Topic Inference with Sentence Encoders.</i>" In CoRR abs/2304.07382 (2023). <a href="https://arxiv.org/abs/2304.07382">Paper</a></li>
+<li> [Arxiv 2023] &emsp; Mousumi Akter, Souvika Sarkar, <b>Shubhra Kanti Karmaker Santu</b> "<i>On Evaluation of Bangla Word Analogies.</i>" In CoRR abs/2304.04613 (2023). <a href="https://arxiv.org/abs/2304.04613">Paper</a></li>
+<li> [RWDS 2023] &emsp; Alex Knipper, Naman Bansal, Jingyi Zheng, Wenying Li, <b>Shubhra Kanti Karmaker Santu</b> "<i>Food for Thought: First place winners – Auburn Big Data.</i>" In Real World Data Science, August 21, 2023. <a href="https://realworlddatascience.net/case-studies/posts/2023/08/21/03-first-place-winners.html">Report</a></li>
+<li> [Arxiv 2019] &emsp; Lei Xu, <b>Shubhra Kanti Karmaker Santu</b>, Kalyan Veeramachaneni. "<i>MLFriend: Interactive Prediction Task Recommendation for Event-Driven Time-Series Data.</i>" In CoRR abs/1906.12348 (2019). <a href="https://arxiv.org/abs/1906.12348">Paper</a></li>
 </ol>
-
 
 
 

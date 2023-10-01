@@ -1,6 +1,6 @@
 ---
 title: 'Multi-Perspective Narrative (MPN) Understanding / Braiding'
-date: 2023-08-22
+date: 2023-08-24
 permalink: /posts/2023/08/CAMPeN/
 tags:
   - Research
