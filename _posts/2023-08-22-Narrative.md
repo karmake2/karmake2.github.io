@@ -1,5 +1,5 @@
 ---
-title: 'Project CAMPeN: Multi-Perspective Narrative (MPN) Understanding / Braiding'
+title: 'Multi-Perspective Narrative (MPN) Understanding / Braiding'
 date: 2023-08-22
 permalink: /posts/2023/08/CAMPeN/
 tags:
