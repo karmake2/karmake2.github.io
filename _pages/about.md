@@ -23,7 +23,8 @@ My name is Shubhra Kanti Karmaker ("Santu"). I am a Tenure-Track Assistant Profe
     <td style="border: none;" align="center" width="400"> <img src="images/ResearchInterest.png" alt="" /></td>
     <td style="border: none;" align="center"><span style="color:maroon; font-size:17px"> 
     	1. Received <b>\$700,854</b> basic research grant as the lead PI from <b>NSF</b> <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2302974&HistoricalAwards=false" target="_blank">(Award)</a> .<br/>
-    	2. Received <b>\$542,485</b> basic research grant as the sole PI from <b>AFOSR</b>.<br/><br/></span>
+    	2. Received <b>\$542,485</b> basic research grant as the sole PI from <b>AFOSR</b>.<br/>
+	3. Three papers from our group got into <b>EMNLP 2023</b>.<br/></span>
     </td>
  </tr>
 </table>
@@ -36,7 +37,7 @@ Our Sponsors (Thank You!!)
 
 News and Announcements
 ======================
-
+1. <span style="color:blue">[October 2023] </span> Three papers from our group have been accepted to <b>EMNLP 2023</b>.
 1. <span style="color:blue">[August 2023] </span> I have created a crash course about ACL Rolling Review (ARR) Service for the ACL Community. <a href="https://youtu.be/DaoCLEghXyU" target="_blank">Youtube Link</a>
 1. <span style="color:blue">[July 2023] </span>  Received <b>\$700,854</b> basic research grant as the lead PI from <b>NSF</b>. <a href="https://www.eng.auburn.edu/news/2023/08/assistant-professor-in-csse-earns-two-grants.html?fbclid=IwAR0c8lFZCwBQi4e3144agupHGZhyGguNK6K_p_yqVAYFXa_AytOg0pn0NXM" target="_blank">News</a>/<a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2302974&HistoricalAwards=false" target="_blank">(Award)</a> 
 1. <span style="color:blue">[July 2023] </span>  Received <b>\$542,485</b> basic research grant as the sole PI from <b>AFOSR</b>. <a href="https://www.eng.auburn.edu/news/2023/08/assistant-professor-in-csse-earns-two-grants.html?fbclid=IwAR0c8lFZCwBQi4e3144agupHGZhyGguNK6K_p_yqVAYFXa_AytOg0pn0NXM" target="_blank">News</a>
