@@ -37,6 +37,7 @@ Our Sponsors (Thank You!!)
 
 News and Announcements
 ======================
+1. <span style="color:blue">[January 2024] </span> <a href="https://www.linkedin.com/in/matthew-freestone-7b75381b9/" target="_blank">Matthew Freestone<a> and <a href="https://www.linkedin.com/in/matthew-c-williams-jr/" target="_blank">Matthew Williams</a> were selected for Honorable Mention in the <a href="https://cra.org/about/awards/outstanding-undergraduate-researcher-award/" target="_blank">2023-2024 Outstanding Undergraduate Researcher Award (URA)</a> from Computing Research Association (CRA).
 1. <span style="color:blue">[January 2024] </span> I will give an Invited Talk on "Democratizing AI" at the University of Pittsburgh.
 1. <span style="color:blue">[December 2023] </span>Check out our podcast with <a href="https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/profiles/ammirati-sean.html" target="_blank">Professor Sean Ammirati</a> from the CMU Business College, who found our TELeR taxonomy very useful and initiated this engaging conversation. <a href="https://agilegiants.seanammirati.com/improve-your-llm-prompts-decoding-the-teler-taxonomy/" target="_blank">Podcast Link</a>
 1. <span style="color:blue">[December 2023] </span> I gave an Invited Talk on "Democratizing AI" at the University at Buffalo.
