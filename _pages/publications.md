@@ -14,6 +14,7 @@ author_profile: true
 
 ## <span style="color:blue">Journal Papers</span>
 <ol reversed=true>
+<li> <b>[TMLR 2024] &emsp;</b> Md. Mahadi Hassan, Alex Knipper, <b>Shubhra Kanti Karmaker Santu</b>. "<i>Introducing 'Forecast Utterance' for Conversational Data Science.</i>" In Transactions on Machine Learning Research (To appear). <a href="https://arxiv.org/abs/2309.03877">Paper</a></li>
 <li> <b>[IP&M 2023] &emsp;</b> Dongji Feng and <b>Shubhra Kanti Karmaker Santu</b>. "<i>Joint upper & expected value normalization for evaluation of retrieval systems: A case study with Learning-to-Rank methods</i>". In Information Processing and Management, Volume 60, Issue 4, 2023, ISSN 0306-4573.  <a href="/files/Publications/2023/LowerBound.pdf">Paper</a> </li>
 <li> <b>[ACM TIST 2022] &emsp;</b> Souvika Sarkar, Biddut Sarker Bijoy, Syeda Jannatus Saba, Dongji Feng, Yash Mahajan, Sheikh Rabiul Islam, Md. Ruhul Amin and <b>Shubhra Kanti Karmaker Santu</b>. "<i>Ad-Hoc Monitoring of COVID-19 Global Research Trends for Well-Informed Policy Making</i>". In ACM Transactions on Intelligent Systems and Technology.  <a href="/files/Publications/2022/COVID_Research_Tracker.pdf">Paper</a> </li>
 <li> <b>[ACM CSUR 2022] &emsp;</b><b>Shubhra Kanti Karmaker Santu</b>, Md. Mahadi Hassan, Micah J. Smith, Lei Xu, Chengxiang Zhai, Kalyan Veeramachaneni. "<i>AutoML to Date and Beyond: Challenges and Opportunities</i>." In ACM Computing Surveys, 54(8): 175:1-175:36 (2022).  <a href="https://karmake2.github.io/files/Publications/2021/AutoML.pdf">Paper</a> </li>
@@ -24,6 +25,8 @@ author_profile: true
 
 ## <span style="color:blue">Conference Papers</span>
 <ol reversed>
+
+<li> <b>[ICPE 2024] &emsp;</b> Souvika Sarkar, Mohammad Fakhruddin Babar, Md Mahadi Hassan, Monowar Hasan, <b>Shubhra Kanti Karmaker Santu</b> "<i>Processing Natural Language on Embedded Devices: How Well Do Modern Models Perform?</i>" In International Conference on Performance Engineering (ICPE), 2024. <a href="https://arxiv.org/abs/2304.11520">Paper</a></li>
 
 <li> <b>[EMNLP 2023] &emsp;</b> Souvika Sarkar, Dongji Feng, <b>Shubhra Kanti Karmaker Santu</b> "<i>Zero-Shot Multi-Label Topic Inference with Sentence Encoders.</i>" In EMNLP, 2023. <a href="https://arxiv.org/abs/2304.07382">Paper</a></li>
 
@@ -85,11 +88,9 @@ author_profile: true
 ## <span style="color:blue">Arxiv Pre-prints</span>
 <ol reversed>
 <li> [Arxiv 2023] &emsp; Mousumi Akter, <b>Shubhra Kanti Karmaker Santu</b>. "<i>FaNS: a Facet-based Narrative Similarity Metric.</i>" In CoRR abs/2309.04823 (2023). <a href="https://arxiv.org/abs/2309.04823">Paper</a></li>
-<li> [Arxiv 2023] &emsp; Md. Mahadi Hassan, Alex Knipper, <b>Shubhra Kanti Karmaker Santu</b>. "<i>Introducing 'Forecast Utterance' for Conversational Data Science.</i>" In CoRR abs/2309.03877 (2023). <a href="https://arxiv.org/abs/2309.03877">Paper</a></li>
 <li> [Arxiv 2023] &emsp; Yash Mahajan, Naman Bansal, <b>Shubhra Kanti Karmaker Santu</b> ."<i>The Daunting Dilemma with Sentence Encoders: Success on Standard Benchmarks, Failure in Capturing Basic Semantic Properties.</i>" In CoRR abs/2309.03747 (2023). <a href="https://arxiv.org/abs/2309.03747">Paper</a></li>
 <li> [Arxiv 2023] &emsp; Mousumi Akter, <b>Shubhra Kanti Karmaker Santu</b> ."<i>Redundancy Aware Multi-Reference Based Gainwise Evaluation of Extractive Summarization.</i>" In CoRR abs/2308.02270 (2023). <a href="https://arxiv.org/abs/2308.02270">Paper</a></li>
 <li> [Arxiv 2023] &emsp; Md. Mahadi Hassan, Alex Knipper, <b>Shubhra Kanti Karmaker Santu</b>. "<i>ChatGPT as your Personal Data Scientist.</i>" In CoRR abs/2305.13657 (2023). <a href="https://arxiv.org/abs/2305.13657">Paper</a></li>
-<li> [Arxiv 2023] &emsp; Souvika Sarkar, Mohammad Fakhruddin Babar, Md. Mahadi Hassan, Monowar Hasan, <b>Shubhra Kanti Karmaker Santu</b> "<i>Processing Natural Language on Embedded Devices: How Well Do Modern Models Perform?.</i>" In CoRR abs/2304.11520 (2023). <a href="https://arxiv.org/abs/2304.11520">Paper</a></li>
 <li> [RWDS 2023] &emsp; Alex Knipper, Naman Bansal, Jingyi Zheng, Wenying Li, <b>Shubhra Kanti Karmaker Santu</b> "<i>Food for Thought: First place winners – Auburn Big Data.</i>" In Real World Data Science, August 21, 2023. <a href="https://realworlddatascience.net/case-studies/posts/2023/08/21/03-first-place-winners.html">Report</a></li>
 <li> [Arxiv 2019] &emsp; Lei Xu, <b>Shubhra Kanti Karmaker Santu</b>, Kalyan Veeramachaneni. "<i>MLFriend: Interactive Prediction Task Recommendation for Event-Driven Time-Series Data.</i>" In CoRR abs/1906.12348 (2019). <a href="https://arxiv.org/abs/1906.12348">Paper</a></li>
 </ol>
