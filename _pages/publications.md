@@ -26,11 +26,11 @@ author_profile: true
 ## <span style="color:blue">Conference Papers</span>
 <ol reversed>
 
-<li> <b>[ICPE 2024] &emsp;</b> Souvika Sarkar, Mohammad Fakhruddin Babar, Md Mahadi Hassan, Monowar Hasan, <b>Shubhra Kanti Karmaker Santu</b> "<i>Processing Natural Language on Embedded Devices: How Well Do Modern Models Perform?</i>" In International Conference on Performance Engineering (ICPE), 2024. <a href="https://arxiv.org/abs/2304.11520">Paper</a></li>
+<li> <b>[ICPE 2024] &emsp;</b> Souvika Sarkar, Mohammad Fakhruddin Babar, Md Mahadi Hassan, Monowar Hasan, <b>Shubhra Kanti Karmaker Santu</b>. "<i>Processing Natural Language on Embedded Devices: How Well Do Modern Models Perform?</i>" In International Conference on Performance Engineering (ICPE), 2024. <a href="https://arxiv.org/abs/2304.11520">Paper</a></li>
 
-<li> <b>[EMNLP 2023] &emsp;</b> Souvika Sarkar, Dongji Feng, <b>Shubhra Kanti Karmaker Santu</b> "<i>Zero-Shot Multi-Label Topic Inference with Sentence Encoders.</i>" In EMNLP, 2023. <a href="https://arxiv.org/abs/2304.07382">Paper</a></li>
+<li> <b>[EMNLP 2023] &emsp;</b> Souvika Sarkar, Dongji Feng, <b>Shubhra Kanti Karmaker Santu</b>. "<i>Zero-Shot Multi-Label Topic Inference with Sentence Encoders.</i>" In EMNLP, 2023. <a href="https://arxiv.org/abs/2304.07382">Paper</a></li>
 
-<li> <b>[EMNLP 2023] &emsp;</b> Mousumi Akter, Souvika Sarkar, <b>Shubhra Kanti Karmaker Santu</b> "<i>On Evaluation of Bangla Word Analogies.</i>"  In EMNLP, 2023. <a href="https://arxiv.org/abs/2304.04613">Paper</a></li>
+<li> <b>[EMNLP 2023] &emsp;</b> Mousumi Akter, Souvika Sarkar, <b>Shubhra Kanti Karmaker Santu</b>. "<i>On Evaluation of Bangla Word Analogies.</i>"  In EMNLP, 2023. <a href="https://arxiv.org/abs/2304.04613">Paper</a></li>
 
 <li> <b>[EMNLP 2023] &emsp;</b> <b>Shubhra Kanti Karmaker Santu</b>, Dongji Feng. "<i>TELeR: A General Taxonomy of LLM Prompts for Benchmarking Complex Tasks.</i>" In EMNLP, 2023. <a href="https://arxiv.org/abs/2305.11430">Paper</a></li>
 
