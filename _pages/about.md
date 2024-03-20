@@ -22,9 +22,9 @@ My name is Shubhra Kanti Karmaker ("Santu"). I am a Tenure-Track Assistant Profe
  <tr>
     <td style="border: none;" align="center" width="400"> <img src="images/ResearchInterest.png" alt="" /></td>
     <td style="border: none;" align="center"><span style="color:maroon; font-size:17px"> 
-    	1. Received <b>\$700,854</b> basic research grant as the lead PI from <b>NSF</b> <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2302974&HistoricalAwards=false" target="_blank">(Award)</a> .<br/>
-    	2. Received <b>\$542,485</b> basic research grant as the sole PI from <b>AFOSR</b>.<br/>
-	3. Three papers from our group got into <b>EMNLP 2023</b>.<br/></span>
+	 1. I will visit the <b>Technical University of Darmstadt</b> during the summer of 2024 (Sponsored by <a href="https://www.daad.de/en/" target="_blank">DAAD Fellowship</a>) to collaborate with <a href="https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp" target="_blank">Prof. Iryna Gurevych</a> .<br/>
+    	2. Received <b>\$700,854</b> basic research grant as the lead PI from <b>NSF</b> <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2302974&HistoricalAwards=false" target="_blank">(Award)</a> .<br/>
+    	3. Received <b>\$542,485</b> basic research grant as the sole PI from <b>AFOSR</b>.<br/></span>
     </td>
  </tr>
 </table>
@@ -37,7 +37,9 @@ Our Sponsors (Thank You!!)
 
 News and Announcements
 ======================
-1. <span style="color:blue">[January 2024] </span> <a href="https://www.linkedin.com/in/matthew-freestone-7b75381b9/" target="_blank">Matthew Freestone</a> and <a href="https://www.linkedin.com/in/matthew-c-williams-jr/" target="_blank">Matthew Williams</a> were selected for Honorable Mention in the <a href="https://cra.org/about/awards/outstanding-undergraduate-researcher-award/" target="_blank">2023-2024 Outstanding Undergraduate Researcher Award (URA)</a> from Computing Research Association (CRA).
+1. <span style="color:blue">[March 2024] </span> I have been selected for a <a href="https://www.daad.de/en/" target="_blank">DAAD (German Academic Exchange Service)</a> **Faculty Fellowship** called "Research Stays for University Academics and Scientists". I will visit the Technical University of Darmstadt during the summer of 2024 to collaborate with <a href="https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp" target="_blank">Prof. Iryna Gurevych</a>.
+2. <span style="color:blue">[March 2024] </span> I have been selected to receive the 2024 <a href="https://www.eng.auburn.edu/awards/100-women-strong-leadership-diversity-faculty.html" target="_blank">100+ Women Strong Leadership in Diversity Faculty/Staff Award</a> at the Samuel Ginn College of Engineering at AUBURN.
+3. <span style="color:blue">[January 2024] </span> <a href="https://www.linkedin.com/in/matthew-freestone-7b75381b9/" target="_blank">Matthew Freestone</a> and <a href="https://www.linkedin.com/in/matthew-c-williams-jr/" target="_blank">Matthew Williams</a> were selected for Honorable Mention in the <a href="https://cra.org/about/awards/outstanding-undergraduate-researcher-award/" target="_blank">2023-2024 Outstanding Undergraduate Researcher Award (URA)</a> from Computing Research Association (CRA).
 1. <span style="color:blue">[January 2024] </span> I will give an Invited Talk on "Democratizing AI" at the University of Pittsburgh.
 1. <span style="color:blue">[December 2023] </span>Check out our podcast with <a href="https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/profiles/ammirati-sean.html" target="_blank">Professor Sean Ammirati</a> from the CMU Business College, who found our TELeR taxonomy very useful and initiated this engaging conversation. <a href="https://agilegiants.seanammirati.com/improve-your-llm-prompts-decoding-the-teler-taxonomy/" target="_blank">Podcast Link</a>
 1. <span style="color:blue">[December 2023] </span> I gave an Invited Talk on "Democratizing AI" at the University at Buffalo.
@@ -51,15 +53,16 @@ News and Announcements
 1. <span style="color:blue">[May 2023] </span>  Journal paper accepted at Information Processing and Management (Impact Factor 7.5)!!
 1. <span style="color:blue">[March 2023] </span>  My students <a href="https://bnaman50.github.io/" target="_blank">Naman Bansal</a> and <a href="https://sites.google.com/view/mousumi-akter" target="_blank">Mousumi Akter</a> have been selected for Auburn University's Outstanding Doctoral student award. Great Achievement!! Congratulations to them.
 1. <span style="color:blue">[March 2023] </span>  My students <a href="https://souvika.github.io/" target="_blank">Souvika Sakar</a> and <a href="https://sites.google.com/view/mousumi-akter" target="_blank">Mousumi Akter</a> have been named 100+ Women Strong Outstanding Graduate Student Award recipients. Congratulations to them!!!
-1. <span style="color:blue">[February 2023] </span> I am now serving as the Communication Chair of ACL Rolling Reviews (ARR) Initiative. <a href="https://aclrollingreview.org/people" target="_blank">ARR</a>
+1. <span style="color:blue">[February 2023] </span> I am now serving as the **Communication Chair of ACL Rolling Reviews (ARR)** Initiative. <a href="https://aclrollingreview.org/people" target="_blank">ARR</a>
 1. <span style="color:blue">[December 2022] </span>  Champion in the "Food for Thought" National NLP challenge hosted by Coleridge Initiative in collaboration with the US Department of Agriculture. <a href="https://eng.auburn.edu/news/2022/11/auburn-big-data-team-wins-coleridge-second-round" target="_blank">Engineering College News</a>  / <a href="https://agriculture.auburn.edu/feature/faculty-team-places-first-in-usda-challenge/" target="_blank">Agriculture College News</a> 
-1. <span style="color:blue">[October 2022] </span>  Awarded Short-Term Innovative Research (STIR) Grant as PI. Sponsor: Army Research Office (ARO).
+1. <span style="color:blue">[October 2022] </span>  Awarded **Short-Term Innovative Research (STIR)** Grant as PI. Sponsor: Army Research Office (ARO).
 
 
 
 Media Coverage
 ======================
-1. Check out our podcast with <a href="https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/profiles/ammirati-sean.html" target="_blank">Professor Sean Ammirati</a> from the CMU Business College, who found our TELeR taxonomy very useful and initiated this engaging conversation. <a href="https://agilegiants.seanammirati.com/improve-your-llm-prompts-decoding-the-teler-taxonomy/" target="_blank">Podcast Link</a>
+1. <a href="https://www.linkedin.com/in/matthew-freestone-7b75381b9/" target="_blank">Matthew Freestone</a> and <a href="https://www.linkedin.com/in/matthew-c-williams-jr/" target="_blank">Matthew Williams</a> were selected for Honorable Mention in the <a href="https://cra.org/about/awards/outstanding-undergraduate-researcher-award/" target="_blank">2023-2024 Outstanding Undergraduate Researcher Award (URA)</a> from Computing Research Association (CRA). <a href="[https://agilegiants.seanammirati.com/improve-your-llm-prompts-decoding-the-teler-taxonomy/](https://eng.auburn.edu/news/2024/02/two-students-in-csse-recognized-by-national-organization)" target="_blank">News Link</a>
+2. Check out our podcast with <a href="https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/profiles/ammirati-sean.html" target="_blank">Professor Sean Ammirati</a> from the CMU Business College, who found our TELeR taxonomy very useful and initiated this engaging conversation. <a href="https://agilegiants.seanammirati.com/improve-your-llm-prompts-decoding-the-teler-taxonomy/" target="_blank">Podcast Link</a>
 1. Auburn Engineering College featured me on August 2023. <a href="https://www.eng.auburn.edu/news/2023/08/assistant-professor-in-csse-earns-two-grants.html?fbclid=IwAR0c8lFZCwBQi4e3144agupHGZhyGguNK6K_p_yqVAYFXa_AytOg0pn0NXM" target="_blank">News</a> <a href="https://twitter.com/AuburnEngineers/status/1687554579372851201?s=20" target="_blank">Video</a>
 1. My expert opinion on the Rise of the Chatbot and the Legal Dilemma. <a href="https://www.al.com/news/2023/03/rise-of-the-chatbot-alabama-lawmakers-confront-questions-about-artificial-intelligence.html" target="_blank">Al.com News</a>
 1. AI expert opinion on the Large Language Models and Chatbots. <a href="https://www.eng.auburn.edu/news/2023/03/artificial-intelligence-expert-in-csse-weighs-in-on-the-rise-of-chatbots.html" target="_blank">News</a>
