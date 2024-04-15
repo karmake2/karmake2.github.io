@@ -26,6 +26,8 @@ author_profile: true
 ## <span style="color:blue">Conference Papers</span>
 <ol reversed>
 
+<li> <b>[FSE 2024] &emsp;</b> Md. Mahadi Hassan, John Salvador, <b>Shubhra Kanti Karmaker Santu</b>, Akond Rahman. "<i>State Reconciliation Defects in Infrastructure as Code.</i>" In ACM International Conference on the Foundations of Software Engineering (FSE) (To appear). <a href="google.com">Paper</a></li>
+
 <li> <b>[ICPE 2024] &emsp;</b> Souvika Sarkar, Mohammad Fakhruddin Babar, Md Mahadi Hassan, Monowar Hasan, <b>Shubhra Kanti Karmaker Santu</b>. "<i>Processing Natural Language on Embedded Devices: How Well Do Modern Models Perform?</i>" In International Conference on Performance Engineering (ICPE), 2024. <a href="https://arxiv.org/abs/2304.11520">Paper</a></li>
 
 <li> <b>[EMNLP 2023] &emsp;</b> Souvika Sarkar, Dongji Feng, <b>Shubhra Kanti Karmaker Santu</b>. "<i>Zero-Shot Multi-Label Topic Inference with Sentence Encoders.</i>" In EMNLP, 2023. <a href="https://arxiv.org/abs/2304.07382">Paper</a></li>
