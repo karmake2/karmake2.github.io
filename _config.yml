@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Academic Homepage"
 title_separator          : "-"
-name                     : &name "Shubhra Kanti Karmaker (Santu)"
+name                     : &name "Santu Karmaker"
 description              : &description "personal description"
 url                      : ""  #the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Shubhra Kanti Karmaker (Santu)"
   avatar           : "profile.png"
-  bio              : "Assistant Professor<br>3106 Shelby Center<br> Department of CSSE<br>College of Engineering<br> Auburn University<br> Phone: 334-844-6274"
+  bio              : "Assistant Professor<br>L3Harris Engineering Center<br>Room 255<br> <br>Room 255<br>Department of Computer Science<br>University of Central Florida (uCF)"
   employer         : 
-  location         : "Auburn, AL, US"
+  location         : "Orlando, FL, USA"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=y6pZKT4AAAAJ&hl=en"
-  email            : "sks0086@auburn.edu"
+  email            : "firstname@put_the_university_domain"
   researchgate     : "https://www.researchgate.net/profile/Shubhra_Kanti_Karmaker_Santu"
   uri              :
   bitbucket        : "karmake2/"
