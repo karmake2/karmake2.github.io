@@ -10,7 +10,9 @@ redirect_from:
 
 
 
-My name is Shubhra Kanti Karmaker ("Santu"). I am a Tenure-Track Assistant Professor in the Department of [Computer Science](https://www.cs.ucf.edu/) at the University of Central Florida (UCF) as part of the [Artificial Intelligence Initiative](https://ai.ucf.edu/). Before joining UCF, I was an Assistant Professor in the Department of [Computer Science and Software Engineering](https://www.eng.auburn.edu/comp/) at Auburn University, Alabama. My primary research interest lies at the intersection of Natural Language Processing and Information Retrieval. Before joining Auburn University, I was a Postdoctoral Research Associate in the [Laboratory for Information and Decision Systems](https://lids.mit.edu/) at the Massachusetts Institute of Technology (MIT). Before joining MIT, I completed my Ph.D. in computer science from the University of Illinois Urbana Champaign (UIUC) under the supervision of [Prof. ChengXiang Zhai](http://czhai.cs.illinois.edu/). During my Ph.D., I also worked as a research intern at Microsoft Research (Summer 2017 and 2018), Yahoo Research (Summer 2016), and @WalmartLabs (Summer 2015).
+My name is Shubhra Kanti Karmaker ("Santu"). I am a Tenure-Track Assistant Professor in the Department of [Computer Science](https://www.cs.ucf.edu/) at the University of Central Florida (UCF), hired under the [Artificial Intelligence Initiative](https://ai.ucf.edu/). I am also the founding director of the Bridge-AI Lab at UCF, where my students and I work together to create new technologies to bridge the current gaps between humans and AI tools to democratize AI beyond the tech-savvy communities.
+
+Before joining UCF, I was an Assistant Professor in the Department of [Computer Science and Software Engineering](https://www.eng.auburn.edu/comp/) at Auburn University, Alabama. My primary research interest lies at the intersection of Natural Language Processing and Information Retrieval. Before joining Auburn University, I was a Postdoctoral Research Associate in the [Laboratory for Information and Decision Systems](https://lids.mit.edu/) at the Massachusetts Institute of Technology (MIT). Before joining MIT, I completed my Ph.D. in computer science from the University of Illinois Urbana Champaign (UIUC) under the supervision of [Prof. ChengXiang Zhai](http://czhai.cs.illinois.edu/). During my Ph.D., I also worked as a research intern at Microsoft Research (Summer 2017 and 2018), Yahoo Research (Summer 2016), and @WalmartLabs (Summer 2015).
 
 You can download my full CV <a href="../files/CV.pdf">here</a>.
 
@@ -22,7 +24,7 @@ You can download my full CV <a href="../files/CV.pdf">here</a>.
  <tr>
     <td style="border: none;" align="center" width="400"> <img src="images/ResearchInterest.png" alt="" /></td>
     <td style="border: none;" align="center"><span style="color:maroon; font-size:17px"> 
-	 1. I will visit the <b>Technical University of Darmstadt</b> during the summer of 2024 (Sponsored by <a href="https://www.daad.de/en/" target="_blank">DAAD Fellowship</a>) to collaborate with <a href="https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp" target="_blank">Prof. Iryna Gurevych</a> .<br/>
+	 1. I have moved to <b>UCF</b> and founded the <b>Bridge-AI Lab</b> @UCF.<br/>
     	2. Received <b>\$700,854</b> basic research grant as the lead PI from <b>NSF</b> <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2302974&HistoricalAwards=false" target="_blank">(Award)</a> .<br/>
     	3. Received <b>\$542,485</b> basic research grant as the sole PI from <b>AFOSR</b>.<br/></span>
     </td>
