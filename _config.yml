@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Academic Homepage"
+title                    : "Bridge-AI Lab"
 title_separator          : "-"
 name                     : &name "Santu Karmaker"
 description              : &description "personal description"
