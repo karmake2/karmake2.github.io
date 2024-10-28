@@ -26,7 +26,12 @@ author_profile: true
 ## <span style="color:blue">Conference Papers</span>
 <ol reversed>
 
-<li> <b>[FSE 2024] &emsp;</b> Md. Mahadi Hassan, John Salvador, <b>Shubhra Kanti Karmaker Santu</b>, Akond Rahman. "<i>State Reconciliation Defects in Infrastructure as Code.</i>" In ACM International Conference on the Foundations of Software Engineering (FSE) (To appear). <a href="google.com">Paper</a></li>
+<li> <b>[FSE 2024] &emsp;</b> Md. Mahadi Hassan, John Salvador, <b>Shubhra Kanti Karmaker Santu</b>, Akond Rahman. "<i>State Reconciliation Defects in Infrastructure as Code.</i>" In ACM International Conference on the Foundations of Software Engineering (FSE), 2024. <a href="https://dl.acm.org/doi/pdf/10.1145/3660790">Paper</a></li>
+
+<li> <b>[L@S 2024] &emsp;</b> Effat Farhana, Souvika Sarkar, Ralph Knipper, Indrani Dey, Hari Narayanan, Sadhana Puntambekar, <b>Shubhra (Santu) K. Karmaker</b>.
+"<i>SimPal: Towards a Meta-Conversational Framework to Understand Teacher's Instructional Goals for K-12 Physics</i>." ACM Learning@Scale 2024: 461-465. <a href="https://dl.acm.org/doi/pdf/10.1145/3660790">Paper</a></li>
+
+<li> <b>[KONVENS 2024] &emsp;</b> Mousumi Akter, <b>Shubhra Kanti Karmaker</b>. "<i>Redundancy Aware Multiple Reference Based Gainwise Evaluation of Extractive Summarization</i>". Proceedings of the 20th Conference on Natural Language Processing (KONVENS 2024): 182-195. <a href="https://aclanthology.org/2024.konvens-main.21.pdf">Paper</a></li>
 
 <li> <b>[ICPE 2024] &emsp;</b> Souvika Sarkar, Mohammad Fakhruddin Babar, Md Mahadi Hassan, Monowar Hasan, <b>Shubhra Kanti Karmaker Santu</b>. "<i>Processing Natural Language on Embedded Devices: How Well Do Modern Models Perform?</i>" In International Conference on Performance Engineering (ICPE), 2024. <a href="https://arxiv.org/abs/2304.11520">Paper</a></li>
 
@@ -85,24 +90,11 @@ author_profile: true
 
 
 
-
-
 ## <span style="color:blue">Arxiv Pre-prints</span>
 <ol reversed>
 <li> [Arxiv 2023] &emsp; Mousumi Akter, <b>Shubhra Kanti Karmaker Santu</b>. "<i>FaNS: a Facet-based Narrative Similarity Metric.</i>" In CoRR abs/2309.04823 (2023). <a href="https://arxiv.org/abs/2309.04823">Paper</a></li>
 <li> [Arxiv 2023] &emsp; Yash Mahajan, Naman Bansal, <b>Shubhra Kanti Karmaker Santu</b> ."<i>The Daunting Dilemma with Sentence Encoders: Success on Standard Benchmarks, Failure in Capturing Basic Semantic Properties.</i>" In CoRR abs/2309.03747 (2023). <a href="https://arxiv.org/abs/2309.03747">Paper</a></li>
-<li> [Arxiv 2023] &emsp; Mousumi Akter, <b>Shubhra Kanti Karmaker Santu</b> ."<i>Redundancy Aware Multi-Reference Based Gainwise Evaluation of Extractive Summarization.</i>" In CoRR abs/2308.02270 (2023). <a href="https://arxiv.org/abs/2308.02270">Paper</a></li>
 <li> [Arxiv 2023] &emsp; Md. Mahadi Hassan, Alex Knipper, <b>Shubhra Kanti Karmaker Santu</b>. "<i>ChatGPT as your Personal Data Scientist.</i>" In CoRR abs/2305.13657 (2023). <a href="https://arxiv.org/abs/2305.13657">Paper</a></li>
 <li> [RWDS 2023] &emsp; Alex Knipper, Naman Bansal, Jingyi Zheng, Wenying Li, <b>Shubhra Kanti Karmaker Santu</b> "<i>Food for Thought: First place winners – Auburn Big Data.</i>" In Real World Data Science, August 21, 2023. <a href="https://realworlddatascience.net/case-studies/posts/2023/08/21/03-first-place-winners.html">Report</a></li>
 <li> [Arxiv 2019] &emsp; Lei Xu, <b>Shubhra Kanti Karmaker Santu</b>, Kalyan Veeramachaneni. "<i>MLFriend: Interactive Prediction Task Recommendation for Event-Driven Time-Series Data.</i>" In CoRR abs/1906.12348 (2019). <a href="https://arxiv.org/abs/1906.12348">Paper</a></li>
 </ol>
-
-
-
-
-	
-
-
-
-
-
