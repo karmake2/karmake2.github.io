@@ -33,25 +33,25 @@ author_profile: true
 
 <li> <b>[KONVENS 2024] &emsp;</b> Mousumi Akter, <b>Shubhra Kanti Karmaker</b>. "<i>Redundancy Aware Multiple Reference Based Gainwise Evaluation of Extractive Summarization</i>". In Proceedings of the 20th Conference on Natural Language Processing (KONVENS 2024): 182-195. <a href="https://aclanthology.org/2024.konvens-main.21.pdf">Paper</a></li>
 
-<li> <b>[ICPE 2024] &emsp;</b> Souvika Sarkar, Mohammad Fakhruddin Babar, Md Mahadi Hassan, Monowar Hasan, <b>Shubhra Kanti Karmaker Santu</b>. "<i>Processing Natural Language on Embedded Devices: How Well Do Modern Models Perform?</i>" In International Conference on Performance Engineering (ICPE), 2024. <a href="https://arxiv.org/abs/2304.11520">Paper</a></li>
+<li> <b>[ICPE 2024] &emsp;</b> Souvika Sarkar, Mohammad Fakhruddin Babar, Md Mahadi Hassan, Monowar Hasan, <b>Shubhra Kanti Karmaker Santu</b>. "<i>Processing Natural Language on Embedded Devices: How Well Do Modern Models Perform?</i>" In International Conference on Performance Engineering (ICPE), 2024. <a href="https://dl.acm.org/doi/pdf/10.1145/3629526.3645054">Paper</a></li>
 
-<li> <b>[EMNLP 2023] &emsp;</b> Souvika Sarkar, Dongji Feng, <b>Shubhra Kanti Karmaker Santu</b>. "<i>Zero-Shot Multi-Label Topic Inference with Sentence Encoders.</i>" In EMNLP, 2023. <a href="https://arxiv.org/abs/2304.07382">Paper</a></li>
+<li> <b>[EMNLP 2023] &emsp;</b> Souvika Sarkar, Dongji Feng, <b>Shubhra Kanti Karmaker Santu</b>. "<i>Zero-Shot Multi-Label Topic Inference with Sentence Encoders.</i>" In EMNLP, 2023. <a href="https://aclanthology.org/2023.emnlp-main.1008.pdf">Paper</a></li>
 
-<li> <b>[EMNLP 2023] &emsp;</b> Mousumi Akter, Souvika Sarkar, <b>Shubhra Kanti Karmaker Santu</b>. "<i>On Evaluation of Bangla Word Analogies.</i>"  In EMNLP, 2023. <a href="https://arxiv.org/abs/2304.04613">Paper</a></li>
+<li> <b>[EMNLP 2023] &emsp;</b> Mousumi Akter, Souvika Sarkar, <b>Shubhra Kanti Karmaker Santu</b>. "<i>On Evaluation of Bangla Word Analogies.</i>"  In EMNLP, 2023. <a href="https://aclanthology.org/2023.emnlp-main.811.pdf">Paper</a></li>
 
-<li> <b>[EMNLP Findings 2023] &emsp;</b> <b>Shubhra Kanti Karmaker Santu</b>, Dongji Feng. "<i>TELeR: A General Taxonomy of LLM Prompts for Benchmarking Complex Tasks.</i>" In Findings of EMNLP, 2023. <a href="https://arxiv.org/abs/2305.11430">Paper</a></li>
+<li> <b>[EMNLP Findings 2023] &emsp;</b> <b>Shubhra Kanti Karmaker Santu</b>, Dongji Feng. "<i>TELeR: A General Taxonomy of LLM Prompts for Benchmarking Complex Tasks.</i>" In Findings of EMNLP, 2023. <a href="https://aclanthology.org/2023.findings-emnlp.946.pdf">Paper</a></li>
 
-<li> <b>[ACL Findings 2022] &emsp;</b> Mousumi Akter, Naman Bansal, <b>Shubhra Kanti Karmaker</b>. "<i>Revisiting Automatic Evaluation of Extractive Summarization Task: Can We Do Better than ROUGE? </i>" In Findings of ACL, 2022. <a href="/files/Publications/2022/Sem-nCG.pdf">Paper</a> </li>
+<li> <b>[ACL Findings 2022] &emsp;</b> Mousumi Akter, Naman Bansal, <b>Shubhra Kanti Karmaker</b>. "<i>Revisiting Automatic Evaluation of Extractive Summarization Task: Can We Do Better than ROUGE? </i>" In Findings of ACL, 2022. <a href="https://aclanthology.org/2022.findings-acl.122.pdf">Paper</a> </li>
 
-<li> <b>[EMNLP 2022] &emsp;</b> Naman Bansal, Mousumi Akter,  <b>Shubhra Kanti Karmaker</b>. "<i>Learning to Generate Overlap Summaries through Noisy Synthetic Data</i>". In EMNLP, 2022. <a href="/files/Publications/2022/SOFSAT_Synthetic_Data.pdf">Paper</a>	 <a href="/files/Publications/2022/SOFSAT_Data.zip">Dataset</a></li>
+<li> <b>[EMNLP 2022] &emsp;</b> Naman Bansal, Mousumi Akter,  <b>Shubhra Kanti Karmaker</b>. "<i>Learning to Generate Overlap Summaries through Noisy Synthetic Data</i>". In EMNLP, 2022. <a href="https://aclanthology.org/2022.emnlp-main.807.pdf">Paper</a>	 <a href="/files/Publications/2022/SOFSAT_Data.zip">Dataset</a></li>
 
-<li> <b>[EMNLP 2022] &emsp;</b> Naman Bansal, Mousumi Akter,  <b>Shubhra Kanti Karmaker</b>. "<i>SEM-F1: an Automatic Way for Semantic Evaluation of Multi-Narrative Overlap Summaries at Scale</i>". In EMNLP, 2022. <a href="/files/Publications/2022/SEM_F1.pdf">Paper</a>	<a href="/files/Publications/2022/SOFSAT_Data.zip">Dataset</a></li>
+<li> <b>[EMNLP 2022] &emsp;</b> Naman Bansal, Mousumi Akter,  <b>Shubhra Kanti Karmaker</b>. "<i>SEM-F1: an Automatic Way for Semantic Evaluation of Multi-Narrative Overlap Summaries at Scale</i>". In EMNLP, 2022. <a href="https://aclanthology.org/2022.emnlp-main.49.pdf">Paper</a>	<a href="/files/Publications/2022/SOFSAT_Data.zip">Dataset</a></li>
 
-<li> <b>[COLING 2022] &emsp;</b> Naman Bansal, Mousumi Akter,  <b>Shubhra Kanti Karmaker</b>. "<i>Semantic Overlap Summarization among Multiple Alternative Narratives: an Exploratory Study</i>". In COLING, 2022. <a href="/files/Publications/2022/SOFSAT_Intro.pdf">Paper</a>	<a href="/files/Publications/2022/SOFSAT_Data.zip">Dataset</a></li>
+<li> <b>[COLING 2022] &emsp;</b> Naman Bansal, Mousumi Akter,  <b>Shubhra Kanti Karmaker</b>. "<i>Semantic Overlap Summarization among Multiple Alternative Narratives: an Exploratory Study</i>". In COLING, 2022. <a href="https://aclanthology.org/2022.coling-1.541.pdf">Paper</a>	<a href="/files/Publications/2022/SOFSAT_Data.zip">Dataset</a></li>
 
-<li> <b>[AACL 2022] &emsp;</b>Ralph (Alex) Knipper, Md. Mahadi Hassan, Mehdi Sadi, <b>Shubhra Kanti Karmaker</b>. "<i>Analogy-Guided Evolutionary Pretraining of Binary Word Embeddings</i>". In AACL/IJCNLP, 2022. <a href="/files/Publications/2022/Genetic_Embedding.pdf">Paper</a> </li>
+<li> <b>[AACL 2022] &emsp;</b>Ralph (Alex) Knipper, Md. Mahadi Hassan, Mehdi Sadi, <b>Shubhra Kanti Karmaker</b>. "<i>Analogy-Guided Evolutionary Pretraining of Binary Word Embeddings</i>". In AACL/IJCNLP, 2022. <a href="https://aclanthology.org/2022.aacl-main.52.pdf">Paper</a> </li>
 
-<li> <b>[AACL 2022] &emsp;</b> Souvika Sarkar, Dongji Feng, <b>Shubhra Kanti Karmaker</b>. "<i>Exploring Universal Sentence Encoders for Zero-shot Text Classification</i>". In AACL/IJCNLP, 2022. <a href="/files/Publications/2022/Annotate_USE.pdf">Paper</a> </li>
+<li> <b>[AACL 2022] &emsp;</b> Souvika Sarkar, Dongji Feng, <b>Shubhra Kanti Karmaker</b>. "<i>Exploring Universal Sentence Encoders for Zero-shot Text Classification</i>". In AACL/IJCNLP, 2022. <a href="https://aclanthology.org/2022.aacl-short.18.pdf">Paper</a> </li>
 
 <li> <b>[BigData 2022] &emsp;</b> Yash Mahajan, Sheikh Rabiul Islam, Md. Ruhul Amin, <b>Shubhra Kanti Karmaker</b>. "<i>Data-Driven Estimation of Effectiveness of COVID-19 Non-pharmaceutical Intervention Policies</i>". In IEEE BigData, 2022. <a href="/files/Publications/2022/COVID_NPI_BigData.pdf">Paper</a> </li>
 
@@ -61,7 +61,7 @@ author_profile: true
 
 <li> <b>[ICWSM 2020] &emsp;</b>  Naeemul Hassan, Amrit Poudel, Jason Hale, Claire Hubacek, Khandakar Tasnim Huq, <b>Shubhra Kanti Karmaker Santu</b>, Syed Ishtiaque Ahmed. "<i>Towards Automated Sexual Violence Report Tracking</i>".	In ICWSM 2020. 	<a href="https://karmake2.github.io/files/Publications/2019/Metoo.pdf">Paper</a>	</li>
 
-<li> <b>[CoNLL 2019] &emsp;</b><b>Shubhra Kanti Karmaker Santu</b>, Kalyan Veeramachaneni, ChengXiang Zhai. "<i>Neural Language Models with Evolving Topical Influence</i>".	In ACL SIGNLL CoNLL 2019. <a href="https://karmake2.github.io/files/Publications/2019/TILM.pdf">Paper</a></li>
+<li> <b>[CoNLL 2019] &emsp;</b><b>Shubhra Kanti Karmaker Santu</b>, Kalyan Veeramachaneni, ChengXiang Zhai. "<i>Neural Language Models with Evolving Topical Influence</i>".	In ACL SIGNLL CoNLL 2019. <a href="https://aclanthology.org/K19-1073.pdf">Paper</a></li>
 
 <li> <b>[CIKM 2019] &emsp;</b>Saar Kuzi, Sahiti Labhishetty, <b>Shubhra Kanti Karmaker Santu</b>, Prasad Pradip Joshi and ChengXiang Zhai. "<i>Analysis of Adaptive Training for Learning to Rank in Information Retrieval</i>". In ACM CIKM 2019. <a href="https://karmake2.github.io/files/Publications/2019/Robust_LTR.pdf">Paper</a>	</li>
 
