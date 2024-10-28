@@ -39,9 +39,9 @@ author_profile: true
 
 <li> <b>[EMNLP 2023] &emsp;</b> Mousumi Akter, Souvika Sarkar, <b>Shubhra Kanti Karmaker Santu</b>. "<i>On Evaluation of Bangla Word Analogies.</i>"  In EMNLP, 2023. <a href="https://arxiv.org/abs/2304.04613">Paper</a></li>
 
-<li> <b>[EMNLP 2023] &emsp;</b> <b>Shubhra Kanti Karmaker Santu</b>, Dongji Feng. "<i>TELeR: A General Taxonomy of LLM Prompts for Benchmarking Complex Tasks.</i>" In EMNLP, 2023. <a href="https://arxiv.org/abs/2305.11430">Paper</a></li>
+<li> <b>[EMNLP Findings 2023] &emsp;</b> <b>Shubhra Kanti Karmaker Santu</b>, Dongji Feng. "<i>TELeR: A General Taxonomy of LLM Prompts for Benchmarking Complex Tasks.</i>" In Findings of EMNLP, 2023. <a href="https://arxiv.org/abs/2305.11430">Paper</a></li>
 
-<li> <b>[ACL 2022] &emsp;</b> Mousumi Akter, Naman Bansal, <b>Shubhra Kanti Karmaker</b>. "<i>Revisiting Automatic Evaluation of Extractive Summarization Task: Can We Do Better than ROUGE? </i>" In Findings of ACL, 2022. <a href="/files/Publications/2022/Sem-nCG.pdf">Paper</a> </li>
+<li> <b>[ACL Findings 2022] &emsp;</b> Mousumi Akter, Naman Bansal, <b>Shubhra Kanti Karmaker</b>. "<i>Revisiting Automatic Evaluation of Extractive Summarization Task: Can We Do Better than ROUGE? </i>" In Findings of ACL, 2022. <a href="/files/Publications/2022/Sem-nCG.pdf">Paper</a> </li>
 
 <li> <b>[EMNLP 2022] &emsp;</b> Naman Bansal, Mousumi Akter,  <b>Shubhra Kanti Karmaker</b>. "<i>Learning to Generate Overlap Summaries through Noisy Synthetic Data</i>". In EMNLP, 2022. <a href="/files/Publications/2022/SOFSAT_Synthetic_Data.pdf">Paper</a>	 <a href="/files/Publications/2022/SOFSAT_Data.zip">Dataset</a></li>
 
