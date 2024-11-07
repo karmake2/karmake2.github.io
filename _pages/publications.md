@@ -25,7 +25,7 @@ author_profile: true
 
 ## <span style="color:blue">Conference Papers</span>
 <ol reversed>
-<li> [EMNLP 2024 (Findings)] &emsp; Yash Mahajan, Naman Bansal, Eduardo Blanco, <b>Santu Karmaker</b>." <i>ALIGN-SIM: A Task-Free Test Bed for Evaluating and Interpreting Sentence Embeddings through Semantic Similarity Alignment.</i>" In Findings of the Association for Computational Linguistics: EMNLP 2024, pages 7393–7428, Miami, Florida, USA. <a href="https://arxiv.org/abs/2309.03747">Paper</a></li>
+<li> <b>[EMNLP 2024 (Findings)] &emsp;</b> Yash Mahajan, Naman Bansal, Eduardo Blanco, <b>Santu Karmaker</b>." <i>ALIGN-SIM: A Task-Free Test Bed for Evaluating and Interpreting Sentence Embeddings through Semantic Similarity Alignment.</i>" In Findings of the Association for Computational Linguistics: EMNLP 2024, pages 7393–7428, Miami, Florida, USA. <a href="https://arxiv.org/abs/2309.03747">Paper</a></li>
 
 <li> <b>[FSE 2024] &emsp;</b> Md. Mahadi Hassan, John Salvador, <b>Shubhra Kanti Karmaker Santu</b>, Akond Rahman. "<i>State Reconciliation Defects in Infrastructure as Code.</i>" In ACM International Conference on the Foundations of Software Engineering (FSE), 2024. <a href="https://dl.acm.org/doi/pdf/10.1145/3660790">Paper</a></li>
 
