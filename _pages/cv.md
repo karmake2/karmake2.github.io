@@ -15,7 +15,7 @@ You can download my full CV [here](../files/CV.pdf)
 		<td class="table__tablenospace" align="left">
 			<span style="color:black; font-size:17px"> 
 				<font color="purple" size="5"><b>Massachusetts Institute of Technology (MIT)</b></font><br/>
-				Postdoctoral Research Associate [February, 2019 - Current]<br/>
+				Postdoctoral Research Associate [January 2019 - December 2019]<br/>
 				Host: <a href="https://kalyan.lids.mit.edu/">Dr. Kalyan Veeramachaneni</a><br/>
 				Lab: <a href="https://lids.mit.edu/">Laboratory for Information and Decision Systems (LIDS)</a></span></td>
  	</tr>
