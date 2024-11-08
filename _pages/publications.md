@@ -94,7 +94,6 @@ author_profile: true
 ## <span style="color:blue">Arxiv Pre-prints</span>
 <ol reversed>
 <li> [Arxiv 2023] &emsp; Mousumi Akter, <b>Shubhra Kanti Karmaker Santu</b>. "<i>FaNS: a Facet-based Narrative Similarity Metric.</i>" In CoRR abs/2309.04823 (2023). <a href="https://arxiv.org/abs/2309.04823">Paper</a></li>
-<li> [Arxiv 2023] &emsp; Yash Mahajan, Naman Bansal, <b>Shubhra Kanti Karmaker Santu</b> ."<i>The Daunting Dilemma with Sentence Encoders: Success on Standard Benchmarks, Failure in Capturing Basic Semantic Properties.</i>" In CoRR abs/2309.03747 (2023). <a href="https://arxiv.org/abs/2309.03747">Paper</a></li>
 <li> [Arxiv 2023] &emsp; Md. Mahadi Hassan, Alex Knipper, <b>Shubhra Kanti Karmaker Santu</b>. "<i>ChatGPT as your Personal Data Scientist.</i>" In CoRR abs/2305.13657 (2023). <a href="https://arxiv.org/abs/2305.13657">Paper</a></li>
 <li> [RWDS 2023] &emsp; Alex Knipper, Naman Bansal, Jingyi Zheng, Wenying Li, <b>Shubhra Kanti Karmaker Santu</b> "<i>Food for Thought: First place winners – Auburn Big Data.</i>" In Real World Data Science, August 21, 2023. <a href="https://realworlddatascience.net/case-studies/posts/2023/08/21/03-first-place-winners.html">Report</a></li>
 <li> [Arxiv 2019] &emsp; Lei Xu, <b>Shubhra Kanti Karmaker Santu</b>, Kalyan Veeramachaneni. "<i>MLFriend: Interactive Prediction Task Recommendation for Event-Driven Time-Series Data.</i>" In CoRR abs/1906.12348 (2019). <a href="https://arxiv.org/abs/1906.12348">Paper</a></li>
