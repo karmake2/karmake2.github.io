@@ -11,20 +11,10 @@ author_profile: true
 
 {% include base_path %}
 
-
-## <span style="color:blue">Journal Papers</span>
-<ol reversed=true>
-<li> <b>[TMLR 2024] &emsp;</b> Md. Mahadi Hassan, Alex Knipper, <b>Shubhra Kanti Karmaker Santu</b>. "<i>Introducing 'Forecast Utterance' for Conversational Data Science.</i>" In Transactions on Machine Learning Research (To appear). <a href="https://arxiv.org/abs/2309.03877">Paper</a></li>
-<li> <b>[IP&M 2023] &emsp;</b> Dongji Feng and <b>Shubhra Kanti Karmaker Santu</b>. "<i>Joint upper & expected value normalization for evaluation of retrieval systems: A case study with Learning-to-Rank methods</i>". In Information Processing and Management, Volume 60, Issue 4, 2023, ISSN 0306-4573.  <a href="/files/Publications/2023/LowerBound.pdf">Paper</a> </li>
-<li> <b>[ACM TIST 2022] &emsp;</b> Souvika Sarkar, Biddut Sarker Bijoy, Syeda Jannatus Saba, Dongji Feng, Yash Mahajan, Sheikh Rabiul Islam, Md. Ruhul Amin and <b>Shubhra Kanti Karmaker Santu</b>. "<i>Ad-Hoc Monitoring of COVID-19 Global Research Trends for Well-Informed Policy Making</i>". In ACM Transactions on Intelligent Systems and Technology.  <a href="/files/Publications/2022/COVID_Research_Tracker.pdf">Paper</a> </li>
-<li> <b>[ACM CSUR 2022] &emsp;</b><b>Shubhra Kanti Karmaker Santu</b>, Md. Mahadi Hassan, Micah J. Smith, Lei Xu, Chengxiang Zhai, Kalyan Veeramachaneni. "<i>AutoML to Date and Beyond: Challenges and Opportunities</i>." In ACM Computing Surveys, 54(8): 175:1-175:36 (2022).  <a href="https://karmake2.github.io/files/Publications/2021/AutoML.pdf">Paper</a> </li>
-<li>[SIGKDD Explorations 2018] &emsp; <b>Shubhra Kanti Karmaker Santu</b>, C. Geigle, D. C. Ferguson, W. Cope, M. Kalantzis, D. Searsmith, Chengxiang Zhai. "<i>SOFSAT: Towards a Setlike Operator based Framework for Semantic Analysis of Text</i>". In ACM SIGKDD Explorations [Position Paper]"> <a href="https://karmake2.github.io/files/Publications/2018/SOFSAT.pdf">Paper</a></li>
-</ol>
-
-
-
 ## <span style="color:blue">Conference Papers</span>
 <ol reversed>
+
+<li> <b>[ACL 2025] &emsp;</b> EMohammad Saqib Hasan, Saikat Chakraborty, <b>Santu Karmaker</b>, Niranjan Balasubramanian." <i>Teaching an Old LLM Secure Coding: Localized Preference Optimization on Distilled Preferences.</i>" To Appear at ACL 2025, Vienna, Austria.
 
 <li> <b>[NAACL 2025] &emsp;</b> Eftekhar Hossain, Sanjeev Kumar Sinha, Naman Bansal, Alex Knipper, Souvika Sarkar, John Salvador, Yash Mahajan, Sri Guttikonda, Mousumi Akter, Md Mahadi Hassan, Matthew Freestone, Matthew C Williams Jr, Dongji Feng, <b>Santu Karmaker</b>." <i>LLMs as Meta-Reviewers' Assistants: A Case Study.</i>" In 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL), pages: To Appear, 
 Albuquerque, New Mexico, USA. <a href="https://arxiv.org/abs/2402.15589">Paper</a></li>
@@ -83,6 +73,18 @@ Albuquerque, New Mexico, USA. <a href="https://arxiv.org/abs/2402.15589">Paper</
 <li><b>[IJCNN 2014] &emsp;</b>Md. Mustafizur Rahman, <b>Shubhra Kanti Karmaker Santu</b>, Md. Monirul Islam, Kazuyuki Murase. "<i>Forecasting time series - A layered ensemble architecture</i>". In IJCNN 2014. <a href="https://karmake2.github.io/files/Publications/2014/IJCNN_TSF.pdf">Paper</a></li>
 
 <li><b>[CEC 2014] &emsp;</b><b>Shubhra Kanti Karmaker Santu</b>, Md. Mustafizur Rahman, Md. Monirul Islam, Kazuyuki Murase. "<i>Towards better generalization in Pittsburgh learning classifier systems</i>". In IEEE CEC (Congress on Evolutionary Computation) 2014. <a href="https://karmake2.github.io/files/Publications/2014/CEC_EDARIC.pdf">Paper</a>	&nbsp;&nbsp;<a href="https://karmake2.github.io/files/Publications/2014/EDARIC_Presenation.pptx">Presentation</a>	</li>
+</ol>
+
+
+
+
+## <span style="color:blue">Journal Papers</span>
+<ol reversed=true>
+<li> <b>[TMLR 2024] &emsp;</b> Md. Mahadi Hassan, Alex Knipper, <b>Shubhra Kanti Karmaker Santu</b>. "<i>Introducing 'Forecast Utterance' for Conversational Data Science.</i>" In Transactions on Machine Learning Research (To appear). <a href="https://arxiv.org/abs/2309.03877">Paper</a></li>
+<li> <b>[IP&M 2023] &emsp;</b> Dongji Feng and <b>Shubhra Kanti Karmaker Santu</b>. "<i>Joint upper & expected value normalization for evaluation of retrieval systems: A case study with Learning-to-Rank methods</i>". In Information Processing and Management, Volume 60, Issue 4, 2023, ISSN 0306-4573.  <a href="/files/Publications/2023/LowerBound.pdf">Paper</a> </li>
+<li> <b>[ACM TIST 2022] &emsp;</b> Souvika Sarkar, Biddut Sarker Bijoy, Syeda Jannatus Saba, Dongji Feng, Yash Mahajan, Sheikh Rabiul Islam, Md. Ruhul Amin and <b>Shubhra Kanti Karmaker Santu</b>. "<i>Ad-Hoc Monitoring of COVID-19 Global Research Trends for Well-Informed Policy Making</i>". In ACM Transactions on Intelligent Systems and Technology.  <a href="/files/Publications/2022/COVID_Research_Tracker.pdf">Paper</a> </li>
+<li> <b>[ACM CSUR 2022] &emsp;</b><b>Shubhra Kanti Karmaker Santu</b>, Md. Mahadi Hassan, Micah J. Smith, Lei Xu, Chengxiang Zhai, Kalyan Veeramachaneni. "<i>AutoML to Date and Beyond: Challenges and Opportunities</i>." In ACM Computing Surveys, 54(8): 175:1-175:36 (2022).  <a href="https://karmake2.github.io/files/Publications/2021/AutoML.pdf">Paper</a> </li>
+<li>[SIGKDD Explorations 2018] &emsp; <b>Shubhra Kanti Karmaker Santu</b>, C. Geigle, D. C. Ferguson, W. Cope, M. Kalantzis, D. Searsmith, Chengxiang Zhai. "<i>SOFSAT: Towards a Setlike Operator based Framework for Semantic Analysis of Text</i>". In ACM SIGKDD Explorations [Position Paper]"> <a href="https://karmake2.github.io/files/Publications/2018/SOFSAT.pdf">Paper</a></li>
 </ol>
 
 
