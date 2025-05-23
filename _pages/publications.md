@@ -14,7 +14,7 @@ author_profile: true
 ## <span style="color:blue">Conference Papers</span>
 <ol reversed>
 
-<li> <b>[ACL 2025] &emsp;</b> EMohammad Saqib Hasan, Saikat Chakraborty, <b>Santu Karmaker</b>, Niranjan Balasubramanian." <i>Teaching an Old LLM Secure Coding: Localized Preference Optimization on Distilled Preferences.</i>" To Appear at ACL 2025, Vienna, Austria.
+<li> <b>[ACL 2025] &emsp;</b> EMohammad Saqib Hasan, Saikat Chakraborty, <b>Santu Karmaker</b>, Niranjan Balasubramanian." <i>Teaching an Old LLM Secure Coding: Localized Preference Optimization on Distilled Preferences.</i>" To Appear at ACL 2025, Vienna, Austria.</li>
 
 <li> <b>[NAACL 2025] &emsp;</b> Eftekhar Hossain, Sanjeev Kumar Sinha, Naman Bansal, Alex Knipper, Souvika Sarkar, John Salvador, Yash Mahajan, Sri Guttikonda, Mousumi Akter, Md Mahadi Hassan, Matthew Freestone, Matthew C Williams Jr, Dongji Feng, <b>Santu Karmaker</b>." <i>LLMs as Meta-Reviewers' Assistants: A Case Study.</i>" In 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL), pages: To Appear, 
 Albuquerque, New Mexico, USA. <a href="https://arxiv.org/abs/2402.15589">Paper</a></li>
@@ -74,8 +74,6 @@ Albuquerque, New Mexico, USA. <a href="https://arxiv.org/abs/2402.15589">Paper</
 
 <li><b>[CEC 2014] &emsp;</b><b>Shubhra Kanti Karmaker Santu</b>, Md. Mustafizur Rahman, Md. Monirul Islam, Kazuyuki Murase. "<i>Towards better generalization in Pittsburgh learning classifier systems</i>". In IEEE CEC (Congress on Evolutionary Computation) 2014. <a href="https://karmake2.github.io/files/Publications/2014/CEC_EDARIC.pdf">Paper</a>	&nbsp;&nbsp;<a href="https://karmake2.github.io/files/Publications/2014/EDARIC_Presenation.pptx">Presentation</a>	</li>
 </ol>
-
-
 
 
 ## <span style="color:blue">Journal Papers</span>
