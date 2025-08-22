@@ -14,12 +14,14 @@ author_profile: true
 ## <span style="color:blue">Conference Papers</span>
 <ol reversed>
 
-<li> <b>[ACL 2025] &emsp;</b> Mohammad Saqib Hasan, Saikat Chakraborty, <b>Santu Karmaker</b>, Niranjan Balasubramanian." <i>Teaching an Old LLM Secure Coding: Localized Preference Optimization on Distilled Preferences.</i>" To Appear at ACL 2025, Vienna, Austria.</li>
+<li> <b>[EMNLP 2025] &emsp;</b> John Salvador, Naman Bansal, Mousumi Akter, Souvika Sarkar, Anupam Das, <b>Santu Karmaker</b>. "<i>Benchmarking LLMs on the Semantic Overlap Summarization Task.</i>" To Appear at EMNLP 2025, Suzhou, China.</li>
 
-<li> <b>[NAACL 2025] &emsp;</b> Eftekhar Hossain, Sanjeev Kumar Sinha, Naman Bansal, Alex Knipper, Souvika Sarkar, John Salvador, Yash Mahajan, Sri Guttikonda, Mousumi Akter, Md Mahadi Hassan, Matthew Freestone, Matthew C Williams Jr, Dongji Feng, <b>Santu Karmaker</b>." <i>LLMs as Meta-Reviewers' Assistants: A Case Study.</i>" In 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL), pages: To Appear, 
+<li> <b>[ACL 2025] &emsp;</b> Mohammad Saqib Hasan, Saikat Chakraborty, <b>Santu Karmaker</b>, Niranjan Balasubramanian. "<i>Teaching an Old LLM Secure Coding: Localized Preference Optimization on Distilled Preferences.</i>" In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 26039–26057, Vienna, Austria. Association for Computational Linguistics.</li>
+
+<li> <b>[NAACL 2025] &emsp;</b> Eftekhar Hossain, Sanjeev Kumar Sinha, Naman Bansal, Alex Knipper, Souvika Sarkar, John Salvador, Yash Mahajan, Sri Guttikonda, Mousumi Akter, Md Mahadi Hassan, Matthew Freestone, Matthew C Williams Jr, Dongji Feng, <b>Santu Karmaker</b>. "<i>LLMs as Meta-Reviewers' Assistants: A Case Study.</i>" In 2025 Annual Conference of the Nations of the Americas Chapter of the Association for Computational Linguistics (NAACL), pages: To Appear, 
 Albuquerque, New Mexico, USA. <a href="https://arxiv.org/abs/2402.15589">Paper</a></li>
   
-<li> <b>[EMNLP 2024 (Findings)] &emsp;</b> Yash Mahajan, Naman Bansal, Eduardo Blanco, <b>Santu Karmaker</b>." <i>ALIGN-SIM: A Task-Free Test Bed for Evaluating and Interpreting Sentence Embeddings through Semantic Similarity Alignment.</i>" In Findings of the Association for Computational Linguistics: EMNLP 2024, pages 7393–7428, Miami, Florida, USA. <a href="https://arxiv.org/abs/2309.03747">Paper</a></li>
+<li> <b>[EMNLP 2024 (Findings)] &emsp;</b> Yash Mahajan, Naman Bansal, Eduardo Blanco, <b>Santu Karmaker</b>. "<i>ALIGN-SIM: A Task-Free Test Bed for Evaluating and Interpreting Sentence Embeddings through Semantic Similarity Alignment.</i>" In Findings of the Association for Computational Linguistics: EMNLP 2024, pages 7393–7428, Miami, Florida, USA. <a href="https://arxiv.org/abs/2309.03747">Paper</a></li>
 
 <li> <b>[FSE 2024] &emsp;</b> Md. Mahadi Hassan, John Salvador, <b>Shubhra Kanti Karmaker Santu</b>, Akond Rahman. "<i>State Reconciliation Defects in Infrastructure as Code.</i>" In ACM International Conference on the Foundations of Software Engineering (FSE), 2024. <a href="https://dl.acm.org/doi/pdf/10.1145/3660790">Paper</a></li>
 
