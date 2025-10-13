@@ -12,7 +12,7 @@ Urgent Decision-Making refers to the process of swiftly selecting an appropriate
 To address these limitations, our group is currently focusing on the following two core research problems.
 
 
-Rapid Summarization in Urgent Scenarios
+Project 1: Rapid Summarization in Urgent Scenarios
 ======
 Imagine Florida’s Gulf Coast bracing for the impact of a powerful Category 5 hurricane rapidly approaching the shore. At Clearwater Bay’s Emergency Operations Center, Sheriff Maria Alvarez is mobilizing her team for an urgent response. As preparations unfold, a sequence of escalating events occurs as follows:
 
@@ -21,23 +21,25 @@ Imagine Florida’s Gulf Coast bracing for the impact of a powerful Category 5 h
 </center>
 <br>
 
-- [6:30 PM] As she listens to the news on TV, the anchor reports, “The hurricane has intensified to 165
+- **[6:30 PM]** As she listens to the news on TV, the anchor reports, “The hurricane has intensified to 165
 mph and is expected to make landfall two hours ahead of schedule”.
-- [6:35 PM] Social media is exploded with frantic posts: “Flooding at Clearwater Marina!”; “Trapped in
+- **[6:35 PM]** Social media is exploded with frantic posts: “Flooding at Clearwater Marina!”; “Trapped in
 Cedar Pines Retirement Home!”; “We’re stuck-no buses moving!”.
-- [6:46 PM] Maria’s deputy Jim radios in: “A school bus carrying 26 children is stranded near marina”.
-- [6:47 PM] Sheriff Maria Alvarez looks through the window, and all she sees is a dark blue sky.
-- [6:48 PM] A 911 call from an unidentified source reports that several seniors at the retirement home are
+- **[6:46 PM]** Maria’s deputy Jim radios in: “A school bus carrying 26 children is stranded near marina”.
+- **[6:47 PM]** Sheriff Maria Alvarez looks through the window, and all she sees is a dark blue sky.
+- **[6:48 PM]** A 911 call from an unidentified source reports that several seniors at the retirement home are
 refusing to evacuate as floodwaters rapidly climb.
-[6:52 PM] The National Weather Service issues a dire alert: “Evacuate immediately. Bridge expected to
+- **[6:52 PM]** The National Weather Service issues a dire alert: “Evacuate immediately. Bridge expected to
 close within 40 minutes”.
 
-Now, imagine Maria, who is tasked with swiftly selecting an appropriate course of action under conditions of time pressure, high stakes, and incomplete or fragmented information, including unverified information. Things can quickly become intractable as a continuous influx of new information is received and the situation changes rapidly. This type of high-stakes, time-sensitive scenario exemplifies what is known as Urgent Decision-Making—the process of rapidly identifying and executing the most appropriate course of action despite limited, unreliable, or evolving information. Such scenarios are common during crises like natural disasters, public health emergencies, and security threats, and have historically resulted in significant loss of life and economic damage in the USA. In fact, multiple U.S. federal agencies estimate that inadequate urgent responses continue to cost the nation between <b>$500 billion</b> and <b>$1.5 trillion</b> annually, with each minute of faster action having the potential to save over <b>149,000 lives</b> and prevent billions in losses. This project is focused on addressing these challenges by establishing the first comprehensive computational framework for <b>Rapid Synthesis of Reliable Holistic Summaries</b>.
+Now, imagine Maria, who is tasked with swiftly selecting an appropriate course of action under conditions of time pressure, high stakes, and incomplete or fragmented information, including unverified information. Things can quickly become intractable as a continuous influx of new information is received and the situation changes rapidly. This type of high-stakes, time-sensitive scenario exemplifies what is known as Urgent Decision-Making—the process of rapidly identifying and executing the most appropriate course of action despite limited, unreliable, or evolving information. Such scenarios are common during crises like natural disasters, public health emergencies, and security threats, and have historically resulted in significant loss of life and economic damage in the USA. In fact, multiple U.S. federal agencies estimate that inadequate urgent responses continue to cost the nation between <b>$500 billion</b> and <b>$1.5 trillion</b> annually, with each minute of faster action having the potential to save over <b>149,000 lives</b> and prevent billions in losses. This project is focused on addressing these challenges by establishing the first comprehensive computational framework for <b>_Rapid Synthesis of Reliable Holistic Summaries_</b>.
 
+<br>
+<br>
 
-Holistic Situational Awareness with Multi-Perspective Narrative Understanding (Funded by AFOSR)
+Project 2: Holistic Situational Awareness with Multi-Perspective Narrative Understanding (Funded by AFOSR)
 ======
-Multi-Perspective Narratives (MPNs) are ubiquitous and very useful for verifying information from different alternative narratives, and thus, MPNs facilitate more informed decisions by providing a concise overall picture of the current situation. Despite great progress in the area of natural language processing (NLP), computers are still far from being able to analyze multi-perspective narratives accurately; addressing this limitation is the focus of this project.
+Multi-Perspective Narratives (MPNs) are ubiquitous and very useful for verifying information from different alternative narratives, and thus, MPNs facilitate more informed decisions by providing a concise overall picture of the current situation. Despite great progress in the area of natural language processing (NLP), computers still struggle to analyze multi-perspective narratives accurately; addressing this limitation is the focus of this project.
 
 In this ongoing project, we are developing a novel human-AI collaborative framework called CAMPeN ("Collaborative Analytics of Multi-Perspective Narratives''), where the AI, given multiple alternative narratives as input, first extracts a set of candidate clauses w.r.t. the Overlap-Unique-Conflict criteria, separately, in a zero-shot fashion. Next, the human actively verifies clauses that were labeled with low confidence by the AI. Finally, the machine braids the high-confidence/verified clauses to construct the ultimate Overlap-Unique-Conflict style summary, which will be presented to the user. The major benefits of the proposed framework are two-fold: 1) it enables domain experts in fields other than machine learning/NLP (e.g., a military general) to quickly dig out/verify interesting hypotheses from multiple alternative narratives/descriptions without worrying about the underlying computational techniques and thus, democratizes AI, and 2) it can quickly verify facts and claims about real-world events by analyzing alternative narratives and braid them into a single narrative with a higher degree of Information Assurance.
 
