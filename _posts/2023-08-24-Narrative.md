@@ -1,7 +1,7 @@
 ---
 title: 'Decision Advantage with AI in Urgent Scenarios'
-date: 2023-08-24
-permalink: /posts/2023/08/CAMPeN/
+date: 2025-08-24
+permalink: /posts/2025/10/DecisionAdvantage/
 tags:
   - Research
   - Vision
