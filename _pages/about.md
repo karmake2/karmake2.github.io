@@ -37,10 +37,10 @@ Our Sponsors (Thank You!!)
 
 News and Announcements
 ======================
-1. <span style="color:blue">**[October 2025]** </span>We just launched a new ranking system of LLMs based on their ability to resist cognitive biases with a large-scale study of **2.8M+** responses across 8 well-known biases (Anchoring, Availability, Confirmation, Framing, Prospect Theory & more). Explore the live rankings [here](https://bridgeai-lab.github.io/LLM-Ranking/).
-1. <span style="color:blue">**[August 2024]** </span>I have Moved to <b>UCF</b> and founded the <b>Bridge-AI Lab</b> @UCF.<br/></span>
-1. <span style="color:blue">**[March 2024]** </span> I have been selected for a <a href="https://www.daad.de/en/" target="_blank">DAAD (German Academic Exchange Service)</a> **Faculty Fellowship** called "Research Stays for University Academics and Scientists". I will visit the Technical University of Darmstadt during the summer of 2024 to collaborate with <a href="https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp" target="_blank">Prof. Iryna Gurevych</a>.
-1. <span style="color:blue">**[March 2024]** </span> I have been selected to receive the 2024 <a href="https://www.eng.auburn.edu/awards/100-women-strong-leadership-diversity-faculty.html" target="_blank">100+ Women Strong Leadership in Diversity Faculty/Staff Award</a> at the Samuel Ginn College of Engineering at AUBURN.
+1. <span style="color:blue">[October 2025] </span>We just launched a new ranking system of LLMs based on their ability to resist cognitive biases with a large-scale study of **2.8M+** responses across 8 well-known biases (Anchoring, Availability, Confirmation, Framing, Prospect Theory & more). Explore the live rankings [here](https://bridgeai-lab.github.io/LLM-Ranking/).
+1. <span style="color:blue">[August 2024] </span>I have Moved to <b>UCF</b> and founded the <b>Bridge-AI Lab</b> @UCF.<br/></span>
+1. <span style="color:blue">[March 2024] </span> I have been selected for a <a href="https://www.daad.de/en/" target="_blank">DAAD (German Academic Exchange Service)</a> **Faculty Fellowship** called "Research Stays for University Academics and Scientists". I will visit the Technical University of Darmstadt during the summer of 2024 to collaborate with <a href="https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp" target="_blank">Prof. Iryna Gurevych</a>.
+1. <span style="color:blue">[March 2024] </span> I have been selected to receive the 2024 <a href="https://www.eng.auburn.edu/awards/100-women-strong-leadership-diversity-faculty.html" target="_blank">100+ Women Strong Leadership in Diversity Faculty/Staff Award</a> at the Samuel Ginn College of Engineering at AUBURN.
 
 Media Coverage
 ======================
