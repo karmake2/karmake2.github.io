@@ -10,9 +10,9 @@ redirect_from:
 
 
 
-My name is Shubhra Kanti Karmaker ("Santu"). I am a Tenure-Track Assistant Professor in the Department of [Computer Science](https://www.cs.ucf.edu/) at the University of Central Florida (UCF), hired under the [Artificial Intelligence Initiative](https://ai.ucf.edu/). I am also the founding director of the Bridge-AI Lab at UCF, where my students and I work together to create new technologies to bridge the current gaps between humans and AI tools to democratize AI beyond the tech-savvy communities.
+My name is Shubhra Kanti Karmaker ("Santu"). I am a Tenure-Track Assistant Professor in the Department of [Computer Science](https://www.cs.ucf.edu/) at the University of Central Florida (UCF), and also affiliated with the [Institute of Artificial Intelligence](https://ai.ucf.edu/) and [Learning Science Faculty Cluster](https://www.ucf.edu/research/learning-sciences/). I am also the founding director of the Bridge-AI Lab at UCF, where my students and I work together to create new technologies to bridge the current gaps between humans and AI tools to democratize AI beyond the tech-savvy communities.
 
-Before joining UCF, I was an Assistant Professor in the Department of [Computer Science and Software Engineering](https://www.eng.auburn.edu/comp/) at Auburn University, Alabama. My primary research interest lies at the intersection of Natural Language Processing and Information Retrieval. Before joining Auburn University, I was a Postdoctoral Research Associate in the [Laboratory for Information and Decision Systems](https://lids.mit.edu/) at the Massachusetts Institute of Technology (MIT). Before joining MIT, I completed my Ph.D. in computer science from the University of Illinois Urbana Champaign (UIUC) under the supervision of [Prof. ChengXiang Zhai](http://czhai.cs.illinois.edu/). During my Ph.D., I also worked as a research intern at Microsoft Research (Summer 2017 and 2018), Yahoo Research (Summer 2016), and @WalmartLabs (Summer 2015).
+Before joining UCF, I was an Assistant Professor in the Department of [Computer Science and Software Engineering](https://www.eng.auburn.edu/comp/) at Auburn University, Alabama. My primary research interest lies at the intersection of Natural Language Processing and Information Retrieval. Before joining Auburn University, I was a Postdoctoral Research Associate in the [Laboratory for Information and Decision Systems](https://lids.mit.edu/) at the Massachusetts Institute of Technology (MIT). Before joining MIT, I completed my Ph.D. in computer science from the University of Illinois Urbana-Champaign (UIUC) under the supervision of [Prof. ChengXiang Zhai](http://czhai.cs.illinois.edu/). During my Ph.D., I also worked as a research intern at Microsoft Research (Summer 2017 and 2018), Yahoo Research (Summer 2016), and @WalmartLabs (Summer 2015).
 
 You can download my full CV <a href="../files/CV.pdf">here</a>.
 
@@ -24,9 +24,8 @@ You can download my full CV <a href="../files/CV.pdf">here</a>.
  <tr>
     <td style="border: none;" align="center" width="400"> <img src="images/ResearchInterest.png" alt="" /></td>
     <td style="border: none;" align="center"><span style="color:maroon; font-size:17px"> 
-	 1. I have moved to <b>UCF</b> and founded the <b>Bridge-AI Lab</b> @UCF.<br/>
-    	2. Received <b>\$700,854</b> basic research grant as the lead PI from <b>NSF</b> <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2302974&HistoricalAwards=false" target="_blank">(Award)</a> .<br/>
-    	3. Received <b>\$542,485</b> basic research grant as the sole PI from <b>AFOSR</b>.<br/></span>
+	    1. Our [Psycholinguistic Ranking](https://bridgeai-lab.github.io/LLM-Ranking/) of LLMs is now live
+		2. Moved to <b>UCF</b> and founded the <b>Bridge-AI Lab</b> @UCF.<br/>
     </td>
  </tr>
 </table>
@@ -38,6 +37,23 @@ Our Sponsors (Thank You!!)
 
 
 News and Announcements
+======================
+1. We just launched a new ranking system of LLMs based on their ability to resist cognitive biases with a large-scale study of **2.8M+** responses across 8 well-known biases (Anchoring, Availability, Confirmation, Framing, Prospect Theory & more). Explore the live rankings [here](https://bridgeai-lab.github.io/LLM-Ranking/)
+
+
+Media Coverage
+======================
+1. <a href="https://www.linkedin.com/in/matthew-freestone-7b75381b9/" target="_blank">Matthew Freestone</a> and <a href="https://www.linkedin.com/in/matthew-c-williams-jr/" target="_blank">Matthew Williams</a> were selected for Honorable Mention in the <a href="https://cra.org/about/awards/outstanding-undergraduate-researcher-award/" target="_blank">2023-2024 Outstanding Undergraduate Researcher Award (URA)</a> from Computing Research Association (CRA). <a href="[https://agilegiants.seanammirati.com/improve-your-llm-prompts-decoding-the-teler-taxonomy/](https://eng.auburn.edu/news/2024/02/two-students-in-csse-recognized-by-national-organization)" target="_blank">News Link</a>
+2. Check out our podcast with <a href="https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/profiles/ammirati-sean.html" target="_blank">Professor Sean Ammirati</a> from the CMU Business College, who found our TELeR taxonomy very useful and initiated this engaging conversation. <a href="https://agilegiants.seanammirati.com/improve-your-llm-prompts-decoding-the-teler-taxonomy/" target="_blank">Podcast Link</a>
+1. Auburn Engineering College featured me on August 2023. <a href="https://www.eng.auburn.edu/news/2023/08/assistant-professor-in-csse-earns-two-grants.html?fbclid=IwAR0c8lFZCwBQi4e3144agupHGZhyGguNK6K_p_yqVAYFXa_AytOg0pn0NXM" target="_blank">News</a> <a href="https://twitter.com/AuburnEngineers/status/1687554579372851201?s=20" target="_blank">Video</a>
+1. My expert opinion on the Rise of the Chatbot and the Legal Dilemma. <a href="https://www.al.com/news/2023/03/rise-of-the-chatbot-alabama-lawmakers-confront-questions-about-artificial-intelligence.html" target="_blank">Al.com News</a>
+1. AI expert opinion on the Large Language Models and Chatbots. <a href="https://www.eng.auburn.edu/news/2023/03/artificial-intelligence-expert-in-csse-weighs-in-on-the-rise-of-chatbots.html" target="_blank">News</a>
+1. Auburn Engineering College reporting our championship in the "Food for Thought" National NLP challenge. <a href="https://eng.auburn.edu/news/2022/11/auburn-big-data-team-wins-coleridge-second-round" target="_blank">News</a>
+1. Auburn Agriculture College reporting our championship in the "Food for Thought" National NLP challenge. <a href="https://agriculture.auburn.edu/feature/faculty-team-places-first-in-usda-challenge/" target="_blank">News</a>
+
+
+
+Older News
 ======================
 1. <span style="color:blue">[March 2024] </span> I have been selected for a <a href="https://www.daad.de/en/" target="_blank">DAAD (German Academic Exchange Service)</a> **Faculty Fellowship** called "Research Stays for University Academics and Scientists". I will visit the Technical University of Darmstadt during the summer of 2024 to collaborate with <a href="https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp" target="_blank">Prof. Iryna Gurevych</a>.
 2. <span style="color:blue">[March 2024] </span> I have been selected to receive the 2024 <a href="https://www.eng.auburn.edu/awards/100-women-strong-leadership-diversity-faculty.html" target="_blank">100+ Women Strong Leadership in Diversity Faculty/Staff Award</a> at the Samuel Ginn College of Engineering at AUBURN.
@@ -58,23 +74,6 @@ News and Announcements
 1. <span style="color:blue">[February 2023] </span> I am now serving as the **Communication Chair of ACL Rolling Reviews (ARR)** Initiative. <a href="https://aclrollingreview.org/people" target="_blank">ARR</a>
 1. <span style="color:blue">[December 2022] </span>  Champion in the "Food for Thought" National NLP challenge hosted by Coleridge Initiative in collaboration with the US Department of Agriculture. <a href="https://eng.auburn.edu/news/2022/11/auburn-big-data-team-wins-coleridge-second-round" target="_blank">Engineering College News</a>  / <a href="https://agriculture.auburn.edu/feature/faculty-team-places-first-in-usda-challenge/" target="_blank">Agriculture College News</a> 
 1. <span style="color:blue">[October 2022] </span>  Awarded **Short-Term Innovative Research (STIR)** Grant as PI. Sponsor: Army Research Office (ARO).
-
-
-
-Media Coverage
-======================
-1. <a href="https://www.linkedin.com/in/matthew-freestone-7b75381b9/" target="_blank">Matthew Freestone</a> and <a href="https://www.linkedin.com/in/matthew-c-williams-jr/" target="_blank">Matthew Williams</a> were selected for Honorable Mention in the <a href="https://cra.org/about/awards/outstanding-undergraduate-researcher-award/" target="_blank">2023-2024 Outstanding Undergraduate Researcher Award (URA)</a> from Computing Research Association (CRA). <a href="[https://agilegiants.seanammirati.com/improve-your-llm-prompts-decoding-the-teler-taxonomy/](https://eng.auburn.edu/news/2024/02/two-students-in-csse-recognized-by-national-organization)" target="_blank">News Link</a>
-2. Check out our podcast with <a href="https://www.cmu.edu/tepper/faculty-and-research/faculty-by-area/profiles/ammirati-sean.html" target="_blank">Professor Sean Ammirati</a> from the CMU Business College, who found our TELeR taxonomy very useful and initiated this engaging conversation. <a href="https://agilegiants.seanammirati.com/improve-your-llm-prompts-decoding-the-teler-taxonomy/" target="_blank">Podcast Link</a>
-1. Auburn Engineering College featured me on August 2023. <a href="https://www.eng.auburn.edu/news/2023/08/assistant-professor-in-csse-earns-two-grants.html?fbclid=IwAR0c8lFZCwBQi4e3144agupHGZhyGguNK6K_p_yqVAYFXa_AytOg0pn0NXM" target="_blank">News</a> <a href="https://twitter.com/AuburnEngineers/status/1687554579372851201?s=20" target="_blank">Video</a>
-1. My expert opinion on the Rise of the Chatbot and the Legal Dilemma. <a href="https://www.al.com/news/2023/03/rise-of-the-chatbot-alabama-lawmakers-confront-questions-about-artificial-intelligence.html" target="_blank">Al.com News</a>
-1. AI expert opinion on the Large Language Models and Chatbots. <a href="https://www.eng.auburn.edu/news/2023/03/artificial-intelligence-expert-in-csse-weighs-in-on-the-rise-of-chatbots.html" target="_blank">News</a>
-1. Auburn Engineering College reporting our championship in the "Food for Thought" National NLP challenge. <a href="https://eng.auburn.edu/news/2022/11/auburn-big-data-team-wins-coleridge-second-round" target="_blank">News</a>
-1. Auburn Agriculture College reporting our championship in the "Food for Thought" National NLP challenge. <a href="https://agriculture.auburn.edu/feature/faculty-team-places-first-in-usda-challenge/" target="_blank">News</a>
-
-
-
-Older News
-======================
 1. <span style="color:blue">[October 2022] </span>  Paper accepted at ACM Transactions on Intelligent Systems and Technology (Impact Factor 10.5)!!!
 1. <span style="color:blue">[October 2022] </span>  Paper accepted at IEEE BigData 2022.
 1. <span style="color:blue">[September 2022] </span>  Two Papers accepted at EMNLP 2022.
