@@ -1,6 +1,6 @@
 ---
 title: 'Decision Advantage with AI in Urgent Scenarios'
-date: 2025-08-24
+date: 2025-10-12
 permalink: /posts/2025/10/DecisionAdvantage/
 tags:
   - Research
