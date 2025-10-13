@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+I am currently serving as an Action Editor for the Transactions of ACL (TACL).
+
 I am currently serving as the Communication Chair of the ACL Rolling Reviews (ARR) Initiative. <a href="https://aclrollingreview.org/people" target="_blank">ARR</a>
 
 I have created a crash course about ACL Rolling Review (ARR) Service for the ACL Community. <a href="https://youtu.be/DaoCLEghXyU" target="_blank">Youtube Link</a>
