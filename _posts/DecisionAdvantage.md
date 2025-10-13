@@ -1,5 +1,5 @@
 ---
-title: 'Decision Advantage with AI in Urgent Scenarios'
+title: 'Decision Advantage with AI'
 date: 2025-10-12
 permalink: /posts/2025/10/DecisionAdvantage/
 tags:
