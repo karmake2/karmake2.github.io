@@ -23,8 +23,9 @@ You can download my full CV <a href="../files/CV.pdf">here</a>.
  </tr>
  <tr>
     <td style="border: none;" align="center" width="400"> <img src="images/ResearchInterest.png" alt="" /></td>
-    <td style="border: none;" align="center"><span style="color:maroon; font-size:17px">1. Our <a href="https://bridgeai-lab.github.io/LLM-Ranking/" target="_blank">Psycholinguistic Ranking</a> of LLMs is now live.<br>
-		2. Moved to <b>UCF</b> and founded the <b>Bridge-AI Lab</b> @UCF.</td>
+    <td style="border: none;" align="center"><span style="color:maroon; font-size:17px">1. Our <a href="https://bridgeai-lab.github.io/LLM-Ranking/" target="_blank">Psycholinguistic Ranking</a> of LLMs is now live.<br/>
+		2. Moved to <b>UCF</b> and founded the <b>Bridge-AI Lab</b> @UCF.<br/></span>
+	</td>
  </tr>
 </table>
 
