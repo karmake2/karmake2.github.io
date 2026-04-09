@@ -23,8 +23,8 @@ You can download my full CV <a href="../files/CV.pdf">here</a>.
  </tr>
  <tr>
     <td style="border: none;" align="center" width="400"> <img src="images/ResearchInterest.png" alt="" /></td>
-    <td style="border: none;" align="center"><span style="color:maroon; font-size:17px">1. Our <a href="https://bridgeai-lab.github.io/LLM-Ranking/" target="_blank">Psycholinguistic Ranking</a> of LLMs is now live.<br/>
-		2. Check out our <a href="https://aclanthology.org/2023.findings-emnlp.946.pdf" target="_blank">TELeR Taxonomy</a> for Prompting LLMs <br/> 3. Moved to <b>UCF</b> and founded the <b>Bridge-AI Lab</b> @UCF.<br/></span>
+    <td style="border: none;" align="center"><span style="color:maroon; font-size:17px">1. I have been selected for the ONR Young Investigator Program Award 2026. <br/> 2. Our <a href="https://bridgeai-lab.github.io/LLM-Ranking/" target="_blank">Psycholinguistic Ranking</a> of LLMs is now live.<br/>
+		3. Check out our <a href="https://aclanthology.org/2023.findings-emnlp.946.pdf" target="_blank">TELeR Taxonomy</a> for Prompting LLMs <br/>
 	</td>
  </tr>
 </table>
@@ -37,6 +37,7 @@ Our Sponsors (Thank You!!)
 
 News and Announcements
 ======================
+1. <span style="color:blue">[March 2026] </span> I have been selected as a recipient of the [ONR Young Investigator Program Award 2026](https://www.onr.navy.mil/2026-young-investigators). 
 1. <span style="color:blue">[October 2025] </span>We just launched a new ranking system of LLMs based on their ability to resist cognitive biases with a large-scale study of **2.8M+** responses across 8 well-known biases (Anchoring, Availability, Confirmation, Framing, Prospect Theory & more). Explore the live rankings [here](https://bridgeai-lab.github.io/LLM-Ranking/).
 1. <span style="color:blue">[August 2024] </span>I have Moved to <b>UCF</b> and founded the <b>Bridge-AI Lab</b> @UCF.<br/>
 1. <span style="color:blue">[March 2024] </span> I have been selected for a <a href="https://www.daad.de/en/" target="_blank">DAAD (German Academic Exchange Service)</a> **Faculty Fellowship** called "Research Stays for University Academics and Scientists". I will visit the Technical University of Darmstadt during the summer of 2024 to collaborate with <a href="https://www.informatik.tu-darmstadt.de/ukp/ukp_home/head_ukp" target="_blank">Prof. Iryna Gurevych</a>.
