@@ -14,9 +14,13 @@ author_profile: true
 ## <span style="color:blue">Conference Papers</span>
 <ol reversed>
 
-<li> <b>[AACL 2025] &emsp;</b> Yash Mahajan, Matthew Freestone, Naman Bansal, Sathyanarayanan N. Aakur, <b>Santu Karmaker</b>. "<i>Revisiting Word Embeddings in the LLM Era.</i>" To Appear at AACL 2025, Mumbai, India.</li>
+<li> <b>[ACL 2026] &emsp;</b> Eshgin Hasanov, Md. Mahadi Hassan, <b>Santu Karmaker</b>, Aashish Yadavally. "<i>The Path Not Taken: Duality in Reasoning about Program Execution.</i>" To appear at ACL 2026.</li>
 
-<li> <b>[EMNLP 2025] &emsp;</b> John Salvador, Naman Bansal, Mousumi Akter, Souvika Sarkar, Anupam Das, <b>Santu Karmaker</b>. "<i>Benchmarking LLMs on the Semantic Overlap Summarization Task.</i>" To Appear at EMNLP 2025, Suzhou, China.</li>
+<li> <b>[ACL 2026 (Findings)] &emsp;</b> Md. Mahadi Hassan, John Salvador, Akond Ashfaque Ur Rahman,  <b>Santu Karmaker</b>. "<i>Large Language Models for IT Automation Tasks: Are We There Yet?</i>" To appear at ACL Findings 2026.</li>
+
+<li> <b>[AACL 2025] &emsp;</b> Yash Mahajan, Matthew Freestone, Naman Bansal, Sathyanarayanan N. Aakur, <b>Santu Karmaker</b>. "<i>Revisiting Word Embeddings in the LLM Era.</i>" In Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics, pages 2686–2717, Mumbai, India. The Asian Federation of Natural Language Processing and The Association for Computational Linguistics.</li>
+
+<li> <b>[EMNLP 2025] &emsp;</b> John Salvador, Naman Bansal, Mousumi Akter, Souvika Sarkar, Anupam Das, <b>Santu Karmaker</b>. "<i>Benchmarking LLMs on the Semantic Overlap Summarization Task.</i>" In Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing, pages 33352–33373, Suzhou, China. Association for Computational Linguistics.</li>
 
 <li> <b>[ACL 2025] &emsp;</b> Mohammad Saqib Hasan, Saikat Chakraborty, <b>Santu Karmaker</b>, Niranjan Balasubramanian. "<i>Teaching an Old LLM Secure Coding: Localized Preference Optimization on Distilled Preferences.</i>" In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 26039–26057, Vienna, Austria. Association for Computational Linguistics.</li>
 
