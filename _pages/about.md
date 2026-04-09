@@ -23,9 +23,9 @@ You can download my full CV <a href="../files/CV.pdf">here</a>.
  </tr>
  <tr>
     <td style="border: none;" align="center" width="400"> <img src="images/ResearchInterest.png" alt="" /></td>
-    <td style="border: none;" align="center"><span style="color:maroon; font-size:17px">1. Selected for the ONR Young Investigator Program Award 2026. <br/>
+    <td style="border: none;" align="center"><span style="color:maroon; font-size:17px">1. Selected for the <a href="https://www.onr.navy.mil/2026-young-investigators" target="_blank">ONR Young Investigator Program Award 2026</a>.<br/>
 		2. Our <a href="https://bridgeai-lab.github.io/LLM-Ranking/" target="_blank">Psycholinguistic Ranking</a> of LLMs is now live. <br/>
-		3. Check out our <a href="https://aclanthology.org/2023.findings-emnlp.946.pdf" target="_blank">TELeR Taxonomy</a> for Prompting LLMs <br/>
+		3. Check out our <a href="https://aclanthology.org/2023.findings-emnlp.946.pdf" target="_blank">TELeR Taxonomy</a> for Prompting LLMs <br/></span>
 	</td>
  </tr>
 </table>
