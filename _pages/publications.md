@@ -97,9 +97,6 @@ Albuquerque, New Mexico, USA. <a href="https://arxiv.org/abs/2402.15589">Paper</
 
 ## <span style="color:blue">Peer-Reviewed Workshop Papers</span>
 <ol reversed>
-
-  . ""
-
 <li>[CMN 2026] &emsp; Hoang Bao Truong, Inderjeet Mani, Parisa Kordjamshidi and <b>Santu Karmaker</b>. "<i>Natural Language versus Narrative Representation in Causal Video Question Answering.</i>". In Proceedings of 9TH International Workshop on Computational Models of Narrative (CMN'26). <a href="https://sites.google.com/ucm.es/cmn26/accepted-papers?authuser=0">Paper</a>	</li>
 <li>[LoResLM@EACL 2026] &emsp; Abdullah Khan Zehady, Shubhashis Roy Dipta, Naymul Islam, Safi Al Mamun, and <b>Santu Karmaker</b>. "<i>OBanglaLlama: LLaMA for Bangla Language.</i>". In Proceedings of the Second Workshop on Language Models for Low-Resource Languages (LoResLM 2026), pages 73–89, Rabat, Morocco. Association for Computational Linguistics. <a href="https://aclanthology.org/2026.loreslm-1.7/">Paper</a>	</li>
 <li>[BLP@AACL 2025] &emsp; Nishat Raihan, Mohammad Anas Jawad, Md Mezbaur Rahman, Noshin Ulfat, Pranav Gupta, Mehrab Mustafy Rahman, <b>Santu Karmaker</b> and Marcos Zampieri. "<i>Overview of BLP-2025 Task 2: Code Generation in Bangla.</i>". In Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025), pages 373–387, Mumbai, India. Association for Computational Linguistics. <a href="https://aclanthology.org/2025.banglalp-1.31/">Paper</a>	</li>
