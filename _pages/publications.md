@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-## <span style="color:blue">Conference Papers</span>
+## <span style="color:blue">Conference and Journal Papers</span>
 <ol reversed>
 
 <li> <b>[ACL 2026] &emsp;</b> Eshgin Hasanov, Md. Mahadi Hassan, <b>Santu Karmaker</b>, Aashish Yadavally. "<i>The Path Not Taken: Duality in Reasoning about Program Execution.</i>" To appear at ACL 2026.</li>
@@ -31,6 +31,8 @@ Albuquerque, New Mexico, USA. <a href="https://arxiv.org/abs/2402.15589">Paper</
 
 <li> <b>[FSE 2024] &emsp;</b> Md. Mahadi Hassan, John Salvador, <b>Shubhra Kanti Karmaker Santu</b>, Akond Rahman. "<i>State Reconciliation Defects in Infrastructure as Code.</i>" In ACM International Conference on the Foundations of Software Engineering (FSE), 2024. <a href="https://dl.acm.org/doi/pdf/10.1145/3660790">Paper</a></li>
 
+<li> <b>[TMLR 2024] &emsp;</b> Md. Mahadi Hassan, Alex Knipper, <b>Shubhra Kanti Karmaker Santu</b>. "<i>Introducing 'Forecast Utterance' for Conversational Data Science.</i>" In Transactions on Machine Learning Research (To appear). <a href="https://arxiv.org/abs/2309.03877">Paper</a></li>
+
 <li> <b>[L@S 2024] &emsp;</b> Effat Farhana, Souvika Sarkar, Ralph Knipper, Indrani Dey, Hari Narayanan, Sadhana Puntambekar, <b>Shubhra (Santu) K. Karmaker</b>.
 "<i>SimPal: Towards a Meta-Conversational Framework to Understand Teacher's Instructional Goals for K-12 Physics.</i>" In ACM Learning@Scale 2024: 461-465. <a href="https://dl.acm.org/doi/pdf/10.1145/3657604.3664695">Paper</a></li>
 
@@ -44,11 +46,17 @@ Albuquerque, New Mexico, USA. <a href="https://arxiv.org/abs/2402.15589">Paper</
 
 <li> <b>[EMNLP 2023 (Findings)] &emsp;</b> <b>Shubhra Kanti Karmaker Santu</b>, Dongji Feng. "<i>TELeR: A General Taxonomy of LLM Prompts for Benchmarking Complex Tasks.</i>" In Findings of EMNLP, 2023. <a href="https://aclanthology.org/2023.findings-emnlp.946.pdf">Paper</a></li>
 
+<li> <b>[IP&M 2023] &emsp;</b> Dongji Feng and <b>Shubhra Kanti Karmaker Santu</b>. "<i>Joint upper & expected value normalization for evaluation of retrieval systems: A case study with Learning-to-Rank methods</i>". In Information Processing and Management, Volume 60, Issue 4, 2023, ISSN 0306-4573.  <a href="/files/Publications/2023/LowerBound.pdf">Paper</a> </li>
+
 <li> <b>[ACL 2022 (Findings)] &emsp;</b> Mousumi Akter, Naman Bansal, <b>Shubhra Kanti Karmaker</b>. "<i>Revisiting Automatic Evaluation of Extractive Summarization Task: Can We Do Better than ROUGE? </i>" In Findings of ACL, 2022. <a href="https://aclanthology.org/2022.findings-acl.122.pdf">Paper</a> </li>
 
 <li> <b>[EMNLP 2022] &emsp;</b> Naman Bansal, Mousumi Akter,  <b>Shubhra Kanti Karmaker</b>. "<i>Learning to Generate Overlap Summaries through Noisy Synthetic Data</i>". In EMNLP, 2022. <a href="https://aclanthology.org/2022.emnlp-main.807.pdf">Paper</a>	 <a href="/files/Publications/2022/SOFSAT_Data.zip">Dataset</a></li>
 
 <li> <b>[EMNLP 2022] &emsp;</b> Naman Bansal, Mousumi Akter,  <b>Shubhra Kanti Karmaker</b>. "<i>SEM-F1: an Automatic Way for Semantic Evaluation of Multi-Narrative Overlap Summaries at Scale</i>". In EMNLP, 2022. <a href="https://aclanthology.org/2022.emnlp-main.49.pdf">Paper</a>	<a href="/files/Publications/2022/SOFSAT_Data.zip">Dataset</a></li>
+
+<li> <b>[ACM TIST 2022] &emsp;</b> Souvika Sarkar, Biddut Sarker Bijoy, Syeda Jannatus Saba, Dongji Feng, Yash Mahajan, Sheikh Rabiul Islam, Md. Ruhul Amin and <b>Shubhra Kanti Karmaker Santu</b>. "<i>Ad-Hoc Monitoring of COVID-19 Global Research Trends for Well-Informed Policy Making</i>". In ACM Transactions on Intelligent Systems and Technology.  <a href="/files/Publications/2022/COVID_Research_Tracker.pdf">Paper</a> </li>
+
+<li> <b>[ACM CSUR 2022] &emsp;</b><b>Shubhra Kanti Karmaker Santu</b>, Md. Mahadi Hassan, Micah J. Smith, Lei Xu, Chengxiang Zhai, Kalyan Veeramachaneni. "<i>AutoML to Date and Beyond: Challenges and Opportunities</i>." In ACM Computing Surveys, 54(8): 175:1-175:36 (2022).  <a href="https://karmake2.github.io/files/Publications/2021/AutoML.pdf">Paper</a> </li>
 
 <li> <b>[COLING 2022] &emsp;</b> Naman Bansal, Mousumi Akter,  <b>Shubhra Kanti Karmaker</b>. "<i>Semantic Overlap Summarization among Multiple Alternative Narratives: an Exploratory Study</i>". In COLING, 2022. <a href="https://aclanthology.org/2022.coling-1.541.pdf">Paper</a>	<a href="/files/Publications/2022/SOFSAT_Data.zip">Dataset</a></li>
 
@@ -70,6 +78,8 @@ Albuquerque, New Mexico, USA. <a href="https://arxiv.org/abs/2402.15589">Paper</
 
 <li><b>[CIKM 2018] &emsp;</b><b>Shubhra Kanti Karmaker Santu</b>, Liangda Li, Yi Chang, ChengXiang Zhai. "<i>JIM: Joint Influence Modeling for Collective Search Behavior</i>".  In ACM CIKM 2018. <a href="https://karmake2.github.io/files/Publications/2018/Multivariate_Influence.pdf">Paper</a>	<a href="https://karmake2.github.io/files/Publications/2018/JIM.pptx">Presentation</a></li>
 
+<li>[SIGKDD Explorations 2018] &emsp; <b>Shubhra Kanti Karmaker Santu</b>, C. Geigle, D. C. Ferguson, W. Cope, M. Kalantzis, D. Searsmith, Chengxiang Zhai. "<i>SOFSAT: Towards a Setlike Operator based Framework for Semantic Analysis of Text</i>". In ACM SIGKDD Explorations [Position Paper]"> <a href="https://karmake2.github.io/files/Publications/2018/SOFSAT.pdf">Paper</a></li>
+
 <li><b>[CIKM 2017] &emsp;</b>Yiren Wang, Dominic Seyler, <b>Shubhra Kanti Karmaker Santu</b>, ChengXiang Zhai. "<i>A Study of Feature Construction for Text-based Forecasting of Time Series Variables</i>". In ACM CIKM 2017 [Short Paper]. <a href="https://karmake2.github.io/files/Publications/2017/sp0985-wangA.pdf">Paper</a>	<a href="https://karmake2.github.io/files/Publications/2017/CIKM2017-poster.pdf">Presentation</a>	</li>
 
 <li> <b>[SIGIR 2017] &emsp;</b><b>Shubhra Kanti Karmaker Santu</b>, Parikshit Sondhi, ChengXiang Zhai	. "<i>On Application of Learning to Rank for E-Commerce Search</i>". In ACM SIGIR 2017. <a href="https://karmake2.github.io/files/Publications/2017/LETOR_ECOM.pdf">Paper</a>	<a href="https://karmake2.github.io/files/Publications/2017/SIGIRPresentation.pptx">Presentation</a></li>
@@ -84,21 +94,12 @@ Albuquerque, New Mexico, USA. <a href="https://arxiv.org/abs/2402.15589">Paper</
 </ol>
 
 
-## <span style="color:blue">Journal Papers</span>
-<ol reversed=true>
-<li> <b>[TMLR 2024] &emsp;</b> Md. Mahadi Hassan, Alex Knipper, <b>Shubhra Kanti Karmaker Santu</b>. "<i>Introducing 'Forecast Utterance' for Conversational Data Science.</i>" In Transactions on Machine Learning Research (To appear). <a href="https://arxiv.org/abs/2309.03877">Paper</a></li>
-<li> <b>[IP&M 2023] &emsp;</b> Dongji Feng and <b>Shubhra Kanti Karmaker Santu</b>. "<i>Joint upper & expected value normalization for evaluation of retrieval systems: A case study with Learning-to-Rank methods</i>". In Information Processing and Management, Volume 60, Issue 4, 2023, ISSN 0306-4573.  <a href="/files/Publications/2023/LowerBound.pdf">Paper</a> </li>
-<li> <b>[ACM TIST 2022] &emsp;</b> Souvika Sarkar, Biddut Sarker Bijoy, Syeda Jannatus Saba, Dongji Feng, Yash Mahajan, Sheikh Rabiul Islam, Md. Ruhul Amin and <b>Shubhra Kanti Karmaker Santu</b>. "<i>Ad-Hoc Monitoring of COVID-19 Global Research Trends for Well-Informed Policy Making</i>". In ACM Transactions on Intelligent Systems and Technology.  <a href="/files/Publications/2022/COVID_Research_Tracker.pdf">Paper</a> </li>
-<li> <b>[ACM CSUR 2022] &emsp;</b><b>Shubhra Kanti Karmaker Santu</b>, Md. Mahadi Hassan, Micah J. Smith, Lei Xu, Chengxiang Zhai, Kalyan Veeramachaneni. "<i>AutoML to Date and Beyond: Challenges and Opportunities</i>." In ACM Computing Surveys, 54(8): 175:1-175:36 (2022).  <a href="https://karmake2.github.io/files/Publications/2021/AutoML.pdf">Paper</a> </li>
-<li>[SIGKDD Explorations 2018] &emsp; <b>Shubhra Kanti Karmaker Santu</b>, C. Geigle, D. C. Ferguson, W. Cope, M. Kalantzis, D. Searsmith, Chengxiang Zhai. "<i>SOFSAT: Towards a Setlike Operator based Framework for Semantic Analysis of Text</i>". In ACM SIGKDD Explorations [Position Paper]"> <a href="https://karmake2.github.io/files/Publications/2018/SOFSAT.pdf">Paper</a></li>
-</ol>
-
 
 
 ## <span style="color:blue">Peer-Reviewed Workshop Papers</span>
 <ol reversed>
 <li>[CMN 2026] &emsp; Hoang Bao Truong, Inderjeet Mani, Parisa Kordjamshidi and <b>Santu Karmaker</b>. "<i>Natural Language versus Narrative Representation in Causal Video Question Answering.</i>". In Proceedings of 9TH International Workshop on Computational Models of Narrative (CMN'26). <a href="https://sites.google.com/ucm.es/cmn26/accepted-papers?authuser=0">Paper</a>	</li>
-<li>[LoResLM@EACL 2026] &emsp; Abdullah Khan Zehady, Shubhashis Roy Dipta, Naymul Islam, Safi Al Mamun, and <b>Santu Karmaker</b>. "<i>OBanglaLlama: LLaMA for Bangla Language.</i>". In Proceedings of the Second Workshop on Language Models for Low-Resource Languages (LoResLM 2026), pages 73–89, Rabat, Morocco. Association for Computational Linguistics. <a href="https://aclanthology.org/2026.loreslm-1.7/">Paper</a>	</li>
+<li>[LoResLM@EACL 2026] &emsp; Abdullah Khan Zehady, Shubhashis Roy Dipta, Naymul Islam, Safi Al Mamun, and <b>Santu Karmaker</b>. "<i>BanglaLlama: LLaMA for Bangla Language.</i>". In Proceedings of the Second Workshop on Language Models for Low-Resource Languages (LoResLM 2026), pages 73–89, Rabat, Morocco. Association for Computational Linguistics. <a href="https://aclanthology.org/2026.loreslm-1.7/">Paper</a>	</li>
 <li>[BLP@AACL 2025] &emsp; Nishat Raihan, Mohammad Anas Jawad, Md Mezbaur Rahman, Noshin Ulfat, Pranav Gupta, Mehrab Mustafy Rahman, <b>Santu Karmaker</b> and Marcos Zampieri. "<i>Overview of BLP-2025 Task 2: Code Generation in Bangla.</i>". In Proceedings of the Second Workshop on Bangla Language Processing (BLP-2025), pages 373–387, Mumbai, India. Association for Computational Linguistics. <a href="https://aclanthology.org/2025.banglalp-1.31/">Paper</a>	</li>
 <li>[BLP@AACL 2025] &emsp; Souvika Sarkar, Md. Najib Hasan and <b>Santu Karmaker</b>. "<i>Zero-Shot Multi-Label Classification of Bangla Documents: Large Decoders Vs. Classic Encoders</i>". In BLP@AACL 2025. <a href="https://aclanthology.org/2025.banglalp-1.7/">Paper</a>	</li>
 <li>[UserNLP@WWW 2022] &emsp; Souvika Sarkar and <b>Shubhra Kanti Karmaker Santu</b>. "<i>Concept Annotation from Users Perspective: A New Challenge</i>". In UserNLP@WWW  2022. <a href="https://karmake2.github.io/files/Publications/2022/Annotate.pdf">Paper</a>	</li>
