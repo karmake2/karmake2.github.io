@@ -33,7 +33,7 @@ Albuquerque, New Mexico, USA. <a href="https://aclanthology.org/2025.naacl-long.
 
 <li> <b>[TMLR 2024] &emsp;</b> Md. Mahadi Hassan, Alex Knipper, <b>Shubhra Kanti Karmaker Santu</b>. "<i>Introducing 'Forecast Utterance' for Conversational Data Science.</i>" In Transactions on Machine Learning Research (To appear). <a href="https://openreview.net/forum?id=H2EeStRTQn">Paper</a></li>
 
-<li> <b>[L@S 2024] &emsp;</b> Effat Farhana, Souvika Sarkar, Ralph Knipper, Indrani Dey, Hari Narayanan, Sadhana Puntambekar, <b>Shubhra (Santu) K. Karmaker</b>.
+<li> <b>[Learning@Scale 2024] &emsp;</b> Effat Farhana, Souvika Sarkar, Ralph Knipper, Indrani Dey, Hari Narayanan, Sadhana Puntambekar, <b>Shubhra (Santu) K. Karmaker</b>.
 "<i>SimPal: Towards a Meta-Conversational Framework to Understand Teacher's Instructional Goals for K-12 Physics.</i>" In ACM Learning@Scale 2024: 461-465. <a href="https://dl.acm.org/doi/pdf/10.1145/3657604.3664695">Paper</a></li>
 
 <li> <b>[KONVENS 2024] &emsp;</b> Mousumi Akter, <b>Shubhra Kanti Karmaker</b>. "<i>Redundancy Aware Multiple Reference Based Gainwise Evaluation of Extractive Summarization</i>". In Proceedings of the 20th Conference on Natural Language Processing (KONVENS 2024): 182-195. <a href="https://aclanthology.org/2024.konvens-main.21.pdf">Paper</a></li>
