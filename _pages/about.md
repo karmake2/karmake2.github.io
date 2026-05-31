@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=wY5hPaLA_to39BWB0AVGgWea0_s0xepUY109RiSTNzE&cl=ffffff&w=a"></script>
 
 My name is Shubhra Kanti Karmaker ("Santu"). I am a Tenure-Track Assistant Professor in the Department of [Computer Science](https://www.cs.ucf.edu/) at the University of Central Florida (UCF), and also affiliated with the [Institute of Artificial Intelligence](https://ai.ucf.edu/) and [Learning Science Faculty Cluster](https://www.ucf.edu/research/learning-sciences/). My primary research interest lies at the intersection of Natural Language Processing and Information Retrieval. I am also the founding director of the Bridge-AI Lab at UCF, where my students and I work on _creating bridges between the general public and AI tools in order to democratize AI beyond the tech-savvy communities_.
 
@@ -30,11 +29,11 @@ You can download my full CV <a href="../files/CV.pdf">here</a>.
  </tr>
 </table>
 
-
 Our Sponsors (Thank You!!)
 ======================
 ![Sponsor](/images/Sponsor.png)
 
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=wY5hPaLA_to39BWB0AVGgWea0_s0xepUY109RiSTNzE&cl=ffffff&w=a"></script>
 
 News and Announcements
 ======================
