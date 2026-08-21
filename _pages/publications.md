@@ -14,9 +14,13 @@ author_profile: true
 ## <span style="color:blue">Conference and Journal Papers</span>
 <ol reversed>
 
-<li> <b>[ACL 2026] &emsp;</b> Eshgin Hasanov, Md. Mahadi Hassan, <b>Santu Karmaker</b>, Aashish Yadavally. "<i>The Path Not Taken: Duality in Reasoning about Program Execution.</i>" To appear at ACL 2026.</li>
+<li> <b>[EMNLP 2026 (Findings)] &emsp;</b> Faria Binte Kader, Mohtasim Hadi Rafi, Shah Wasif Sazzad, <b>Santu Karmaker</b>. "<i>Exploring LLMs for South Asian Music Understanding and Generation.</i>"  To appear at EMNLP 2026.</li>
 
-<li> <b>[ACL 2026 (Findings)] &emsp;</b> Md. Mahadi Hassan, John Salvador, Akond Ashfaque Ur Rahman,  <b>Santu Karmaker</b>. "<i>Large Language Models for IT Automation Tasks: Are We There Yet?</i>" To appear at ACL Findings 2026.</li>
+<li> <b>[TACL 2026] &emsp;</b> R. Alexander Knipper, Charles S. Knipper, Kaiqi Zhang, Valerie Sims, Clint Bowers, <b>Santu Karmaker</b>. "<i>The Bias is in the Details: An Assessment of Cognitive Bias in LLMs.</i>"  To appear at TACL and to be presented at EMNLP 2026.</li>
+
+<li> <b>[ACL 2026] &emsp;</b> Eshgin Hasanov, Md. Mahadi Hassan, <b>Santu Karmaker</b>, Aashish Yadavally. "<i>The Path Not Taken: Duality in Reasoning about Program Execution.</i>"  In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 16165–16180, San Diego, California, United States. Association for Computational Linguistics.</li>
+
+<li> <b>[ACL 2026 (Findings)] &emsp;</b> Md. Mahadi Hassan, John Salvador, Akond Ashfaque Ur Rahman,  <b>Santu Karmaker</b>. "<i>Large Language Models for IT Automation Tasks: Are We There Yet?</i>" In Findings of the Association for Computational Linguistics: ACL 2026, pages 11534–11573, San Diego, California, United States. Association for Computational Linguistics.</li>
 
 <li> <b>[AACL 2025] &emsp;</b> Yash Mahajan, Matthew Freestone, Naman Bansal, Sathyanarayanan N. Aakur, <b>Santu Karmaker</b>. "<i>Revisiting Word Embeddings in the LLM Era.</i>" In Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics, pages 2686–2717, Mumbai, India. The Asian Federation of Natural Language Processing and The Association for Computational Linguistics. <a href="https://aclanthology.org/2025.ijcnlp-long.145/">Paper</a></li>
 
