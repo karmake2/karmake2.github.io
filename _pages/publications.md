@@ -14,13 +14,24 @@ author_profile: true
 ## <span style="color:blue">Conference and Journal Papers</span>
 <ol reversed>
 
-<li> <b>[EMNLP 2026 (Findings)] &emsp;</b> Faria Binte Kader, Mohtasim Hadi Rafi, Shah Wasif Sazzad, <b>Santu Karmaker</b>. "<i>Exploring LLMs for South Asian Music Understanding and Generation.</i>"  To appear at EMNLP 2026.</li>
+<li> <b>[NeurIPS 2026] &emsp;</b> Eftekhar Hossain, John Salvador, <b>Santu Karmaker</b>. "<i>Evaluating Whether LLMs Can Reliably
+Connect the DOTs?</i>" To appear in the Proceedings of the Fortieth Annual Conference on Neural Information Processing Systems. <a href="">Paper</a></li>
+
+<li> <b>[NeurIPS 2026] &emsp;</b> Adam Bawatneh, Sagar Sapkota, Amrit Singh Bedi, <b>Santu Karmaker</b>, Mubarak Shah. "<i>OmniToM: Benchmarking Theory of Mind in LLMs via Explicit Belief Modeling.</i>" To appear in the Proceedings of the Fortieth Annual Conference on Neural Information Processing Systems. <a href="">Paper</a></li>
+
+
+<li> <b>[AACL 2026] &emsp;</b> Yash Mahajan, Naman Bansal, Faria Binte Kader, <b>Santu Karmaker</b>. "<i>Beyond Downstream Task Performances: A Set-Theoretic Evaluation of Sentence Embeddings.</i>" To appear in the Proceedings of the 5th Asia-Pacific Chapter of the Association for Computational Linguistics & the 15th International Joint Conference on Natural Language Processing. Association for Computational Linguistics. <a href="">Paper</a></li>
+
+<li> <b>[AACL 2026] &emsp;</b> Md. Mahadi Hassan, Sazzadur Rahaman, Yusuf Sarwar Uddin, <b>Santu Karmaker</b>. "<i>Private Evaluation Protocol: Contamination-Resistant Black-Box Evaluation via Public-Slice Surrogates.</i>" To appear in the Proceedings of the 5th Asia-Pacific Chapter of the Association for Computational Linguistics & the 15th International Joint Conference on Natural Language Processing. Association for Computational Linguistics. <a href="">Paper</a></li>
+
+<li> <b>[EMNLP 2026 (Findings)] &emsp;</b> Faria Binte Kader, Mohtasim Hadi Rafi, Shah Wasif Sazzad, <b>Santu Karmaker</b>. "<i>Exploring LLMs for South Asian Music Understanding and Generation</i>".  To appear at EMNLP 2026.</li>
 
 <li> <b>[TACL 2026] &emsp;</b> R. Alexander Knipper, Charles S. Knipper, Kaiqi Zhang, Valerie Sims, Clint Bowers, <b>Santu Karmaker</b>. "<i>The Bias is in the Details: An Assessment of Cognitive Bias in LLMs.</i>"  To appear at TACL and to be presented at EMNLP 2026.</li>
 
 <li> <b>[ACL 2026] &emsp;</b> Eshgin Hasanov, Md. Mahadi Hassan, <b>Santu Karmaker</b>, Aashish Yadavally. "<i>The Path Not Taken: Duality in Reasoning about Program Execution.</i>"  In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 16165–16180, San Diego, California, United States. Association for Computational Linguistics.</li>
 
 <li> <b>[ACL 2026 (Findings)] &emsp;</b> Md. Mahadi Hassan, John Salvador, Akond Ashfaque Ur Rahman,  <b>Santu Karmaker</b>. "<i>Large Language Models for IT Automation Tasks: Are We There Yet?</i>" In Findings of the Association for Computational Linguistics: ACL 2026, pages 11534–11573, San Diego, California, United States. Association for Computational Linguistics.</li>
+
 
 <li> <b>[AACL 2025] &emsp;</b> Yash Mahajan, Matthew Freestone, Naman Bansal, Sathyanarayanan N. Aakur, <b>Santu Karmaker</b>. "<i>Revisiting Word Embeddings in the LLM Era.</i>" In Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics, pages 2686–2717, Mumbai, India. The Asian Federation of Natural Language Processing and The Association for Computational Linguistics. <a href="https://aclanthology.org/2025.ijcnlp-long.145/">Paper</a></li>
 
