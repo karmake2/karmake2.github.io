@@ -17,7 +17,7 @@ author_profile: true
 <li> <b>[NeurIPS 2026] &emsp;</b> Eftekhar Hossain, John Salvador, <b>Santu Karmaker</b>. "<i>Evaluating Whether LLMs Can Reliably
 Connect the DOTs?</i>" To appear in the Proceedings of the Fortieth Annual Conference on Neural Information Processing Systems. <a href="">Paper</a></li>
 
-<li> <b>[NeurIPS 2026] &emsp;</b> Adam Bawatneh, Sagar Sapkota, Amrit Singh Bedi, <b>Santu Karmaker</b>, Mubarak Shah. "<i>OmniToM: Benchmarking Theory of Mind in LLMs via Explicit Belief Modeling.</i>" To appear in the Proceedings of the Fortieth Annual Conference on Neural Information Processing Systems. <a href="">Paper</a></li>
+<li> <b>[NeurIPS 2026] &emsp;</b> Adam Bawatneh, Sagar Sapkota, Amrit Singh Bedi, <b>Santu Karmaker</b>, Mubarak Shah. "<i>OmniToM: Benchmarking Theory of Mind in LLMs via Explicit Belief Modeling.</i>" To appear in the Proceedings of the Fortieth Annual Conference on Neural Information Processing Systems. <a href="https://arxiv.org/abs/2605.26322">Paper</a> <a href="/omnitom/">Project page</a></li>
 
 
 <li> <b>[AACL 2026] &emsp;</b> Yash Mahajan, Naman Bansal, Faria Binte Kader, <b>Santu Karmaker</b>. "<i>Beyond Downstream Task Performances: A Set-Theoretic Evaluation of Sentence Embeddings.</i>" To appear in the Proceedings of the 5th Asia-Pacific Chapter of the Association for Computational Linguistics & the 15th International Joint Conference on Natural Language Processing. Association for Computational Linguistics. <a href="">Paper</a></li>

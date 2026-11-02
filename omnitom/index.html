@@ -1,0 +1,605 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description"
+        content="OmniToM: A benchmark that evaluates Theory of Mind in large language models through explicit belief-structure modeling, requiring models to reconstruct multi-actor mental-state representations rather than simply answering endpoint questions.">
+  <meta name="keywords" content="OmniToM, Theory of Mind, ToM, LLM, benchmark, belief modeling, NLP, mental state, reasoning, OmniToM benchmark">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>OmniToM: Benchmarking Theory of Mind in LLMs via Explicit Belief Modeling</title>
+
+  <link href="https://fonts.googleapis.com/css?family=Google+Sans|Noto+Sans|Castoro"
+        rel="stylesheet">
+
+  <link rel="stylesheet" href="./static/css/bulma.min.css">
+  <link rel="stylesheet"
+        href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  <link rel="stylesheet" href="./static/css/index.css">
+  <link rel="icon" href="./static/images/favicon.svg">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script defer src="./static/js/fontawesome.all.min.js"></script>
+
+  <style>
+    .result-table {
+      font-size: 0.85rem;
+      overflow-x: auto;
+    }
+    .result-table table {
+      width: 100%;
+      border-collapse: collapse;
+    }
+    .result-table th, .result-table td {
+      padding: 0.45em 0.7em;
+      text-align: center;
+      border-bottom: 1px solid #dbdbdb;
+    }
+    .result-table th {
+      background: #f5f5f5;
+      font-weight: 600;
+    }
+    .result-table td:first-child {
+      text-align: left;
+      white-space: nowrap;
+    }
+    .result-table th:first-child {
+      text-align: left;
+    }
+    .result-table tr:hover td {
+      background: #fafafa;
+    }
+    .result-table .section-header td {
+      background: #eef2ff;
+      font-weight: 600;
+      font-style: italic;
+      text-align: left;
+    }
+    .best { font-weight: 700; }
+    .second { text-decoration: underline; }
+    .stat-card {
+      background: #f8f9ff;
+      border: 1px solid #d6dafe;
+      border-radius: 8px;
+      padding: 1.2em 1.4em;
+      text-align: center;
+    }
+    .stat-card .number {
+      font-size: 2rem;
+      font-weight: 700;
+      color: #3273dc;
+      line-height: 1.1;
+    }
+    .stat-card .label {
+      font-size: 0.85rem;
+      color: #555;
+      margin-top: 0.2em;
+    }
+    .section-copy {
+      max-width: 960px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+    .schema-badge {
+      display: inline-block;
+      background: #eef2ff;
+      color: #3273dc;
+      border: 1px solid #c0cefa;
+      border-radius: 4px;
+      padding: 0.2em 0.7em;
+      margin: 0.2em;
+      font-size: 0.9rem;
+      font-weight: 500;
+    }
+    .finding-box {
+      background: #fffbf0;
+      border-left: 4px solid #ffb700;
+      padding: 1em 1.4em;
+      border-radius: 0 6px 6px 0;
+      margin: 1em 0;
+    }
+    .finding-box p { margin: 0; }
+    figure { margin: 0; }
+    .paper-figure {
+      width: 100%;
+      margin: 0 auto;
+      text-align: center;
+    }
+    .paper-figure img {
+      display: block;
+      width: 100%;
+      height: auto;
+      max-width: 100%;
+      margin: 0 auto;
+      object-fit: contain;
+      border-radius: 6px;
+    }
+    .paper-figure--teaser { max-width: 1316px; }
+    .paper-figure--pipeline { max-width: 1115px; }
+    .paper-figure--annotation { max-width: 1268px; }
+    .paper-figure--schema { max-width: 688px; }
+    .paper-figure--heatmap { max-width: 620px; }
+    .figure-stack {
+      display: grid;
+      gap: 2rem;
+      justify-items: center;
+    }
+    .figure-pair {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(min(100%, 360px), 1fr));
+      gap: 2rem;
+      align-items: start;
+      justify-items: center;
+      margin-top: 1.5rem;
+    }
+    figure figcaption {
+      font-size: 0.88rem;
+      color: #555;
+      margin-top: 0.6em;
+      text-align: center;
+    }
+    .hero.is-info { background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%); }
+  </style>
+</head>
+<body>
+
+<nav class="navbar" role="navigation" aria-label="main navigation">
+  <div class="navbar-brand">
+    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false">
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+      <span aria-hidden="true"></span>
+    </a>
+  </div>
+</nav>
+
+
+<!-- ==================== HERO ==================== -->
+<section class="hero">
+  <div class="hero-body">
+    <div class="container is-max-desktop">
+      <div class="columns is-centered">
+        <div class="column has-text-centered">
+
+          <h1 class="title is-1 publication-title">
+            OmniToM: Benchmarking Theory of Mind in LLMs via Explicit Belief Modeling
+          </h1>
+
+          <div class="is-size-5 publication-authors">
+            <span class="author-block"><a href="https://adam-12-0.github.io/">Adam Bawatneh</a>,</span>
+            <span class="author-block"><a href="https://scholar.google.com/citations?user=oer2WqUAAAAJ&amp;hl=en">Sagar Sapkota</a>,</span>
+            <span class="author-block"><a href="https://scholar.google.com/citations?user=91WLA6QAAAAJ&amp;hl=en">Amrit Singh Bedi</a>,</span>
+            <span class="author-block"><a href="https://scholar.google.com/citations?user=y6pZKT4AAAAJ&amp;hl=en">Santu Karmaker</a>,</span>
+            <span class="author-block"><a href="https://scholar.google.com/citations?user=p8gsO3gAAAAJ&amp;hl=en">Mubarak Shah</a></span>
+          </div>
+
+          <div class="is-size-6 publication-authors" style="margin-top: 0.4em; color: #555;">
+            <span class="author-block">University of Central Florida</span>
+          </div>
+          <div class="is-size-6 publication-authors" style="margin-top: 0.2em; color: #555;">
+            Contact: <a href="mailto:adam.bawatneh@ucf.edu">adam.bawatneh@ucf.edu</a>,
+            <a href="mailto:santu@ucf.edu">santu@ucf.edu</a>,
+            <a href="mailto:shah@crcv.ucf.edu">shah@crcv.ucf.edu</a>
+          </div>
+
+          <div class="column has-text-centered" style="margin-top: 0.5em;">
+            <div class="publication-links">
+              <span class="link-block">
+                <a href="https://arxiv.org/abs/2605.26322"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon"><i class="ai ai-arxiv"></i></span>
+                  <span>arXiv</span>
+                </a>
+              </span>
+              <span class="link-block">
+                <a href="https://arxiv.org/pdf/2605.26322"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon"><i class="fas fa-file-pdf"></i></span>
+                  <span>Paper</span>
+                </a>
+              </span>
+              <span class="link-block">
+                <a href="https://github.com/BridgeAI-Lab/OMNITOM"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon"><i class="fab fa-github"></i></span>
+                  <span>Code</span>
+                </a>
+              </span>
+              <span class="link-block">
+                <a href="https://huggingface.co/datasets/BridgeAI-Lab/omnitom-benchmark"
+                   class="external-link button is-normal is-rounded is-dark">
+                  <span class="icon"><i class="fab fa-github"></i></span>
+                  <span>Benchmark</span>
+                </a>
+              </span>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- ==================== TEASER FIGURE ==================== -->
+<section class="section" style="padding-top: 1rem; padding-bottom: 0;">
+  <div class="container is-max-widescreen">
+    <figure class="paper-figure paper-figure--teaser">
+      <img src="./static/images/figure1_qa_vs_reconstruction.png"
+           alt="Comparison of endpoint QA vs. belief-structure reconstruction on a false-belief story."
+           style="box-shadow: 0 2px 16px rgba(0,0,0,0.10);">
+      <figcaption>
+        <strong>Endpoint QA vs. Explicit Belief Reconstruction.</strong>
+        A model can answer <em>"Where will Bob look?"</em> correctly without ever tracking the belief
+        states that make the answer valid. OmniToM makes the hidden mental-state representation
+        explicit and directly measurable.
+      </figcaption>
+    </figure>
+  </div>
+</section>
+
+
+<!-- ==================== ABSTRACT ==================== -->
+<section class="section">
+  <div class="container is-max-desktop">
+    <div class="columns is-centered has-text-centered">
+      <div class="column is-four-fifths">
+        <h2 class="title is-3">Abstract</h2>
+        <div class="content has-text-justified">
+          <p>
+            Social reasoning requires tracking how information is distributed across actors, not only
+            what happened in the world. Existing Theory of Mind (ToM) benchmarks evaluate this
+            ability through endpoint question answering: models are scored by whether they produce
+            the correct final answer, leaving the underlying mental-state representation entirely
+            unobserved. A model can answer <em>"Where will Bob look?"</em> correctly while failing
+            to track the belief states that make the answer valid.
+          </p>
+          <p>
+            We introduce <strong>OmniToM</strong>, a benchmark that closes this gap through
+            <em>explicit belief-structure modeling</em>. Rather than probing endpoints, OmniToM
+            requires a model to reconstruct the full multi-actor belief representation of a
+            story, then label each belief proposition along seven dimensions grounded in
+            ATOMS, a literature-derived taxonomy of Theory of Mind abilities.
+          </p>
+          <p>
+            OmniToM comprises 895 stories and 22,343 labeled belief propositions developed through
+            over 1,000 person-hours of human annotation effort. Zero-shot evaluation across ten
+            open- and closed-source models identifies a consistent <strong>actor-specific
+            information-tracking bottleneck</strong>: Stage 1 belief extraction peaks at
+            61.63% macro F<sub>1</sub>, while Stage 2 belief labeling reaches 85.95% accuracy.
+            Stage 2 results point to difficulty with <em>Knowledge Access</em>, with some models
+            also struggling on <em>Representation</em>. These dimensions require a model to
+            determine who could know or share a belief, and whether it is explicitly stated or
+            inferred from context.
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+<!-- ==================== STATS ==================== -->
+<section class="section" style="background: #f8f9ff; padding-top: 2rem; padding-bottom: 2rem;">
+  <div class="container is-max-desktop">
+    <h2 class="title is-3 has-text-centered">Benchmark at a Glance</h2>
+    <div class="columns is-multiline is-centered" style="margin-top: 1rem;">
+      <div class="column is-2">
+        <div class="stat-card">
+          <div class="number">895</div>
+          <div class="label">Benchmark Stories</div>
+        </div>
+      </div>
+      <div class="column is-2">
+        <div class="stat-card">
+          <div class="number">22K+</div>
+          <div class="label">Labeled Beliefs</div>
+        </div>
+      </div>
+      <div class="column is-2">
+        <div class="stat-card">
+          <div class="number">156K</div>
+          <div class="label">Schema Labels</div>
+        </div>
+      </div>
+      <div class="column is-2">
+        <div class="stat-card">
+          <div class="number">7</div>
+          <div class="label">Story Categories</div>
+        </div>
+      </div>
+      <div class="column is-2">
+        <div class="stat-card">
+          <div class="number">10</div>
+          <div class="label">Models Evaluated</div>
+        </div>
+      </div>
+      <div class="column is-2">
+        <div class="stat-card">
+          <div class="number">1K+</div>
+          <div class="label">Person-Hours</div>
+        </div>
+      </div>
+    </div>
+    <div class="has-text-centered" style="margin-top: 1.5rem;">
+      <p style="margin-bottom: 0.6em;"><strong>Seven-Dimensional Schema (grounded in ATOMS)</strong></p>
+      <span class="schema-badge">Order</span>
+      <span class="schema-badge">Truth Status</span>
+      <span class="schema-badge">Knowledge Access</span>
+      <span class="schema-badge">Representation</span>
+      <span class="schema-badge">Content Type</span>
+      <span class="schema-badge">Mental Source</span>
+      <span class="schema-badge">Context</span>
+    </div>
+  </div>
+</section>
+
+
+<!-- ==================== PIPELINE ==================== -->
+<section class="section">
+  <div class="container is-max-widescreen">
+    <div class="section-copy">
+      <h2 class="title is-3 has-text-centered">Two-Stage Evaluation Pipeline</h2>
+      <div class="content has-text-justified">
+      <p>
+        OmniToM evaluates belief-structure modeling in two stages, both run under zero-shot
+        TELeR Level 3 prompts (task directive + stepwise sub-tasks, no in-context examples):
+      </p>
+      <p>
+        <strong>Stage 1, Belief Extraction:</strong> Given a story, the model extracts all relevant
+        <em>(Actor, Belief, Order)</em> tuples. A GPT-5 semantic judge scores extraction by
+        precision, recall, and macro F<sub>1</sub> over semantically matched propositions.
+      </p>
+      <p>
+        <strong>Stage 2, Belief Labeling:</strong> Given a story and the benchmark belief table,
+        the model assigns a seven-dimensional schema label vector to each belief. Scored by
+        exact-match accuracy per dimension, averaged over all propositions.
+      </p>
+      </div>
+    </div>
+    <figure class="paper-figure paper-figure--pipeline" style="margin-top: 1.5rem;">
+      <img src="./static/images/figure2_omnitom_pipeline.png"
+           alt="OmniToM two-stage evaluation pipeline">
+      <figcaption>
+        <strong>Figure 1.</strong> The OmniToM two-stage pipeline. Stage 1 extracts actor-specific
+        belief propositions from a story; Stage 2 labels each proposition across seven schema
+        dimensions. Both stages are evaluated zero-shot.
+      </figcaption>
+    </figure>
+  </div>
+</section>
+
+
+<!-- ==================== ANNOTATION ==================== -->
+<section class="section" style="background: #f8f9ff;">
+  <div class="container is-max-widescreen">
+    <div class="section-copy">
+      <h2 class="title is-3 has-text-centered">Annotation Pipeline</h2>
+      <div class="content has-text-justified">
+        <p>
+          Benchmark construction required over 1,000 person-hours of human annotation to establish
+          high-quality gold labels. From this human-calibrated foundation, a human-in-the-loop
+          LLM-assisted pipeline was fixed and scaled to the full 895-story benchmark. Each story
+          produces an average of 24.96 labeled belief propositions spanning world facts
+          (Order 0, 32.6%), actor beliefs (Order 1, 57.1%), and nested beliefs (Order 2+, 10.3%).
+        </p>
+      </div>
+    </div>
+    <div class="figure-stack">
+      <figure class="paper-figure paper-figure--annotation">
+        <img src="./static/images/figure3_annotation_pipeline.png"
+             alt="OmniToM annotation pipeline">
+        <figcaption>
+          <strong>Figure 2.</strong> The human-calibrated annotation pipeline used to produce
+          labeled belief propositions at scale.
+        </figcaption>
+      </figure>
+      <figure class="paper-figure paper-figure--schema">
+        <img src="./static/images/figure4_schema_label_distribution.png"
+             alt="OmniToM schema label distribution">
+        <figcaption>
+          <strong>Figure 3.</strong> Distribution of 156,401 labels across the seven schema
+          dimensions.
+        </figcaption>
+      </figure>
+    </div>
+  </div>
+</section>
+
+
+<!-- ==================== RESULTS ==================== -->
+<section class="section">
+  <div class="container is-max-desktop">
+    <h2 class="title is-3 has-text-centered">Benchmark Results</h2>
+    <p class="has-text-centered" style="margin-bottom: 1.5rem; color: #555;">
+      Zero-shot TELeR Level 3 prompts. <strong>Bold</strong> = best, <u>underline</u> = second-best.
+      GPT-5 is the semantic judge and is omitted from Stage 1.
+    </p>
+
+    <h3 class="title is-4">Main Camera-Ready Results</h3>
+    <div class="result-table" style="font-size: 0.76rem;">
+      <table>
+        <thead>
+          <tr>
+            <th>Model</th>
+            <th>Stage 1 F<sub>1</sub> [95% CI]</th>
+            <th>Endpoint QA</th>
+            <th>Order</th>
+            <th>Status</th>
+            <th>Access</th>
+            <th>Repr</th>
+            <th>CType</th>
+            <th>Source</th>
+            <th>Context</th>
+            <th>Overall</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr class="section-header"><td colspan="11">Closed-source models</td></tr>
+          <tr>
+            <td>Gemini-2.5 Pro</td><td class="best">61.63 [60.88, 62.39]</td><td class="best">82.77</td>
+            <td>96.23</td><td class="second">86.50</td><td>66.94</td><td class="best">89.01</td>
+            <td class="best">86.35</td><td class="best">86.70</td><td>87.07</td><td class="second">85.54</td>
+          </tr>
+          <tr>
+            <td>Gemini-2.5 Flash</td><td>55.75 [54.63, 56.82]</td><td class="second">81.82</td>
+            <td>95.56</td><td>84.97</td><td>71.34</td><td class="second">87.58</td>
+            <td class="second">85.97</td><td>84.10</td><td class="second">92.14</td><td class="best">85.95</td>
+          </tr>
+          <tr>
+            <td>GPT-5</td><td>N/A</td><td>N/A</td><td>95.18</td><td>82.72</td><td>66.85</td>
+            <td>83.42</td><td>79.96</td><td>83.02</td><td>88.83</td><td>82.85</td>
+          </tr>
+          <tr class="section-header"><td colspan="11">Open-weight models</td></tr>
+          <tr>
+            <td>Gemma-3 27B</td><td class="second">58.03 [57.05, 59.01]</td><td>58.47</td>
+            <td class="second">96.56</td><td>82.44</td><td>71.57</td><td>54.33</td>
+            <td>73.50</td><td>78.72</td><td>92.07</td><td>78.46</td>
+          </tr>
+          <tr>
+            <td>Mistral-Small 24B</td><td>56.46 [55.53, 57.41]</td><td>76.55</td>
+            <td>95.13</td><td>82.22</td><td class="best">74.59</td><td>62.79</td>
+            <td>76.01</td><td>84.82</td><td>91.90</td><td>81.06</td>
+          </tr>
+          <tr>
+            <td>Mistral-Large 123B</td><td>53.53 [52.61, 54.44]</td><td>77.39</td>
+            <td class="best">97.25</td><td class="best">86.53</td><td class="second">74.14</td><td>72.87</td>
+            <td>82.83</td><td class="second">86.32</td><td class="best">92.97</td><td>84.70</td>
+          </tr>
+          <tr>
+            <td>Qwen3 32B</td><td>51.63 [50.68, 52.56]</td><td>73.62</td>
+            <td>96.42</td><td>82.43</td><td>73.91</td><td>62.45</td><td>71.27</td>
+            <td>76.84</td><td>90.81</td><td>79.16</td>
+          </tr>
+          <tr>
+            <td>Llama-3.3 70B</td><td>47.12 [46.12, 48.09]</td><td>76.22</td>
+            <td>92.74</td><td>83.55</td><td>67.41</td><td>72.43</td><td>72.35</td>
+            <td>76.71</td><td>91.69</td><td>79.55</td>
+          </tr>
+          <tr>
+            <td>Qwen3 8B</td><td>42.70 [41.50, 43.85]</td><td>64.84</td>
+            <td>73.38</td><td>67.17</td><td>57.94</td><td>63.77</td><td>51.43</td>
+            <td>61.49</td><td>74.62</td><td>64.26</td>
+          </tr>
+          <tr>
+            <td>Llama-3.1 8B</td><td>37.21 [36.02, 38.38]</td><td>63.95</td>
+            <td>71.90</td><td>65.59</td><td>56.13</td><td>64.40</td><td>48.63</td>
+            <td>55.18</td><td>76.81</td><td>62.66</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+
+<!-- ==================== KEY FINDING ==================== -->
+<section class="section" style="background: #f8f9ff;">
+  <div class="container is-max-widescreen">
+    <div class="section-copy">
+      <h2 class="title is-3 has-text-centered">Key Finding</h2>
+      <div class="content has-text-justified">
+
+        <div class="finding-box">
+          <p>
+            <strong>Actor-specific information tracking is the core bottleneck.</strong>
+            Models can parse social stories, but they struggle to determine which information each
+            actor has access to, how it is communicated or inferred, and how it becomes part of
+            that actor's mental-state representation.
+          </p>
+        </div>
+
+        <p>
+          <strong>Stage 1</strong> reveals the structural side of this bottleneck. F<sub>1</sub>
+          shows a consistent gap between Order 0 world facts and actor-specific beliefs. Moving
+          beyond world facts requires the model to determine which facts each actor perceived,
+          missed, remembered, was told, or could infer. Higher-order beliefs require an additional
+          step because the model must represent one actor's view of another actor's information state.
+        </p>
+        <p>
+          <strong>Stage 2</strong> explains the same bottleneck at the schema-label level.
+          <em>Knowledge Access</em> is among the weaker dimensions across models (56.13-74.59%).
+          <em>Representation</em> is also weak for several models (54.33-89.01%). The analysis by
+          belief order shows that Order 1 actor beliefs have the lowest overall labeling accuracy
+          (72.2%), with especially low accuracy for Knowledge Access (59.2%) and Representation
+          (60.1%). Order 2+ accuracy is higher overall (75.3%), so the results do not show a
+          monotonic decline with belief order.
+        </p>
+        <p>
+          The gap between stages is itself diagnostic: models label provided belief propositions far
+          better (up to 85.95%) than they extract those propositions from raw text (up to 61.63%).
+          Current LLMs are much better at operating over an explicit belief structure once it is given
+          than at constructing that structure directly from story text, a distinction invisible to
+          endpoint QA benchmarks.
+        </p>
+      </div>
+    </div>
+
+    <div class="figure-pair">
+      <figure class="paper-figure paper-figure--heatmap">
+        <img src="./static/images/figure5a_stage1_order_f1_heatmap.png?v=20261027-font-refresh"
+             alt="Stage 1 extraction F1 by model and belief-order bucket">
+        <figcaption>
+          <strong>Figure 4a.</strong> Stage 1 extraction F<sub>1</sub> by belief-order bucket.
+          All models show a consistent gap between Order 0 world facts and actor-specific beliefs.
+        </figcaption>
+      </figure>
+      <figure class="paper-figure paper-figure--heatmap">
+        <img src="./static/images/figure5b_stage2_order_dimension_accuracy_heatmap.png?v=20261027-font-refresh"
+             alt="Stage 2 labeling accuracy by belief order and schema dimension">
+        <figcaption>
+          <strong>Figure 4b.</strong> Stage 2 labeling accuracy by belief-order bucket and
+          schema dimension. Order 1 beliefs are the hardest to label, especially for
+          Knowledge Access and Representation.
+        </figcaption>
+      </figure>
+    </div>
+  </div>
+</section>
+
+
+<!-- ==================== BIBTEX ==================== -->
+<section class="section" id="BibTeX">
+  <div class="container is-max-desktop content">
+    <h2 class="title">BibTeX</h2>
+    <pre><code>@article{bawatneh2026omnitom,
+  title   = {OmniToM: Benchmarking Theory of Mind in LLMs via Explicit Belief Modeling},
+  author  = {Bawatneh, Adam and Sapkota, Sagar and Bedi, Amrit Singh and
+             Karmaker, Santu and Shah, Mubarak},
+  journal = {arXiv preprint arXiv:2605.26322},
+  year    = {2026}
+}</code></pre>
+  </div>
+</section>
+
+
+<!-- ==================== FOOTER ==================== -->
+<footer class="footer">
+  <div class="container">
+    <div class="content has-text-centered">
+      <a class="icon-link" href="https://arxiv.org/abs/2605.26322">
+        <i class="ai ai-arxiv"></i>
+      </a>
+      &nbsp;
+      <a class="icon-link" href="https://github.com/BridgeAI-Lab/OMNITOM">
+        <i class="fab fa-github"></i>
+      </a>
+    </div>
+    <div class="columns is-centered">
+      <div class="column is-8">
+        <div class="content has-text-centered" style="font-size: 0.85rem; color: #777;">
+          <p>
+            Website template adapted from
+            <a href="https://github.com/nerfies/nerfies.github.io" style="color: #555;">Nerfies</a>.
+            Story text derived from
+            <a href="https://github.com/zhchen18/ToMBench" style="color: #555;">ToMBench</a>
+            (MIT License, Copyright 2024 Zhuang Chen).
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+
+</body>
+</html>
